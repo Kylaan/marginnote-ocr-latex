@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "16b18d59c42e",
+  "item_id": "16b18d59c42e",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "设 $P=P(x,y,z)$，$Q=Q(x,y,z)$ 均为连续函数，$\\Sigma$ 为曲面 $z=\\sqrt{1-x^2-y^2}$ $(x\\leqslant 0,\\ y\\geqslant 0)$ 的上侧，则 $\\displaystyle\\iint_{\\Sigma}P\\,\\mathrm{d}y\\,\\mathrm{d}z+Q\\,\\mathrm{d}z\\,\\mathrm{d}x=$",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\displaystyle\\iint_{\\Sigma}\\left(\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$."
+    },
+    {
+      "label": "B",
+      "latex": "$\\displaystyle\\iint_{\\Sigma}\\left(-\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$."
+    },
+    {
+      "label": "C",
+      "latex": "$\\displaystyle\\iint_{\\Sigma}\\left(\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$."
+    },
+    {
+      "label": "D",
+      "latex": "$\\displaystyle\\iint_{\\Sigma}\\left(-\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/16b18d59c42e-01.png",
+      "latex": "设 $P=P(x,y,z)$，$Q=Q(x,y,z)$ 均为连续函数，$\\Sigma$ 为曲面 $z=\\sqrt{1-x^2-y^2}$ $(x\\leqslant 0,\\ y\\geqslant 0)$ 的上侧，则 $\\displaystyle\\iint_{\\Sigma}P\\,\\mathrm{d}y\\,\\mathrm{d}z+Q\\,\\mathrm{d}z\\,\\mathrm{d}x=$\nA. $\\displaystyle\\iint_{\\Sigma}\\left(\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$.\nB. $\\displaystyle\\iint_{\\Sigma}\\left(-\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$.\nC. $\\displaystyle\\iint_{\\Sigma}\\left(\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$.\nD. $\\displaystyle\\iint_{\\Sigma}\\left(-\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\,\\mathrm{d}y$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片多处不符，例如变量 $P(x,y,z)$、$Q(x,y,z)$、根式 $\\sqrt{1-x^2-y^2}$、不等式 $(x\\leqslant 0,\\ y\\geqslant 0)$ 及选项均以图片为准；图片清晰，无其他不确定。"
+}

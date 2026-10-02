@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "1a6cc688a5d8",
+  "item_id": "1a6cc688a5d8",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\mathbf{F}(x,y,z)=xy\\mathbf{i}-yz\\mathbf{j}+zx\\mathbf{k}$，则 $\\operatorname{rot}\\mathbf{F}(1,1,0)=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1a6cc688a5d8-01.png",
+      "latex": "设 $\\mathbf{F}(x,y,z)=xy\\mathbf{i}-yz\\mathbf{j}+zx\\mathbf{k}$，则 $\\operatorname{rot}\\mathbf{F}(1,1,0)=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

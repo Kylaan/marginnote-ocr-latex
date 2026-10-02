@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "312bb8222212",
+  "item_id": "312bb8222212",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "16. 设空间曲线 $\\Gamma:\\begin{cases}|x|+|y|=1,\\\\ z=\\arctan(x+y),\\end{cases}$ 从 $z$ 轴正向往 $z$ 轴负向看，$\\Gamma$ 的方向为逆时针，计算\n\\[ I=\\oint_{\\Gamma}(x^2-y)\\,\\mathrm{d}x+(2x+y^2)\\,\\mathrm{d}y+z^2\\,\\mathrm{d}z. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/312bb8222212-01.png",
+      "latex": "16. 设空间曲线 $\\Gamma:\\begin{cases}|x|+|y|=1,\\\\ z=\\arctan(x+y),\\end{cases}$ 从 $z$ 轴正向往 $z$ 轴负向看，$\\Gamma$ 的方向为逆时针，计算\n\\[ I=\\oint_{\\Gamma}(x^2-y)\\,\\mathrm{d}x+(2x+y^2)\\,\\mathrm{d}y+z^2\\,\\mathrm{d}z. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

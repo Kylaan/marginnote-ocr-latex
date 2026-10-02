@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "b4247beff68e",
+  "item_id": "b4247beff68e",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(1) 设 $f(x)$ 有二阶连续导数，$f(0)=0$，$f'(0)=1$，曲线积分\n\\[ I=\\int_L [xe^{2x}-6f(x)]\\sin y\\,dx-[5f(x)-f'(x)]\\cos y\\,dy \\]\n与路径无关，求 $f(x)$ 的表达式.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b4247beff68e-01.png",
+      "latex": "(1) 设 $f(x)$ 有二阶连续导数，$f(0)=0$，$f'(0)=1$，曲线积分\n\\[ I=\\int_L [xe^{2x}-6f(x)]\\sin y\\,dx-[5f(x)-f'(x)]\\cos y\\,dy \\]\n与路径无关，求 $f(x)$ 的表达式."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

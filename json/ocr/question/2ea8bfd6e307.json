@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2ea8bfd6e307",
+  "item_id": "2ea8bfd6e307",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "平面 \\(\\Pi:x-2y+2z+9=0\\) 与以点 \\(M_0(2,0,-1)\\) 为球心的球面相切，则该球面的方程是 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2ea8bfd6e307-01.png",
+      "latex": "平面 \\(\\Pi:x-2y+2z+9=0\\) 与以点 \\(M_0(2,0,-1)\\) 为球心的球面相切，则该球面的方程是 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中写作“II”和“M02,0,-1”，图片中为“\\(\\Pi\\)”和“\\(M_0(2,0,-1)\\)”。"
+}

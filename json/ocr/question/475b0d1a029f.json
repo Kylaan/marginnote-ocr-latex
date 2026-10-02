@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "475b0d1a029f",
+  "item_id": "475b0d1a029f",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设向量场 $\\boldsymbol{A}(x,y,z)=e^{xy}\\boldsymbol{i}+y\\ln z\\,\\boldsymbol{j}+\\sin xyz\\,\\boldsymbol{k}$，则其在点 $(0,1,1)$ 处的旋度 $\\operatorname{rot}\\boldsymbol{A}\\big|_{(0,1,1)}$ 的长度为 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/475b0d1a029f-01.png",
+      "latex": "设向量场 $\\boldsymbol{A}(x,y,z)=e^{xy}\\boldsymbol{i}+y\\ln z\\,\\boldsymbol{j}+\\sin xyz\\,\\boldsymbol{k}$，则其在点 $(0,1,1)$ 处的旋度 $\\operatorname{rot}\\boldsymbol{A}\\big|_{(0,1,1)}$ 的长度为 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1825463ae2f3",
+  "item_id": "1825463ae2f3",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(16) 已知点 $A(0,0,0)$ 与 $B(0,1,1)$，$\\Sigma$ 是由直线段 $\\overline{AB}$ 绕 $z$ 轴旋转一周所得的旋转曲面（介于 $z=1$ 与 $z=2$ 之间部分的内侧），$f(x)$ 可导.\n(I) 求曲面 $\\Sigma$ 的方程；\n(II) 计算 $I=\\iint_{\\Sigma}\\left[x f\\left(\\frac{x}{y}\\right)+x\\right]\\mathrm{d}y\\mathrm{d}z+\\left[y f\\left(\\frac{x}{y}\\right)+y\\right]\\mathrm{d}z\\mathrm{d}x+\\left[z f\\left(\\frac{x}{y}\\right)+4z\\right]\\mathrm{d}x\\mathrm{d}y.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1825463ae2f3-01.png",
+      "latex": "(16) 已知点 $A(0,0,0)$ 与 $B(0,1,1)$，$\\Sigma$ 是由直线段 $\\overline{AB}$ 绕 $z$ 轴旋转一周所得的旋转曲面（介于 $z=1$ 与 $z=2$ 之间部分的内侧），$f(x)$ 可导.\n(I) 求曲面 $\\Sigma$ 的方程；\n(II) 计算 $I=\\iint_{\\Sigma}\\left[x f\\left(\\frac{x}{y}\\right)+x\\right]\\mathrm{d}y\\mathrm{d}z+\\left[y f\\left(\\frac{x}{y}\\right)+y\\right]\\mathrm{d}z\\mathrm{d}x+\\left[z f\\left(\\frac{x}{y}\\right)+4z\\right]\\mathrm{d}x\\mathrm{d}y.$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中括号、求和符号及积分表达式有缺失或 OCR 误差，已按图片转写。"
+}

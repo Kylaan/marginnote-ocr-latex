@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "be124c752c01",
+  "item_id": "be124c752c01",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma$ 为曲面 $4x^2+y^2+z^2=1\\ (z\\ge0)$ 的下侧，计算曲面积分 \\[ I = \\iint\\limits_{\\Sigma}(x+2y)\\,\\mathrm{d}y\\mathrm{d}z + \\frac{z}{\\sqrt{x^2+y^2+z^2}}\\,\\mathrm{d}z\\mathrm{d}x + \\left(x^2-\\frac{y}{\\sqrt{x^2+y^2+z^2}}\\right)\\,\\mathrm{d}x\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/be124c752c01-01.png",
+      "latex": "19 设 $\\Sigma$ 为曲面 $4x^2+y^2+z^2=1\\ (z\\ge0)$ 的下侧，计算曲面积分 \\[ I = \\iint\\limits_{\\Sigma}(x+2y)\\,\\mathrm{d}y\\mathrm{d}z + \\frac{z}{\\sqrt{x^2+y^2+z^2}}\\,\\mathrm{d}z\\mathrm{d}x + \\left(x^2-\\frac{y}{\\sqrt{x^2+y^2+z^2}}\\right)\\,\\mathrm{d}x\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容有较多 OCR 差异，已以图片为准。"
+}

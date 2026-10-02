@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "e8daefd3df6f",
+  "item_id": "e8daefd3df6f",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "（3）在曲线 $x=t,y=-t^2,z=t^3$ 的所有切线中,与平面 $x+2y+z=4$ 平行的切线（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "只有 1 条."
+    },
+    {
+      "label": "B",
+      "latex": "只有 2 条."
+    },
+    {
+      "label": "C",
+      "latex": "至少有 3 条."
+    },
+    {
+      "label": "D",
+      "latex": "不存在."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e8daefd3df6f-01.png",
+      "latex": "（3）在曲线 $x=t,y=-t^2,z=t^3$ 的所有切线中,与平面 $x+2y+z=4$ 平行的切线（ ）\n（A）只有 1 条.　　（B）只有 2 条.\n（C）至少有 3 条.　　（D）不存在."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲线表达式有缺失/错乱；图片显示为 $x=t,y=-t^2,z=t^3$。"
+}

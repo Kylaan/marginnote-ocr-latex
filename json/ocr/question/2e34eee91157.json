@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2e34eee91157",
+  "item_id": "2e34eee91157",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "9. 设函数 $f(x),g(x)$ 二阶导数连续，$f(0)=0$，$g(0)=0$，且对于平面上任一简单闭曲线 $L$，均有\n\\[\n\\oint_L [y^2 f(x)+2y\\mathrm{e}^x+2y g(x)]\\,\\mathrm{d}x+2[y g(x)+f(x)]\\,\\mathrm{d}y=0.\n\\]\n(1) 求 $f(x)$，$g(x)$ 的表达式；\n(2) 设 $L_1$ 为任一条从点 $(0,0)$ 到点 $(1,1)$ 的曲线，计算\n\\[\n\\int_{L_1} [y^2 f(x)+2y\\mathrm{e}^x+2y g(x)]\\,\\mathrm{d}x+2[y g(x)+f(x)]\\,\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2e34eee91157-01.png",
+      "latex": "9. 设函数 $f(x),g(x)$ 二阶导数连续，$f(0)=0$，$g(0)=0$，且对于平面上任一简单闭曲线 $L$，均有\n\\[\n\\oint_L [y^2 f(x)+2y\\mathrm{e}^x+2y g(x)]\\,\\mathrm{d}x+2[y g(x)+f(x)]\\,\\mathrm{d}y=0.\n\\]\n(1) 求 $f(x)$，$g(x)$ 的表达式；\n(2) 设 $L_1$ 为任一条从点 $(0,0)$ 到点 $(1,1)$ 的曲线，计算\n\\[\n\\int_{L_1} [y^2 f(x)+2y\\mathrm{e}^x+2y g(x)]\\,\\mathrm{d}x+2[y g(x)+f(x)]\\,\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已按图片转写。"
+}

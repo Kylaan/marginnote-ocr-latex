@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "067098b309a3",
+  "item_id": "067098b309a3",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设空间有界区域 \\(\\Omega\\) 由柱面 \\(x^2+y^2=1\\) 与平面 \\(z=0\\) 和 \\(x+z=1\\) 围成，\\(\\Sigma\\) 为 \\(\\Omega\\) 边界面的外侧，计算曲面积分\n\\[I=\\oiint\\limits_{\\Sigma} 2xz\\,dy\\,dz+xz\\cos y\\,dz\\,dx+3yz\\sin x\\,dx\\,dy.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/067098b309a3-01.png",
+      "latex": "设空间有界区域 \\(\\Omega\\) 由柱面 \\(x^2+y^2=1\\) 与平面 \\(z=0\\) 和 \\(x+z=1\\) 围成，\\(\\Sigma\\) 为 \\(\\Omega\\) 边界面的外侧，计算曲面积分\n\\[I=\\oiint\\limits_{\\Sigma} 2xz\\,dy\\,dz+xz\\cos y\\,dz\\,dx+3yz\\sin x\\,dx\\,dy.\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“柱面x+y2=1”“J为Q边界面的外侧”等与图片不符；图片对应内容为“柱面 x^2+y^2=1”“Σ为Ω边界面的外侧”。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c6c339229ff1",
+  "item_id": "c6c339229ff1",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 \\(L\\) 为正向圆周 \\(x^2+y^2=2\\) 在第一象限中的部分，则曲线积分 \\(\\int_L x\\,dy - 2y\\,dx\\) 的值为 \\underline{\\hspace{4em}}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c6c339229ff1-01.png",
+      "latex": "设 \\(L\\) 为正向圆周 \\(x^2+y^2=2\\) 在第一象限中的部分，则曲线积分 \\(\\int_L x\\,dy - 2y\\,dx\\) 的值为 \\underline{\\hspace{4em}}"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致：raw_text 作“1”“+y=2”“xdy－2ydr”，图片为 \\(L\\)、\\(x^2+y^2=2\\)、\\(x\\,dy-2y\\,dx\\)，已按图片转写。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "14561e0cee33",
+  "item_id": "14561e0cee33",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(14) 设立体 $\\Omega$ 由曲面 $\\Sigma:x^{2}+y^{2}=-2x(z-1)\\ (0\\leqslant z\\leqslant 1)$ 与平面 $z=0$ 围成.$\\Omega$ 的密度 $\\rho=1$.\n\n(I) 求 $\\Omega$ 的形心坐标 $\\bar{x}$;\n\n(II) 计算 $I=\\iint_{\\Sigma}\\dfrac{2x^{2}}{\\sqrt{4x^{4}+(x^{2}+y^{2})^{2}}}dS$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/14561e0cee33-01.png",
+      "latex": "(14) 设立体 $\\Omega$ 由曲面 $\\Sigma:x^{2}+y^{2}=-2x(z-1)\\ (0\\leqslant z\\leqslant 1)$ 与平面 $z=0$ 围成.$\\Omega$ 的密度 $\\rho=1$.\n\n(I) 求 $\\Omega$ 的形心坐标 $\\bar{x}$;\n\n(II) 计算 $I=\\iint_{\\Sigma}\\dfrac{2x^{2}}{\\sqrt{4x^{4}+(x^{2}+y^{2})^{2}}}dS$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面方程与积分表达式严重缺漏（如 '-2x z-1'、'∑2x2 4x4+ x2+y2 2 dS'），已按图片转写。图片中积分号下角标为 $\\Sigma$，二重积分号与下标印刷较紧凑。"
+}

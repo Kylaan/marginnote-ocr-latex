@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d1bfe1999838",
+  "item_id": "d1bfe1999838",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma:(x-a)^2+(y-a)^2+(z-a)^2=2a^2(a>0)$，则 $I=\\oiint_{\\Sigma}(x+y+z-\\sqrt{3}a)dS=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d1bfe1999838-01.png",
+      "latex": "设 $\\Sigma:(x-a)^2+(y-a)^2+(z-a)^2=2a^2(a>0)$，则 $I=\\oiint_{\\Sigma}(x+y+z-\\sqrt{3}a)dS=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的符号与表达式有误，已按图片转写。"
+}

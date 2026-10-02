@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "31e60f5f40c3",
+  "item_id": "31e60f5f40c3",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "积分 $I=\\int_0^1 dx \\int_0^{1-x} dz \\int_0^{1-x-z} (1-y)e^{-(1-y-z)^2} dy=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/31e60f5f40c3-01.png",
+      "latex": "积分 $I=\\int_0^1 dx \\int_0^{1-x} dz \\int_0^{1-x-z} (1-y)e^{-(1-y-z)^2} dy=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

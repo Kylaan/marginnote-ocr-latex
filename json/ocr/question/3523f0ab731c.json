@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "3523f0ab731c",
+  "item_id": "3523f0ab731c",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "设 $\\Sigma$ 是球面 $x^2+y^2+z^2=a^2$ 的外侧，$\\alpha,\\beta,\\gamma$ 为其法向量的方向角，则积分\n\\[\\iint_{\\Sigma}(x^3\\cos\\alpha+y^3\\cos\\beta+z^3\\cos\\gamma)dS\\]\n的值为",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$4\\pi a^5$."
+    },
+    {
+      "label": "B",
+      "latex": "$\\frac{12}{5}\\pi a^9$."
+    },
+    {
+      "label": "C",
+      "latex": "$4\\pi a^4$."
+    },
+    {
+      "label": "D",
+      "latex": "$\\frac{6}{5}\\pi a^5$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3523f0ab731c-01.png",
+      "latex": "357 设 $\\Sigma$ 是球面 $x^2+y^2+z^2=a^2$ 的外侧，$\\alpha,\\beta,\\gamma$ 为其法向量的方向角，则积分\n\\[\\iint_{\\Sigma}(x^3\\cos\\alpha+y^3\\cos\\beta+z^3\\cos\\gamma)dS\\]\n的值为\n\nA. $4\\pi a^5$. \\qquad B. $\\frac{12}{5}\\pi a^9$. \\qquad C. $4\\pi a^4$. \\qquad D. $\\frac{6}{5}\\pi a^5$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

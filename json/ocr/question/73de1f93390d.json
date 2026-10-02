@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "73de1f93390d",
+  "item_id": "73de1f93390d",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲线 $L$ 为圆周 $x^2 + y^2 = 1$，沿逆时针方向，则 $I = \\oint_{L} |y^2 - x| \\, \\mathrm{d}x + x^3 \\mathrm{d}y = \\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/73de1f93390d-01.png",
+      "latex": "设曲线 $L$ 为圆周 $x^2 + y^2 = 1$，沿逆时针方向，则 $I = \\oint_{L} |y^2 - x| \\, \\mathrm{d}x + x^3 \\mathrm{d}y = \\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的积分表达式与图片不一致，已以图片为准转写；图片内容清晰。"
+}

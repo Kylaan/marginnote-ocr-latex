@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "qid": "8db1b12ccdff",
+  "item_id": "8db1b12ccdff",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "18 设 \\(\\Sigma\\) 为曲面 \\(z=1-x^2-2y^2(z\\ge0)\\) 的上侧，\\(f(x)\\) 是连续函数，计算\n\\[\nI=\\iint_\\Sigma 2y^2f(x+y)dydz+xy\\left[\\frac14-f(x-y)\\right]dzdx+(z-xy^2)dxdy.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8db1b12ccdff-01.png",
+      "latex": "\\text{解}\n由于曲面 \\(\\Sigma\\) 取上侧，故 \\(\\Sigma\\) 的法向量 \\(\\boldsymbol{n}\\) 与 \\(z\\) 轴正向成锐角。记 \\(F(x,y,z)=x^2+2y^2+z-1\\)，可得 \\(\\boldsymbol{n}=(F'_x,F'_y,F'_z)=(2x,4y,1)\\)，\\(\\boldsymbol{n}\\) 对应的单位法向量\n\\[\n(\\cos\\alpha,\\cos\\beta,\\cos\\gamma)=\\left(\\frac{2x}{\\sqrt{4x^2+16y^2+1}},\\frac{4y}{\\sqrt{4x^2+16y^2+1}},\\frac{1}{\\sqrt{4x^2+16y^2+1}}\\right).\n\\]\n进一步可得 \\(\\frac{\\cos\\alpha}{\\cos\\gamma}=2x,\\frac{\\cos\\beta}{\\cos\\gamma}=4y.\\)\n记 \\(D\\) 为 \\(\\Sigma\\) 在 \\(xOy\\) 面上的投影区域。利用两类曲面积分之间的联系，可得\n\\[\nI=\\iint_\\Sigma 2y^2f(x+y)\\,dydz+xy\\left[\\frac14-f(x-y)\\right]dzdx+(z-xy^2)dxdy\n\\]\n\\[\n=\\iint_\\Sigma\\left\\{2y^2f(x+y)\\cdot\\frac{\\cos\\alpha}{\\cos\\gamma}+xy\\left[\\frac14-f(x-y)\\right]\\cdot\\frac{\\cos\\beta}{\\cos\\gamma}+z-xy^2\\right\\}dxdy\n\\]\n\\[\n=\\iint_\\Sigma\\left\\{2y^2f(x+y)\\cdot2x+xy\\left[\\frac14-f(x-y)\\right]\\cdot4y+z-xy^2\\right\\}dxdy\n\\]\n\\[\n=\\iint_\\Sigma\\left[4xy^2f(x+y)-4xy^2f(x-y)+z\\right]dxdy\n\\]\n\\[\n=\\iint_D\\left[4xy^2f(x+y)-4xy^2f(x-y)+1-x^2-2y^2\\right]dxdy.\n\\]\n记 \\(g(x,y)=4xy^2[f(x+y)-f(x-y)]\\)，则\n\\[\ng(x,-y)=4xy^2[f(x-y)-f(x+y)]=-g(x,y).\n\\]\n由此可得，\\(g(x,y)\\) 是关于 \\(y\\) 的奇函数，而区域 \\(D=\\{(x,y)\\mid x^2+2y^2\\le1\\}\\) 是 \\(xOy\\) 面上关于 \\(x\\) 轴，\\(y\\) 轴均对称的一个椭圆盘，故 \\(\\iint_D g(x,y)dxdy=0\\)，进一步可得\n\\[\nI=\\iint_D(1-x^2-2y^2)dxdy\\xlongequal{对称性}D\\text{的面积}-4\\iint_{D_1}(x^2+2y^2)dxdy,\n\\]\n其中 \\(D_1\\) 是 \\(D\\) 位于第一象限的部分。\n由椭圆的面积公式可得，\\(D\\) 的面积 \\(=\\pi\\cdot1\\cdot\\frac{1}{\\sqrt2}=\\frac{\\sqrt2\\pi}{2}\\).\n将 \\(D_1\\) 写成 X 型区域。\n\\[\nD_1=\\left\\{(x,y)\\left|0\\le y\\le\\sqrt{\\frac{1-x^2}{2}},0\\le x\\le1\\right.\\right\\}.\n\\]\n于是，\n\\[\n\\iint_{D_1}(x^2+2y^2)dxdy=\\int_0^1dx\\int_0^{\\sqrt{\\frac{1-x^2}{2}}}(x^2+2y^2)dy=\\int_0^1\\left.\\left(x^2y+\\frac23y^3\\right)\\right|_0^{\\sqrt{\\frac{1-x^2}{2}}}dx\n\\]\n\\[\n=\\int_0^1\\left(x^2\\sqrt{\\frac{1-x^2}{2}}+\\frac23\\cdot\\frac{1-x^2}{2}\\cdot\\sqrt{\\frac{1-x^2}{2}}\\right)dx\n\\]\n\\[\n\\xlongequal{x=\\sin t}\\frac{1}{\\sqrt2}\\int_0^{\\frac{\\pi}{2}}\\left(\\sin^2t\\cos^2t+\\frac13\\cos^4t\\right)dt\n\\]\n\\[\n=\\frac{1}{\\sqrt2}\\int_0^{\\frac{\\pi}{2}}\\left[(1-\\cos^2t)\\cos^2t+\\frac13\\cos^4t\\right]dt\n\\]"
+    },
+    {
+      "image": "img/question/8db1b12ccdff-02.png",
+      "latex": "\\[\n=\\frac{1}{\\sqrt2}\\int_0^{\\frac{\\pi}{2}}\\left(\\cos^2t-\\frac23\\cos^4t\\right)dt\n\\]\n\\[\n=\\frac{1}{\\sqrt2}\\left(\\frac{\\pi}{2}\\cdot\\frac12-\\frac23\\cdot\\frac{\\pi}{2}\\cdot\\frac34\\cdot\\frac12\\right)=\\frac{\\sqrt2\\pi}{16}.\n\\]\n因此，\\(I=\\frac{\\sqrt2\\pi}{2}-4\\cdot\\frac{\\sqrt2\\pi}{16}=\\frac{\\sqrt2\\pi}{4}\\).\n\\[\n\\text{注}\n\\]\n如果对二重积分换元法比较熟悉，那么也可以如下计算 \\(\\iint_{D_1}(x^2+2y^2)dxdy\\).\n令\n\\[\n\\begin{cases}\nx=r\\cos\\theta,\\\\\ny=\\frac{r}{\\sqrt2}\\sin\\theta,\n\\end{cases}\n\\]\n则在该变换下，\\(D_1\\) 变成 \\(D_2=\\left\\{(r,\\theta)\\left|0\\le r\\le1,0\\le\\theta\\le\\frac{\\pi}{2}\\right.\\right\\}\\)，\\(J(r,\\theta)=\\begin{vmatrix}\\cos\\theta&-r\\sin\\theta\\\\\\frac{\\sin\\theta}{\\sqrt2}&\\frac{r}{\\sqrt2}\\cos\\theta\\end{vmatrix}=\\frac{r}{\\sqrt2}\\). 于是，\n\\[\n\\iint_{D_1}(x^2+2y^2)dxdy=\\iint_{D_2}r^2\\cdot\\frac{r}{\\sqrt2}drd\\theta=\\frac{1}{\\sqrt2}\\int_0^{\\frac{\\pi}{2}}d\\theta\\int_0^1r^3dr=\\frac{1}{\\sqrt2}\\cdot\\frac{\\pi}{2}\\cdot\\frac14=\\frac{\\sqrt2\\pi}{16}.\n\\]"
+    },
+    {
+      "image": "img/question/8db1b12ccdff-03.png",
+      "latex": "18 设 \\(\\Sigma\\) 为曲面 \\(z=1-x^2-2y^2(z\\ge0)\\) 的上侧，\\(f(x)\\) 是连续函数，计算\n\\[\nI=\\iint_\\Sigma 2y^2f(x+y)dydz+xy\\left[\\frac14-f(x-y)\\right]dzdx+(z-xy^2)dxdy.\n\\]"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [
+    "possible_answer_content",
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已按图片转写。"
+}

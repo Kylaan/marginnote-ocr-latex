@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "551ef345b463",
+  "item_id": "551ef345b463",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(1) 设 $L$ 为由 $r=a\\ (a>0)$，$\\theta=0$ 和 $\\theta=\\frac{\\pi}{4}$ 所围凸平面区域的边界，$(r,\\theta)$ 为极坐标，计算 \\[ I=\\int_L e^{\\sqrt{x^2+y^2}}\\,ds. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/551ef345b463-01.png",
+      "latex": "(1) 设 $L$ 为由 $r=a\\ (a>0)$，$\\theta=0$ 和 $\\theta=\\frac{\\pi}{4}$ 所围凸平面区域的边界，$(r,\\theta)$ 为极坐标，计算 $I=\\int_L e^{\\sqrt{x^2+y^2}}\\,ds.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中部分符号与图片不一致，已以图片为准转写。"
+}

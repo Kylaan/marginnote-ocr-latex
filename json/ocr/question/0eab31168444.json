@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "0eab31168444",
+  "item_id": "0eab31168444",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "6 直线 $l:\\begin{cases}3x+y+2z-2=0,\\\\x+2y-z-\\frac{3}{2}=0\\end{cases}$ 绕 $z$ 轴旋转一周的曲面记为 $\\Sigma$，则下列说法中，正确的是（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "直线 $x-\\frac{1}{2}=\\frac{1}{2}-y=-z$ 在曲面 $\\Sigma$ 上."
+    },
+    {
+      "label": "B",
+      "latex": "直线 $\\begin{cases}y=\\sqrt{2}z,\\\\x=0\\end{cases}$ 在 $\\Sigma$ 上."
+    },
+    {
+      "label": "C",
+      "latex": "曲面 $\\Sigma$ 的方程为 $-x^2+y^2+2z^2=\\frac{1}{2}$."
+    },
+    {
+      "label": "D",
+      "latex": "曲面 $\\Sigma$ 的方程为 $x^2-y^2+2z^2=\\frac{1}{2}$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0eab31168444-01.png",
+      "latex": "6 直线 $l:\\begin{cases}3x+y+2z-2=0,\\\\x+2y-z-\\frac{3}{2}=0\\end{cases}$ 绕 $z$ 轴旋转一周的曲面记为 $\\Sigma$，则下列说法中，正确的是（ ）\n\n(A) 直线 $x-\\frac{1}{2}=\\frac{1}{2}-y=-z$ 在曲面 $\\Sigma$ 上.\n\n(B) 直线 $\\begin{cases}y=\\sqrt{2}z,\\\\x=0\\end{cases}$ 在 $\\Sigma$ 上.\n\n(C) 曲面 $\\Sigma$ 的方程为 $-x^2+y^2+2z^2=\\frac{1}{2}$.\n\n(D) 曲面 $\\Sigma$ 的方程为 $x^2-y^2+2z^2=\\frac{1}{2}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

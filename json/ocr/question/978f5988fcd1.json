@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "978f5988fcd1",
+  "item_id": "978f5988fcd1",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "已知曲线 \\(L: y=x^2(0\\leqslant x\\leqslant \\sqrt{2})\\)，则 \\(\\int_L x\\,\\mathrm{d}s=\\underline{\\hspace{4em}}\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/978f5988fcd1-01.png",
+      "latex": "已知曲线 \\(L: y=x^2(0\\leqslant x\\leqslant \\sqrt{2})\\)，则 \\(\\int_L x\\,\\mathrm{d}s=\\underline{\\hspace{4em}}\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲线误作 y=x，且未显示平方；图片明确为 y=x^2。以图片为准。"
+}

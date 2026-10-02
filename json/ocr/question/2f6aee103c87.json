@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2f6aee103c87",
+  "item_id": "2f6aee103c87",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $L$ 为球面 $x^2+y^2+z^2=R^2$ 与平面 $x+y+z=0$ 的交线，则 $I=\\oint_L (z+x^2)\\,ds=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2f6aee103c87-01.png",
+      "latex": "设 $L$ 为球面 $x^2+y^2+z^2=R^2$ 与平面 $x+y+z=0$ 的交线，则 $I=\\oint_L (z+x^2)\\,ds=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分符号及被积函数转写不完整，已以图片为准。"
+}

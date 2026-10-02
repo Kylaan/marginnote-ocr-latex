@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "803519ac016d",
+  "item_id": "803519ac016d",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $z=\\ln\\left(\\mathrm{e}^{-y}+\\dfrac{y^2}{x}\\right)$ 在点 $(1,1)$ 处沿 $l=(1,0)$ 的方向导数为 \\underline{\\hspace{4em}}．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/803519ac016d-01.png",
+      "latex": "$z=\\ln\\left(\\mathrm{e}^{-y}+\\dfrac{y^2}{x}\\right)$ 在点 $(1,1)$ 处沿 $l=(1,0)$ 的方向导数为 \\underline{\\hspace{4em}}．"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

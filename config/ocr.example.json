@@ -1,0 +1,6 @@
+{
+  "base_url": "https://ocr.example.invalid/v1",
+  "model": "YOUR_VISION_MODEL",
+  "proxy": null,
+  "timeout_seconds": 900
+}

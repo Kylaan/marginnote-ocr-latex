@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "88269127e007",
+  "item_id": "88269127e007",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "13. 设 $L$ 为曲线 $y=2\\sqrt{1-x^2}$ 上从点 $(0,2)$ 到点 $(1,0)$ 的一段弧，则曲线积分 $\\displaystyle\\int_L (2y+1)\\,\\mathrm{d}x+(3x+2)\\,\\mathrm{d}y=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/88269127e007-01.png",
+      "latex": "13. 设 $L$ 为曲线 $y=2\\sqrt{1-x^2}$ 上从点 $(0,2)$ 到点 $(1,0)$ 的一段弧，则曲线积分 $\\displaystyle\\int_L (2y+1)\\,\\mathrm{d}x+(3x+2)\\,\\mathrm{d}y=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

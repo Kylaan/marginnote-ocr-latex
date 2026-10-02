@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1a12d7afbab7",
+  "item_id": "1a12d7afbab7",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "在过点 \\(O(0,0)\\) 和 \\(A(\\pi,0)\\) 的曲线族 \\(y=a\\sin x(a>0)\\) 中，求一条曲线 \\(L\\)，使沿该曲线从 \\(O\\) 到 \\(A\\) 的积分\n\\[\n\\int_L (1+y^3)\\mathrm{d}x+(2x+y)\\mathrm{d}y\n\\]\n的值最小。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1a12d7afbab7-01.png",
+      "latex": "在过点 \\(O(0,0)\\) 和 \\(A(\\pi,0)\\) 的曲线族 \\(y=a\\sin x(a>0)\\) 中，求一条曲线 \\(L\\)，使沿该曲线从 \\(O\\) 到 \\(A\\) 的积分\n\\[\n\\int_L (1+y^3)\\mathrm{d}x+(2x+y)\\mathrm{d}y\n\\]\n的值最小。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“O(0.0)”“4z,0)”“(1+y)dr”等与图片不符；图片分别为 O(0,0)、A(π,0) 和 (1+y^3)dx。"
+}

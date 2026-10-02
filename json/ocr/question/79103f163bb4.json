@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "79103f163bb4",
+  "item_id": "79103f163bb4",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分 $I=\\oiint_{\\Sigma}\\frac{x\\,\\mathrm{d}y\\,\\mathrm{d}z+y\\,\\mathrm{d}z\\,\\mathrm{d}x+z\\,\\mathrm{d}x\\,\\mathrm{d}y}{(x^2+y^2+z^2)^{\\frac{3}{2}}}$，其中 $\\Sigma$ 是曲面 $2x^2+2y^2+z^2=4$ 的外侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/79103f163bb4-01.png",
+      "latex": "计算曲面积分 $I=\\oiint_{\\Sigma}\\frac{x\\,\\mathrm{d}y\\,\\mathrm{d}z+y\\,\\mathrm{d}z\\,\\mathrm{d}x+z\\,\\mathrm{d}x\\,\\mathrm{d}y}{(x^2+y^2+z^2)^{\\frac{3}{2}}}$，其中 $\\Sigma$ 是曲面 $2x^2+2y^2+z^2=4$ 的外侧."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容明显不一致，已以图片为准。"
+}

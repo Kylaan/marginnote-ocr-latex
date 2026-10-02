@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1d74aa249fa2",
+  "item_id": "1d74aa249fa2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "8. 设函数 \\(f(x,y)=\\begin{cases}\\dfrac{x^2|y|}{x^2+y^2}, & (x,y)\\neq(0,0),\\\\ 0, & (x,y)=(0,0),\\end{cases}\\)，则 \\(f(x,y)\\) 在点 \\((0,0)\\) 处沿 \\(l=(1,1)\\) 的方向导数是 \\underline{\\hspace{4em}}．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1d74aa249fa2-01.png",
+      "latex": "8. 设函数 \\(f(x,y)=\\begin{cases}\\dfrac{x^2|y|}{x^2+y^2}, & (x,y)\\neq(0,0),\\\\ 0, & (x,y)=(0,0),\\end{cases}\\)，则 \\(f(x,y)\\) 在点 \\((0,0)\\) 处沿 \\(l=(1,1)\\) 的方向导数是 \\underline{\\hspace{4em}}．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将分子误作 x2y，图片为 x^2|y|。"
+}

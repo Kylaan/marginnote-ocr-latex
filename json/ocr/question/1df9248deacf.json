@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1df9248deacf",
+  "item_id": "1df9248deacf",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设平面曲线 $L$ 为下半圆 $y=-\\sqrt{1-x^2}$，则曲线积分 $\\int_L (x^2+y^2)\\,ds = \\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1df9248deacf-01.png",
+      "latex": "设平面曲线 $L$ 为下半圆 $y=-\\sqrt{1-x^2}$，则曲线积分 $\\int_L (x^2+y^2)\\,ds = \\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分被误写为 (x+yP)，图片显示为 (x^2+y^2)。"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "12aaa4cedbe0",
+  "item_id": "12aaa4cedbe0",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "347 设 $L$ 是以 $A(1,0),B(0,1),C(-1,0),D(0,-1)$ 为顶点的正方形边界，则 $\\oint_{L} \\frac{x+y+1}{|x|+|y|} ds$ 等于",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$4\\sqrt{2}$."
+    },
+    {
+      "label": "B",
+      "latex": "$0$."
+    },
+    {
+      "label": "C",
+      "latex": "$2\\sqrt{2}$."
+    },
+    {
+      "label": "D",
+      "latex": "$4$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/12aaa4cedbe0-01.png",
+      "latex": "347 设 $L$ 是以 $A(1,0),B(0,1),C(-1,0),D(0,-1)$ 为顶点的正方形边界，则 $\\oint_{L} \\frac{x+y+1}{|x|+|y|} ds$ 等于\n\nA. $4\\sqrt{2}$.  B. $0$.  C. $2\\sqrt{2}$.  D. $4$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

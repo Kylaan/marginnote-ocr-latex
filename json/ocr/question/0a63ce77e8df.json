@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "0a63ce77e8df",
+  "item_id": "0a63ce77e8df",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设空间曲线 $\\Gamma:\\begin{cases} x^2+y^2+z^2=1,\\\\ x=y, \\end{cases}$ 则 $\\int_{\\Gamma} (x^2+y^2)\\,\\mathrm{d}s = \\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0a63ce77e8df-01.png",
+      "latex": "设空间曲线 $\\Gamma:\\begin{cases} x^2+y^2+z^2=1,\\\\ x=y, \\end{cases}$ 则 $\\int_{\\Gamma} (x^2+y^2)\\,\\mathrm{d}s = \\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 为乱码，与图片不符；已以图片为准。"
+}

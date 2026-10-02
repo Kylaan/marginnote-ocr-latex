@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "02155ffac1da",
+  "item_id": "02155ffac1da",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设曲面 $\\Sigma:z=1-x^2-y^2(z\\geq -3)$，取上侧，求曲面积分\n\\[ I=\\iint_{\\Sigma} yz\\sqrt{x^2+y^2+z^2}\\,\\mathrm{d}y\\mathrm{d}z + xz\\sqrt{x^2+y^2+z^2}\\,\\mathrm{d}z\\mathrm{d}x + (x^2y^2-2xy\\sqrt{x^2+y^2+z^2})\\,\\mathrm{d}x\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/02155ffac1da-01.png",
+      "latex": "设曲面 $\\Sigma:z=1-x^2-y^2(z\\geq -3)$，取上侧，求曲面积分\n\\[ I=\\iint_{\\Sigma} yz\\sqrt{x^2+y^2+z^2}\\,\\mathrm{d}y\\mathrm{d}z + xz\\sqrt{x^2+y^2+z^2}\\,\\mathrm{d}z\\mathrm{d}x + (x^2y^2-2xy\\sqrt{x^2+y^2+z^2})\\,\\mathrm{d}x\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 缺少根号及括号，且与图片不一致；以图片为准。"
+}

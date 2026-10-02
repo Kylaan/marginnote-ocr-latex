@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "e2004b44a6de",
+  "item_id": "e2004b44a6de",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $V$ 是由曲面 $x^{2}+y^{2}-2z^{2}=1$、平面 $z=1$ 及 $z=2$ 所围成的区域，则 $I=\\iiint_{V} z\\,dV=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e2004b44a6de-01.png",
+      "latex": "设 $V$ 是由曲面 $x^{2}+y^{2}-2z^{2}=1$、平面 $z=1$ 及 $z=2$ 所围成的区域，则 $I=\\iiint_{V} z\\,dV=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

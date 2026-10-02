@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "fc3d0c0ae542",
+  "item_id": "fc3d0c0ae542",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "341 直线 $L:\\frac{x-2}{2}=\\frac{y-1}{1}=\\frac{z-3}{1}$ 与平面 $\\Pi:x-y+2z+4=0$ 的夹角为",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\pi$."
+    },
+    {
+      "label": "B",
+      "latex": "$\\frac{\\pi}{3}$."
+    },
+    {
+      "label": "C",
+      "latex": "$\\frac{\\pi}{6}$."
+    },
+    {
+      "label": "D",
+      "latex": "$\\frac{\\pi}{2}$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/fc3d0c0ae542-01.png",
+      "latex": "341 直线 $L:\\frac{x-2}{2}=\\frac{y-1}{1}=\\frac{z-3}{1}$ 与平面 $\\Pi:x-y+2z+4=0$ 的夹角为\n\nA. $\\pi$. B. $\\frac{\\pi}{3}$. C. $\\frac{\\pi}{6}$. D. $\\frac{\\pi}{2}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的选项分数（如 π3、π6）与图片中的 π/3、π/6 不一致；以图片为准。"
+}

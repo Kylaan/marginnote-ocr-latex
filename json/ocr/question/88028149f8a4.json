@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "88028149f8a4",
+  "item_id": "88028149f8a4",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲面 $z-\\mathrm{e}^z+2xy=3$ 在点 $(1,2,0)$ 处的切平面方程为 $\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/88028149f8a4-01.png",
+      "latex": "曲面 $z-\\mathrm{e}^z+2xy=3$ 在点 $(1,2,0)$ 处的切平面方程为 $\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中写作 z-e+2xy，缺少指数符号；图片显示为 z-e^z+2xy。"
+}

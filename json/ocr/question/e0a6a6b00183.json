@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "qid": "e0a6a6b00183",
+  "item_id": "e0a6a6b00183",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $(\\mathbf{a}\\times\\mathbf{b})\\cdot\\mathbf{c}=2$，则 $[(\\mathbf{a}+\\mathbf{b})\\times(\\mathbf{b}+\\mathbf{c})]\\cdot(\\mathbf{c}+\\mathbf{a})=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e0a6a6b00183-01.png",
+      "latex": "【答案】 4\n\n【解析】利用向量运算律有\n\\[\n[(\\vec{a}+\\vec{b})\\times(\\vec{b}+\\vec{c})]\\cdot(\\vec{c}+\\vec{a})\n\\]\n\\[\n=[(\\vec{a}+\\vec{b})\\times\\vec{b}]\\cdot(\\vec{c}+\\vec{a})+[(\\vec{a}+\\vec{b})\\times\\vec{c}]\\cdot(\\vec{c}+\\vec{a})\n\\]\n\\[\n=(\\vec{a}\\times\\vec{b}+\\vec{b}\\times\\vec{b})\\cdot(\\vec{c}+\\vec{a})+(\\vec{a}\\times\\vec{c}+\\vec{b}\\times\\vec{c})\\cdot(\\vec{c}+\\vec{a})\\quad (\\text{其中 }\\vec{b}\\times\\vec{b}=0)\n\\]\n\\[\n=(\\vec{a}\\times\\vec{b})\\cdot\\vec{c}+(\\vec{a}\\times\\vec{b})\\cdot\\vec{a}+(\\vec{a}\\times\\vec{c})\\cdot\\vec{c}+(\\vec{b}\\times\\vec{c})\\cdot\\vec{a}\n\\]\n\\[\n=(\\vec{a}\\times\\vec{b})\\cdot\\vec{c}+(\\vec{b}\\times\\vec{c})\\cdot\\vec{a}\n\\]\n\\[\n=(\\vec{a}\\times\\vec{b})\\cdot\\vec{c}+(\\vec{a}\\times\\vec{b})\\cdot\\vec{c}=4.\n\\]"
+    },
+    {
+      "image": "img/question/e0a6a6b00183-02.png",
+      "latex": "设 $(\\mathbf{a}\\times\\mathbf{b})\\cdot\\mathbf{c}=2$，则 $[(\\mathbf{a}+\\mathbf{b})\\times(\\mathbf{b}+\\mathbf{c})]\\cdot(\\mathbf{c}+\\mathbf{a})=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "possible_answer_content",
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的“(axb)-c”等与图片不一致，已按图片转写；第一张图片含答案与解析。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "25ace12b250c",
+  "item_id": "25ace12b250c",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "函数 $u(x,y,z)=xy-2z^2$ 在点 $(1,1,-2)$ 处的最大方向导数为 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/25ace12b250c-01.png",
+      "latex": "函数 $u(x,y,z)=xy-2z^2$ 在点 $(1,1,-2)$ 处的最大方向导数为 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

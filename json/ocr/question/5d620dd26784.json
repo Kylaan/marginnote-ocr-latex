@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5d620dd26784",
+  "item_id": "5d620dd26784",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分\n\\[\nI=\\iint_{\\Sigma} xz\\,\\mathrm{d}y\\mathrm{d}z+2zy\\,\\mathrm{d}z\\mathrm{d}x+3xy\\,\\mathrm{d}x\\mathrm{d}y,\n\\]\n其中 $\\Sigma$ 为曲面 $z=1-x^2-\\frac{y^2}{4}\\ (0\\leqslant z\\leqslant 1)$ 的上侧。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5d620dd26784-01.png",
+      "latex": "计算曲面积分\n\\[\nI=\\iint_{\\Sigma} xz\\,\\mathrm{d}y\\mathrm{d}z+2zy\\,\\mathrm{d}z\\mathrm{d}x+3xy\\,\\mathrm{d}x\\mathrm{d}y,\n\\]\n其中 $\\Sigma$ 为曲面 $z=1-x^2-\\frac{y^2}{4}\\ (0\\leqslant z\\leqslant 1)$ 的上侧。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的被积表达式与图片不一致，已按图片转写。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "bd331fc62762",
+  "item_id": "bd331fc62762",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Gamma$ 为球面 $x^2+y^2+z^2=\\frac{5}{2}$ 与平面 $x+z=1$ 的交线，则曲线积分 $\\int_{\\Gamma}(x^2+y^2+z^2)\\,\\mathrm{d}s=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/bd331fc62762-01.png",
+      "latex": "设 $\\Gamma$ 为球面 $x^2+y^2+z^2=\\frac{5}{2}$ 与平面 $x+z=1$ 的交线，则曲线积分 $\\int_{\\Gamma}(x^2+y^2+z^2)\\,\\mathrm{d}s=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致，已按图片转写。"
+}

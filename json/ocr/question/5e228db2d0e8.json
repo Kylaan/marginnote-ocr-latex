@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "5e228db2d0e8",
+  "item_id": "5e228db2d0e8",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "若向量 $\\boldsymbol{\\alpha}=(1,0,0)$，$\\boldsymbol{\\beta}=(0,1,0)$，$\\boldsymbol{\\gamma}=(0,0,1)$，则 $[(\\boldsymbol{\\alpha}+\\boldsymbol{\\beta}+\\boldsymbol{\\gamma})\\times(\\boldsymbol{\\alpha}+\\boldsymbol{\\beta})]\\cdot\\boldsymbol{\\alpha}=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5e228db2d0e8-01.png",
+      "latex": "7 若向量 $\\boldsymbol{\\alpha}=(1,0,0)$，$\\boldsymbol{\\beta}=(0,1,0)$，$\\boldsymbol{\\gamma}=(0,0,1)$，则 $[(\\boldsymbol{\\alpha}+\\boldsymbol{\\beta}+\\boldsymbol{\\gamma})\\times(\\boldsymbol{\\alpha}+\\boldsymbol{\\beta})]\\cdot\\boldsymbol{\\alpha}=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

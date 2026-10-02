@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "8bce3107d1ef",
+  "item_id": "8bce3107d1ef",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma$ 为球面 $x^2+y^2+z^2=m$ 被平面 $z=\\frac{\\sqrt{m}}{3}$ 所截下的顶部，计算 \\[ \\iint\\limits_{\\Sigma}\\left(|x|y+\\frac{1}{z}\\right)dS. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8bce3107d1ef-01.png",
+      "latex": "设 $\\Sigma$ 为球面 $x^2+y^2+z^2=m$ 被平面 $z=\\frac{\\sqrt{m}}{3}$ 所截下的顶部，计算 \\[ \\iint\\limits_{\\Sigma}\\left(|x|y+\\frac{1}{z}\\right)dS. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片存在差异：raw_text 中平面写作 $z=m3$，积分被积函数转写不完整；图片清晰显示 $z=\\frac{\\sqrt{m}}{3}$ 和 $|x|y+\\frac{1}{z}$。"
+}

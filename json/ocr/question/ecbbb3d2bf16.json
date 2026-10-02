@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "ecbbb3d2bf16",
+  "item_id": "ecbbb3d2bf16",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 已知曲面 $z=4-x^2-y^2$ 上点 $P$ 处的切平面平行于平面 $2x+2y+z-1=0$，则点 $P$ 的坐标是（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$(1,-1,2)$."
+    },
+    {
+      "label": "B",
+      "latex": "$(-1,1,2)$."
+    },
+    {
+      "label": "C",
+      "latex": "$(1,1,2)$."
+    },
+    {
+      "label": "D",
+      "latex": "$(-1,-1,2)$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ecbbb3d2bf16-01.png",
+      "latex": "(2) 已知曲面 $z=4-x^2-y^2$ 上点 $P$ 处的切平面平行于平面 $2x+2y+z-1=0$，则点 $P$ 的坐标是（ ）\n（A）$(1,-1,2)$. （B）$(-1,1,2)$.\n（C）$(1,1,2)$. （D）$(-1,-1,2)$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面方程写作 z=4-2-y2，与图片不一致；图片为 z=4-x^2-y^2。"
+}

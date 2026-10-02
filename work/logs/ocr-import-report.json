@@ -1,0 +1,15 @@
+{
+  "archive_file": "archives/ocr-delivery-sanitized.zip",
+  "sha256": "b28df93d098ab97c358b0bad0d7d1bf96d9d47b4e67faf77414b9fe5370a5f78",
+  "zip_crc_check": "passed",
+  "archived_directory": "产物",
+  "canonical_ocr_directory": "json/ocr/question",
+  "ocr_results": 391,
+  "manifest_id_order_matches": true,
+  "schema_check": "passed",
+  "original_ocr_status": {
+    "ok": 385,
+    "needs_review": 6
+  },
+  "manual_overlay": "json/manual/fixups.json"
+}

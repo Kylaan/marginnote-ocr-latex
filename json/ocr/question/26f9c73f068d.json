@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "26f9c73f068d",
+  "item_id": "26f9c73f068d",
+  "status": "needs_review",
+  "question_type": "solution",
+  "latex": "已知函数 $f(x,y)=x+y+xy$，曲线 $C:x^{2}+y^{2}+xy=3$，求 $f(x,y)$ 在曲线 $C$ 上的最大方向导数.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/26f9c73f068d-01.png",
+      "latex": "已知函数 $f(x,y)=x+y+xy$，曲线 $C:x^{2}+y^{2}+xy=3$，求 $f(x,y)$ 在曲线 $C$ 上的最大方向导数."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中多处字符与图片不符（如 \"x+y+y\"、\"xP+y2+y=3\"、\"/(xy)\"），已按图片内容转写。"
+}

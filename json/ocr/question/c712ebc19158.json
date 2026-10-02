@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c712ebc19158",
+  "item_id": "c712ebc19158",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲面 \\(z=x+2y+\\ln(1+x^2+y^2)\\) 在点 \\((0,0,0)\\) 处的切平面方程为 \\(\\underline{\\hspace{4em}}\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c712ebc19158-01.png",
+      "latex": "曲面 \\(z=x+2y+\\ln(1+x^2+y^2)\\) 在点 \\((0,0,0)\\) 处的切平面方程为 \\(\\underline{\\hspace{4em}}\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "0ec0041d97d2",
+  "item_id": "0ec0041d97d2",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设函数 $f(x)$ 连续且恒大于零，有\n\\[\nF(t)=\\frac{\\iiint_{\\Omega(t)} f(x^{2}+y^{2}+z^{2})\\,\\mathrm{d}v}{\\iint_{D(t)} f(x^{2}+y^{2})\\,\\mathrm{d}\\sigma},\\qquad G(t)=\\frac{\\iint_{D(t)} f(x^{2}+y^{2})\\,\\mathrm{d}\\sigma}{\\int_{-t}^{t} f(x^{2})\\,\\mathrm{d}x}\n\\]\n其中 $\\Omega(t)=\\{(x,y,z)\\mid x^{2}+y^{2}+z^{2}\\leqslant t^{2}\\}$，$D(t)=\\{(x,y)\\mid x^{2}+y^{2}\\leqslant t^{2}\\}$．\n\n（Ⅰ）讨论 $F(t)$ 在区间 $(0,+\\infty)$ 内的单调性；（Ⅱ）证明：当 $t>0$ 时，$F(t)>\\dfrac{2}{\\pi}G(t)$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0ec0041d97d2-01.png",
+      "latex": "设函数 $f(x)$ 连续且恒大于零，有\n\\[\nF(t)=\\frac{\\iiint_{\\Omega(t)} f(x^{2}+y^{2}+z^{2})\\,\\mathrm{d}v}{\\iint_{D(t)} f(x^{2}+y^{2})\\,\\mathrm{d}\\sigma},\\qquad G(t)=\\frac{\\iint_{D(t)} f(x^{2}+y^{2})\\,\\mathrm{d}\\sigma}{\\int_{-t}^{t} f(x^{2})\\,\\mathrm{d}x}\n\\]\n其中 $\\Omega(t)=\\{(x,y,z)\\mid x^{2}+y^{2}+z^{2}\\leqslant t^{2}\\}$，$D(t)=\\{(x,y)\\mid x^{2}+y^{2}\\leqslant t^{2}\\}$．\n\n（Ⅰ）讨论 $F(t)$ 在区间 $(0,+\\infty)$ 内的单调性；（Ⅱ）证明：当 $t>0$ 时，$F(t)>\\dfrac{2}{\\pi}G(t)$．"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式部分（如 \"有+y7+z\")dn\"、\"F()-90\"）为明显的 OCR 噪声，与图片不符；已按图片转写。图片中 \\Omega(t)、D(t) 的定义式中的不等式为 $\\leqslant$，与 raw_text 中的 $\\leq$ 含义一致。"
+}

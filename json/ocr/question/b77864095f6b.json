@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b77864095f6b",
+  "item_id": "b77864095f6b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $V$ 是由曲面 $z=\\sqrt{1-x^{2}-y^{2}}$ 与 $z+1=\\sqrt{x^{2}+y^{2}}$ 所围的区域，计算 $I=\\iiint_{V} z^{2}\\,dV$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b77864095f6b-01.png",
+      "latex": "设 $V$ 是由曲面 $z=\\sqrt{1-x^{2}-y^{2}}$ 与 $z+1=\\sqrt{x^{2}+y^{2}}$ 所围的区域，计算 $I=\\iiint_{V} z^{2}\\,dV$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面方程缺少根号且上标书写不规范，已按图片内容转写。"
+}

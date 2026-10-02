@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "2d0194f9e3d7",
+  "item_id": "2d0194f9e3d7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\alpha$ 与 $\\beta$ 是非零常向量，$|\\beta|=2$（$|\\beta|$ 表示 $\\beta$ 的模），$\\alpha$ 与 $\\beta$ 之间的夹角为 $\\frac{\\pi}{3}$，求 $\\lim\\limits_{x\\to 0}\\frac{|\\alpha+x\\beta|-|\\alpha|}{x}=$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2d0194f9e3d7-01.png",
+      "latex": "设 $\\alpha$ 与 $\\beta$ 是非零常向量，$|\\beta|=2$（$|\\beta|$ 表示 $\\beta$ 的模），$\\alpha$ 与 $\\beta$ 之间的夹角为 $\\frac{\\pi}{3}$，求 $\\lim\\limits_{x\\to 0}\\frac{|\\alpha+x\\beta|-|\\alpha|}{x}=$"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

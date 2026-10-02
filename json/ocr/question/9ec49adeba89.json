@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "9ec49adeba89",
+  "item_id": "9ec49adeba89",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "25. 设 $a,b$ 为实数，函数 $f(x,y)=ax^2+by^2$ 在点 $(1,1)$ 处沿方向 $l=\\mathbf{i}+\\mathbf{j}$ 的方向导数最大，最大值为 $2\\sqrt{2}$. 若 $\\sum$ 为曲面 $x^2+z^2=2z$ 被曲面 $z=\\sqrt{f(x,y)}$ 所截取的部分.\n(1) 求 $a,b$ 的值；\n(2) 计算 $\\iint\\limits_{\\sum} z\\,dS$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9ec49adeba89-01.png",
+      "latex": "25. 设 $a,b$ 为实数，函数 $f(x,y)=ax^2+by^2$ 在点 $(1,1)$ 处沿方向 $l=\\mathbf{i}+\\mathbf{j}$ 的方向导数最大，最大值为 $2\\sqrt{2}$. 若 $\\sum$ 为曲面 $x^2+z^2=2z$ 被曲面 $z=\\sqrt{f(x,y)}$ 所截取的部分.\n(1) 求 $a,b$ 的值；\n(2) 计算 $\\iint\\limits_{\\sum} z\\,dS$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中缺少 $z=\\sqrt{f(x,y)}$ 的根号，且最大值为 $2\\sqrt{2}$ 的根号也未体现；已按图片转写。图片中的曲面符号为 $\\sum$（亦可能为 $\\Sigma$），按可见字形转写为 $\\sum$。"
+}

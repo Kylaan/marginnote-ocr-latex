@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "f8d2b600566e",
+  "item_id": "f8d2b600566e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "向量场 \\(\\boldsymbol{u}(x,y,z)=xy^2\\boldsymbol{i}+yz^2\\boldsymbol{j}+zx^2\\boldsymbol{k}\\) 在点 \\(M(1,1,1)\\) 处的旋度 \\(\\operatorname{rot}\\boldsymbol{u}=\\underline{\\hspace{4em}}\\)。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f8d2b600566e-01.png",
+      "latex": "向量场 \\(\\boldsymbol{u}(x,y,z)=xy^2\\boldsymbol{i}+yz^2\\boldsymbol{j}+zx^2\\boldsymbol{k}\\) 在点 \\(M(1,1,1)\\) 处的旋度 \\(\\operatorname{rot}\\boldsymbol{u}=\\underline{\\hspace{4em}}\\)。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "75854559abb1",
+  "item_id": "75854559abb1",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知曲线 $L$ 是曲面 $\\Sigma:4x^2+y^2+z^2=1,x\\geqslant 0,y\\geqslant 0,z\\geqslant 0$ 的边界，曲面 $\\Sigma$ 方向朝上，曲线 $L$ 的方向和曲面 $\\Sigma$ 的方向符合右手法则，计算 $I=\\oint_L (yz^2-\\cos z)\\mathrm{d}x+2xz^2\\mathrm{d}y+(2xyz+x\\sin z)\\mathrm{d}z$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/75854559abb1-01.png",
+      "latex": "已知曲线 $L$ 是曲面 $\\Sigma:4x^2+y^2+z^2=1,x\\geqslant 0,y\\geqslant 0,z\\geqslant 0$ 的边界，曲面 $\\Sigma$ 方向朝上，曲线 $L$ 的方向和曲面 $\\Sigma$ 的方向符合右手法则，计算 $I=\\oint_L (yz^2-\\cos z)\\mathrm{d}x+2xz^2\\mathrm{d}y+(2xyz+x\\sin z)\\mathrm{d}z$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

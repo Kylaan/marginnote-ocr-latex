@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "865480dc13de",
+  "item_id": "865480dc13de",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma$ 是由直线 $\\begin{cases} x = 0 \\\\ y = 0 \\end{cases}$ 绕直线 $\\begin{cases} x = t \\\\ y = t \\\\ z = t \\end{cases}$（$t$ 为参数）旋转一周得到的曲面，$\\Sigma_1$ 是 $\\Sigma$ 介于平面 $x + y + z = 0$ 与 $x + y + z = 1$ 之间部分的外侧，计算曲面积分\n\\[\\iint_{\\Sigma_1} x\\,dydz + (y + 1)\\,dzdx + (z + 2)\\,dxdy\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/865480dc13de-01.png",
+      "latex": "设 $\\Sigma$ 是由直线 $\\begin{cases} x = 0 \\\\ y = 0 \\end{cases}$ 绕直线 $\\begin{cases} x = t \\\\ y = t \\\\ z = t \\end{cases}$（$t$ 为参数）旋转一周得到的曲面，$\\Sigma_1$ 是 $\\Sigma$ 介于平面 $x + y + z = 0$ 与 $x + y + z = 1$ 之间部分的外侧，计算曲面积分\n\\[\\iint_{\\Sigma_1} x\\,dydz + (y + 1)\\,dzdx + (z + 2)\\,dxdy\\]"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "cd7f54cdf342",
+  "item_id": "cd7f54cdf342",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "设 $P=P(x,y,z)$，$Q=Q(x,y,z)$ 均为连续函数，$\\Sigma$ 为曲面 $z=\\sqrt{1-x^2-y^2}$（$x\\le 0$，$y\\ge 0$）的上侧，则\n\\[\n\\iint_{\\Sigma} P\\,dy\\,dz+Q\\,dz\\,dx=\n\\]",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\iint_{\\Sigma}\\frac{x}{z}P\\,dx\\,dy+\\frac{y}{z}Q\\,dy\\,dz."
+    },
+    {
+      "label": "B",
+      "latex": "\\iint_{\\Sigma}\\frac{x}{z}P\\,dx\\,dy-\\frac{y}{z}Q\\,dy\\,dz."
+    },
+    {
+      "label": "C",
+      "latex": "\\iint_{\\Sigma}\\frac{y}{z}P\\,dx\\,dy+\\frac{y}{x}Q\\,dy\\,dz."
+    },
+    {
+      "label": "D",
+      "latex": "\\iint_{\\Sigma}\\frac{x}{z}P\\,dx\\,dy+\\frac{y}{x}Q\\,dy\\,dz."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/cd7f54cdf342-01.png",
+      "latex": "358 设 $P=P(x,y,z)$，$Q=Q(x,y,z)$ 均为连续函数，$\\Sigma$ 为曲面 $z=\\sqrt{1-x^2-y^2}$（$x\\le 0$，$y\\ge 0$）的上侧，则\n\\[\n\\iint_{\\Sigma} P\\,dy\\,dz+Q\\,dz\\,dx=\n\\]\nA. \\[\n\\iint_{\\Sigma}\\frac{x}{z}P\\,dx\\,dy+\\frac{y}{z}Q\\,dy\\,dz.\n\\]\nB. \\[\n\\iint_{\\Sigma}\\frac{x}{z}P\\,dx\\,dy-\\frac{y}{z}Q\\,dy\\,dz.\n\\]\nC. \\[\n\\iint_{\\Sigma}\\frac{y}{z}P\\,dx\\,dy+\\frac{y}{x}Q\\,dy\\,dz.\n\\]\nD. \\[\n\\iint_{\\Sigma}\\frac{x}{z}P\\,dx\\,dy+\\frac{y}{x}Q\\,dy\\,dz.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text将曲面误为 z=1-x^2-y^2，且选项分式缺失分数线；已以图片为准。"
+}

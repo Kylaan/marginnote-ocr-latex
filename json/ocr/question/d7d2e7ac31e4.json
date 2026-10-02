@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d7d2e7ac31e4",
+  "item_id": "d7d2e7ac31e4",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分 $I=\\iint_{\\Sigma} 2x^3\\,\\mathrm{d}y\\mathrm{d}z+2y^3\\,\\mathrm{d}z\\mathrm{d}x+3(z^2-1)\\,\\mathrm{d}x\\mathrm{d}y$，其中 $\\Sigma$ 是曲面 $z=1-x^2-y^2\\ (z\\geqslant 0)$ 的上侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d7d2e7ac31e4-01.png",
+      "latex": "计算曲面积分 $I=\\iint_{\\Sigma} 2x^3\\,\\mathrm{d}y\\mathrm{d}z+2y^3\\,\\mathrm{d}z\\mathrm{d}x+3(z^2-1)\\,\\mathrm{d}x\\mathrm{d}y$，其中 $\\Sigma$ 是曲面 $z=1-x^2-y^2\\ (z\\geqslant 0)$ 的上侧."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的 \"3(z-1)\" 与图片中的 \"3(z^2-1)\" 不一致，\"z20\" 与图片中的 \"z≥0\" 不一致，均以图片为准。"
+}

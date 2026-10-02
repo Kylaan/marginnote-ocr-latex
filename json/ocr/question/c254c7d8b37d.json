@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c254c7d8b37d",
+  "item_id": "c254c7d8b37d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "22 计算曲面积分 \\(I=\\iint_{\\Sigma} \\frac{x z\\,dy\\,dz+2 y\\,dz\\,dx+3 z\\,dx\\,dy}{\\left(x^{2}+\\frac{y^{2}}{2}+z\\right)^{\\frac{1}{2}}}\\)，其中 \\(\\Sigma\\) 是曲面 \\(y=\\sqrt{2(1-z-x^{2})}(z \\ge 0)\\) 的上侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c254c7d8b37d-01.png",
+      "latex": "22 计算曲面积分 \\(I=\\iint_{\\Sigma} \\frac{x z\\,dy\\,dz+2 y\\,dz\\,dx+3 z\\,dx\\,dy}{\\left(x^{2}+\\frac{y^{2}}{2}+z\\right)^{\\frac{1}{2}}}\\)，其中 \\(\\Sigma\\) 是曲面 \\(y=\\sqrt{2(1-z-x^{2})}(z \\ge 0)\\) 的上侧."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容差异较大；已按图片转写。"
+}

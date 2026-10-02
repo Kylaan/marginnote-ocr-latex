@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "a938f3ac01c1",
+  "item_id": "a938f3ac01c1",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(7) 计算 $I=\\int_L \\frac{x\\,dy-y\\,dx}{x^2+y^2}$，其中 $L$ 是从点 $A(1,1)$ 沿直线到点 $B(-1,0)$，再沿曲线 $y=x^2-1$ 到点 $C(1,0)$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a938f3ac01c1-01.png",
+      "latex": "(7) 计算 $I=\\int_L \\frac{x\\,dy-y\\,dx}{x^2+y^2}$，其中 $L$ 是从点 $A(1,1)$ 沿直线到点 $B(-1,0)$，再沿曲线 $y=x^2-1$ 到点 $C(1,0)$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

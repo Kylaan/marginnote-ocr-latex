@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "d988933785ab",
+  "item_id": "d988933785ab",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "24 设曲面 $\\Sigma = \\{(x, y, z) \\mid x^{2} + y^{2} + z^{2} = 1,\\ x, y, z \\geqslant 0\\}$，$f(x, y, z)$ 为 $\\Sigma$ 上的连续函数，且 $f(x, y, z) = z + x \\displaystyle\\iint_{\\Sigma} f(x, y, z)\\,\\mathrm{d}S$，求 $f(x, y, z)$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d988933785ab-01.png",
+      "latex": "24 设曲面 $\\Sigma = \\{(x, y, z) \\mid x^{2} + y^{2} + z^{2} = 1,\\ x, y, z \\geqslant 0\\}$，$f(x, y, z)$ 为 $\\Sigma$ 上的连续函数，且 $f(x, y, z) = z + x \\displaystyle\\iint_{\\Sigma} f(x, y, z)\\,\\mathrm{d}S$，求 $f(x, y, z)$。"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

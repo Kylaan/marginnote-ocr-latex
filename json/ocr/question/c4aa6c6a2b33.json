@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c4aa6c6a2b33",
+  "item_id": "c4aa6c6a2b33",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲面 $e^z-xz+y=3$ 在点 $(1,2,0)$ 处的切平面方程为 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c4aa6c6a2b33-01.png",
+      "latex": "曲面 $e^z-xz+y=3$ 在点 $(1,2,0)$ 处的切平面方程为 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将 $e^z$ 写为 ez，且点坐标未加括号；以图片为准。"
+}

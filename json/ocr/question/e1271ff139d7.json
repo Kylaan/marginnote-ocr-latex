@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "e1271ff139d7",
+  "item_id": "e1271ff139d7",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "函数 $f(x,y,z)=x^2+y^2+z^2$ 在点 $(1,-1,1)$ 处沿曲线 $x=t,y=-t^2,z=t^3$ 在该点指向 $x$ 轴负向一侧的切线方向的方向导数等于",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$-12$."
+    },
+    {
+      "label": "B",
+      "latex": "$12$."
+    },
+    {
+      "label": "C",
+      "latex": "$-\\frac{12}{\\sqrt{14}}$."
+    },
+    {
+      "label": "D",
+      "latex": "$\\frac{12}{\\sqrt{14}}$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e1271ff139d7-01.png",
+      "latex": "360 函数 $f(x,y,z)=x^2+y^2+z^2$ 在点 $(1,-1,1)$ 处沿曲线 $x=t,y=-t^2,z=t^3$ 在该点指向 $x$ 轴负向一侧的切线方向的方向导数等于\n\nA. $-12$.\\qquad B. $12$.\\qquad C. $-\\frac{12}{\\sqrt{14}}$.\\qquad D. $\\frac{12}{\\sqrt{14}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

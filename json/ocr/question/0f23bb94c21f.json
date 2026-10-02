@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "qid": "0f23bb94c21f",
+  "item_id": "0f23bb94c21f",
+  "status": "needs_review",
+  "question_type": "solution",
+  "latex": "13. 设曲线 $\\Gamma$ 为曲面 $z=\\sqrt{4-x^2-8y^2}$ 与平面 $z=y$ 的交线上从点 $(2,0,0)$ 到点 $\\left(1,\\frac{\\sqrt{3}}{3},\\frac{\\sqrt{3}}{3}\\right)$ 的一段弧，$f(u)$ 是一元连续函数.\n（Ⅰ）计算 $\\Gamma$ 在点 $(x,y,z)$ 处的单位切向量（用 $x,y$ 表示）；\n（Ⅱ）计算曲线积分",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0f23bb94c21f-01.png",
+      "latex": "13 设曲线 $\\Gamma$ 为曲面 $z=\\sqrt{4-x^2-8y^2}$ 与平面 $z=y$ 的交线上从点 $(2,0,0)$ 到点 $\\left(1,\\frac{\\sqrt{3}}{3},\\frac{\\sqrt{3}}{3}\\right)$ 的一段弧，$f(u)$ 是一元连续函数.\n（Ⅰ）计算 $\\Gamma$ 在点 $(x,y,z)$ 处的单位切向量（用 $x,y$ 表示）；\n（Ⅱ）计算曲线积分"
+    }
+  ],
+  "confidence": 0.88,
+  "flags": [
+    "missing_context",
+    "possible_crop",
+    "raw_text_conflict"
+  ],
+  "notes": "第（Ⅱ）问仅见“计算曲线积分”，后续积分表达式未出现在图片中；raw_text 中的端点与曲线符号和图片不一致。"
+}

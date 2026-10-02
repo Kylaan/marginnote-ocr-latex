@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "0808ac64a9d4",
+  "item_id": "0808ac64a9d4",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(4) 设 $\\Sigma$ 为曲面 $z=\\sqrt{x^2+y^2}$ 的下侧，$P=P(x,y,z)$，$Q=Q(x,y,z)$ 均为连续函数，则 $\\iint\\limits_{\\Sigma} P\\,\\mathrm{d}y\\,\\mathrm{d}z - Q\\,\\mathrm{d}z\\,\\mathrm{d}x = (\\quad)$",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\iint\\limits_{\\Sigma} \\left(-\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$"
+    },
+    {
+      "label": "B",
+      "latex": "$\\iint\\limits_{\\Sigma} \\left(-\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$"
+    },
+    {
+      "label": "C",
+      "latex": "$\\iint\\limits_{\\Sigma} \\left(\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\iint\\limits_{\\Sigma} \\left(\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0808ac64a9d4-01.png",
+      "latex": "(4) 设 $\\Sigma$ 为曲面 $z=\\sqrt{x^2+y^2}$ 的下侧，$P=P(x,y,z)$，$Q=Q(x,y,z)$ 均为连续函数，则 $\\iint\\limits_{\\Sigma} P\\,\\mathrm{d}y\\,\\mathrm{d}z - Q\\,\\mathrm{d}z\\,\\mathrm{d}x = (\\quad)$ A. $\\iint\\limits_{\\Sigma} \\left(-\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$ B. $\\iint\\limits_{\\Sigma} \\left(-\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$ C. $\\iint\\limits_{\\Sigma} \\left(\\frac{x}{z}P-\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$ D. $\\iint\\limits_{\\Sigma} \\left(\\frac{x}{z}P+\\frac{y}{z}Q\\right)\\mathrm{d}x\\mathrm{d}y$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面写为 z=x2+y2，图片为 z=\\sqrt{x^2+y^2}；以图片为准。选项内容按图片转写。"
+}

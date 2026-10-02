@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "f6c548571cdc",
+  "item_id": "f6c548571cdc",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $L$ 为 $y=\\pi\\cos x$ 从 $A(\\pi,-\\pi)$ 到 $B(-\\pi,-\\pi)$ 的曲线，计算 \\[ I=\\int_L \\frac{(x+y)\\mathrm{d}x-(x-y)\\mathrm{d}y}{x^2+y^2}. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f6c548571cdc-01.png",
+      "latex": "设 $L$ 为 $y=\\pi\\cos x$ 从 $A(\\pi,-\\pi)$ 到 $B(-\\pi,-\\pi)$ 的曲线，计算 \\[ I=\\int_L \\frac{(x+y)\\mathrm{d}x-(x-y)\\mathrm{d}y}{x^2+y^2}. \\]"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

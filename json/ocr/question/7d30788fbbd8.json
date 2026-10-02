@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7d30788fbbd8",
+  "item_id": "7d30788fbbd8",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知 $L$ 是第一象限中从点 $(0,0)$ 沿圆周 $x^2+y^2=2x$ 到点 $(2,0)$，再沿圆周 $x^2+y^2=4$ 到点 $(0,2)$ 的曲线段，计算曲线积分\n\\[\nI=\\int_L 3x^2y\\,\\mathrm{d}x+(x^3+x-2y)\\,\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7d30788fbbd8-01.png",
+      "latex": "已知 $L$ 是第一象限中从点 $(0,0)$ 沿圆周 $x^2+y^2=2x$ 到点 $(2,0)$，再沿圆周 $x^2+y^2=4$ 到点 $(0,2)$ 的曲线段，计算曲线积分\n\\[\nI=\\int_L 3x^2y\\,\\mathrm{d}x+(x^3+x-2y)\\,\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

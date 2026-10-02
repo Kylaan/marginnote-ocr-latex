@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c472fa0d7d41",
+  "item_id": "c472fa0d7d41",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲线积分 $I=\\int_L \\frac{4x-y}{4x^2+y^2}\\,\\mathrm{d}x+\\frac{x+y}{4x^2+y^2}\\,\\mathrm{d}y$,其中 $L$ 是 $x^2+y^2=2$,方向为逆时针方向.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c472fa0d7d41-01.png",
+      "latex": "计算曲线积分 $I=\\int_L \\frac{4x-y}{4x^2+y^2}\\,\\mathrm{d}x+\\frac{x+y}{4x^2+y^2}\\,\\mathrm{d}y$,其中 $L$ 是 $x^2+y^2=2$,方向为逆时针方向."
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

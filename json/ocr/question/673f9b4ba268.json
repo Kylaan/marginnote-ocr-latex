@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "673f9b4ba268",
+  "item_id": "673f9b4ba268",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $l$ 为椭圆 $\\frac{x^2}{4}+\\frac{y^2}{3}=1$，其周长为 $a$，则 $\\oint_L (2xy+3x^2+4y^2)\\,\\mathrm{d}s=$ \\underline{\\hspace{4em}}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/673f9b4ba268-01.png",
+      "latex": "设 $l$ 为椭圆 $\\frac{x^2}{4}+\\frac{y^2}{3}=1$，其周长为 $a$，则 $\\oint_L (2xy+3x^2+4y^2)\\,\\mathrm{d}s=$ \\underline{\\hspace{4em}}"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片存在多处不一致，已以图片为准。"
+}

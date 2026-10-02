@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "archives/extraction-original.zip",
+      "bytes": 300735298,
+      "sha256": "b8bef42b2d535c2f80974abfaeac607c94d8e36660a72e2f010f2f99d1bccee6"
+    },
+    {
+      "path": "archives/ocr-delivery-sanitized.zip",
+      "bytes": 301081691,
+      "sha256": "bfe163b054908dfd678f4e227756338a60332ff37244bcfd899128ffd74ee2e6"
+    },
+    {
+      "path": "output/pdf/澄潇宇大观题库-多元积分·无空版.pdf",
+      "bytes": 474672,
+      "sha256": "cfde2a559d2d3c5589d0eb3eb51f411f26b6adf9c199452af9b72a9eefe82de8"
+    },
+    {
+      "path": "output/pdf/澄潇宇大观题库-多元积分·留空版.pdf",
+      "bytes": 493137,
+      "sha256": "c532b24565d1525f8d95f88dc6e5a93afb0b4f97afa8ef140e1d33457c5a356b"
+    },
+    {
+      "path": "source/多元积分完整题库（含答案）(2026-09-30-12-28-06).marginnotes",
+      "bytes": 175030272,
+      "sha256": "0d2923274ac518ec5950ec6ff672efaa7b9f221ea198dbfeeb08ed13464a6f4a"
+    },
+    {
+      "path": "source/多元积分完整题库（含答案）(2026-09-30-12-28-06).marginpkg",
+      "bytes": 153224759,
+      "sha256": "7354eb6f8618145ae5b2f64a4eb3932a6207799346f920cdc7599be97ed49405"
+    }
+  ]
+}

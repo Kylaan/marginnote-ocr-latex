@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "ac0950bcdafe",
+  "item_id": "ac0950bcdafe",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma$ 为曲面 $x^2+y^2+z^2=1$ 的外侧，计算曲面积分\n\\[I=\\mathop{{\\oiint}}\\limits_{\\Sigma} x^3\\,\\mathrm{d}y\\mathrm{d}z+y^3\\,\\mathrm{d}z\\mathrm{d}x+z^3\\,\\mathrm{d}x\\mathrm{d}y.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ac0950bcdafe-01.png",
+      "latex": "设 $\\Sigma$ 为曲面 $x^2+y^2+z^2=1$ 的外侧，计算曲面积分\n\\[I=\\mathop{{\\oiint}}\\limits_{\\Sigma} x^3\\,\\mathrm{d}y\\mathrm{d}z+y^3\\,\\mathrm{d}z\\mathrm{d}x+z^3\\,\\mathrm{d}x\\mathrm{d}y.\\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“x+y2+z2=1”及积分表达式与图片不符，已按图片转写为 $x^2+y^2+z^2=1$ 与 $x^3\\mathrm{d}y\\mathrm{d}z+y^3\\mathrm{d}z\\mathrm{d}x+z^3\\mathrm{d}x\\mathrm{d}y$。"
+}

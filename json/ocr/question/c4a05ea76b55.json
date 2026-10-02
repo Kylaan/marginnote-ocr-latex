@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c4a05ea76b55",
+  "item_id": "c4a05ea76b55",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(5) 设曲线 $L:x^2+y^2=R^2(R>0)$，取逆时针方向，问 $R$ 为何值时，积分 \\[ I(R)=\\oint_L y^3\\,dx+(3x-x^3)\\,dy \\] 取得最大值，并求最大值.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c4a05ea76b55-01.png",
+      "latex": "(5) 设曲线 $L:x^2+y^2=R^2(R>0)$，取逆时针方向，问 $R$ 为何值时，积分 \\[ I(R)=\\oint_L y^3\\,dx+(3x-x^3)\\,dy \\] 取得最大值，并求最大值."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中上标、括号等存在 OCR 噪声，已按图片转写。"
+}

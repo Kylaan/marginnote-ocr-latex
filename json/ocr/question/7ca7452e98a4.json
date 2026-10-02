@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7ca7452e98a4",
+  "item_id": "7ca7452e98a4",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "13. 设 $\\Sigma$ 是曲线 $x=\\mathrm{e}^{y}(0\\leqslant y\\leqslant a)$ 绕 $x$ 轴旋转而成的旋转曲面，取后侧，则\n\\[\nI=\\iint_{\\Sigma}2(1-x^2)\\,\\mathrm{d}y\\mathrm{d}z+8xy\\,\\mathrm{d}z\\mathrm{d}x-4xz\\,\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7ca7452e98a4-01.png",
+      "latex": "13. 设 $\\Sigma$ 是曲线 $x=\\mathrm{e}^{y}(0\\leqslant y\\leqslant a)$ 绕 $x$ 轴旋转而成的旋转曲面，取后侧，则\n\\[\nI=\\iint_{\\Sigma}2(1-x^2)\\,\\mathrm{d}y\\mathrm{d}z+8xy\\,\\mathrm{d}z\\mathrm{d}x-4xz\\,\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲线和积分式有 OCR 乱码，以图片为准。"
+}

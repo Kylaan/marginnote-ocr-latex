@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "6b6353c8c0d7",
+  "item_id": "6b6353c8c0d7",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(21) 设 $\\Sigma$ 为曲面 $z=2-x^2-y^2(x\\geqslant 0,y\\geqslant 0)$ 被柱面 $x^2+y^2=1$ 所截出部分的上侧, 计算\n\\[ I=\\iint_{\\Sigma} yz\\,\\mathrm{d}x\\mathrm{d}y + zx\\,\\mathrm{d}y\\mathrm{d}z + xy\\,\\mathrm{d}z\\mathrm{d}x. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6b6353c8c0d7-01.png",
+      "latex": "(21) 设 $\\Sigma$ 为曲面 $z=2-x^2-y^2(x\\geqslant 0,y\\geqslant 0)$ 被柱面 $x^2+y^2=1$ 所截出部分的上侧, 计算\n\\[ I=\\iint_{\\Sigma} yz\\,\\mathrm{d}x\\mathrm{d}y + zx\\,\\mathrm{d}y\\mathrm{d}z + xy\\,\\mathrm{d}z\\mathrm{d}x. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "13f3a9c31d1d",
+  "item_id": "13f3a9c31d1d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2) 设 $\\Sigma$ 为光滑闭曲面，取外侧 $I=\\iint_{\\Sigma}(x^3-x)\\,\\mathrm{d}y\\mathrm{d}z+(y^3-y)\\,\\mathrm{d}z\\mathrm{d}x+(z^3-z)\\,\\mathrm{d}x\\mathrm{d}y$。\n(I) 确定曲面 $\\Sigma$ 使得 $I$ 最小，并求 $I$ 的最小值；\n(II) 若满足 (I) 的曲面 $\\Sigma$ 被锥面 $z=\\sqrt{x^2+y^2}$ 所截且位于锥面上方的部分为 $\\Sigma_1$，求曲面 $\\Sigma_1$ 的面积。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/13f3a9c31d1d-01.png",
+      "latex": "(2) 设 $\\Sigma$ 为光滑闭曲面，取外侧 $I=\\iint_{\\Sigma}(x^3-x)\\,\\mathrm{d}y\\mathrm{d}z+(y^3-y)\\,\\mathrm{d}z\\mathrm{d}x+(z^3-z)\\,\\mathrm{d}x\\mathrm{d}y$。\n(I) 确定曲面 $\\Sigma$ 使得 $I$ 最小，并求 $I$ 的最小值；\n(II) 若满足 (I) 的曲面 $\\Sigma$ 被锥面 $z=\\sqrt{x^2+y^2}$ 所截且位于锥面上方的部分为 $\\Sigma_1$，求曲面 $\\Sigma_1$ 的面积。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式符号、括号、根号及 $\\Sigma_1$ 等内容与图片不一致，已以图片为准。"
+}

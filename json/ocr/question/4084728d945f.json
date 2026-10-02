@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "4084728d945f",
+  "item_id": "4084728d945f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分\n\\[\nI=\\iint_{\\Sigma} x(8y+1)\\,\\mathrm{d}y\\mathrm{d}z+2(1-y^{2})\\,\\mathrm{d}z\\mathrm{d}x-4yz\\,\\mathrm{d}x\\mathrm{d}y,\n\\]\n其中 $\\Sigma$ 是曲线\n\\[\n\\begin{cases}\nz=\\sqrt{y-1},\\\\\nx=0\n\\end{cases}\\quad (1\\leqslant y\\leqslant 3)\n\\]\n绕 $y$ 轴旋转一周所成的曲面，它的法向量与 $y$ 轴正向的夹角恒大于 $\\dfrac{\\pi}{2}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4084728d945f-01.png",
+      "latex": "计算曲面积分\n\\[\nI=\\iint_{\\Sigma} x(8y+1)\\,\\mathrm{d}y\\mathrm{d}z+2(1-y^{2})\\,\\mathrm{d}z\\mathrm{d}x-4yz\\,\\mathrm{d}x\\mathrm{d}y,\n\\]\n其中 $\\Sigma$ 是曲线\n\\[\n\\begin{cases}\nz=\\sqrt{y-1},\\\\\nx=0\n\\end{cases}\\quad (1\\leqslant y\\leqslant 3)\n\\]\n绕 $y$ 轴旋转一周所成的曲面，它的法向量与 $y$ 轴正向的夹角恒大于 $\\dfrac{\\pi}{2}$．"
+    }
+  ],
+  "confidence": 0.82,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "人工复核修正（2026-09-30，用户核定）：被积表达式末项微元原转写为 $\\mathrm{d}z\\mathrm{d}y$，放大原图核对后确认为 $\\mathrm{d}x\\mathrm{d}y$，已据图更正 latex 与 image_transcriptions。该处即原有 unclear_character 疑点，现已消除；保留 raw_text_conflict，因数据库文字层此处原本记作 dxdy，与模型初稿冲突、与修正后一致。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "702243c73bde",
+  "item_id": "702243c73bde",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知曲线 $L$ 的方程为\n\\[\n\\begin{cases}\nz=\\sqrt{2-x^2-y^2},\\\\\nz=x,\n\\end{cases}\n\\]\n起点为 $A(0,\\sqrt{2},0)$，终点为 $B(0,-\\sqrt{2},0)$，计算曲线积分\n\\[\nI=\\int_L (y+z)dx+(z^2-x^2+y)dy+x^2y^2dz.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/702243c73bde-01.png",
+      "latex": "已知曲线 $L$ 的方程为\n\\[\n\\begin{cases}\nz=\\sqrt{2-x^2-y^2},\\\\\nz=x,\n\\end{cases}\n\\]\n起点为 $A(0,\\sqrt{2},0)$，终点为 $B(0,-\\sqrt{2},0)$，计算曲线积分\n\\[\nI=\\int_L (y+z)dx+(z^2-x^2+y)dy+x^2y^2dz.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "图片中曲线记为 $L$，起点和终点与 raw_text 不同；以图片为准。"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "qid": "f9216f95b828",
+  "item_id": "f9216f95b828",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知函数 $f(x, y) = x^3 + y^3 - (x+y)^2 + 3$，设 $T$ 是曲面 $z = f(x, y)$ 在点 $(1, 1, 1)$ 处的切平面，$D$ 为 $T$ 与坐标平面所围有界区域在 $xOy$ 平面上的投影.\n\n（Ⅰ）求 $T$ 的方程；\n\n（Ⅱ）求 $f(x, y)$ 在 $D$ 上的最大值和最小值.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f9216f95b828-01.png",
+      "latex": "【解】（Ⅰ）因为 $f(x, y) = x^3 + y^3 - (x+y)^2 + 3$，所以\n\\[\n\\frac{\\partial f}{\\partial x} = 3x^2 - 2(x+y), \\quad \\frac{\\partial f}{\\partial y} = 3y^2 - 2(x+y), \\quad \\left.\\frac{\\partial f}{\\partial x}\\right|_{(1, 1)} = -1, \\quad \\left.\\frac{\\partial f}{\\partial y}\\right|_{(1, 1)} = -1.\n\\]\n所以 $T$ 的法向量为 $\\boldsymbol{n} = (1, 1, 1)$.\n\n故 $T$ 的方程为 $x - 1 + y - 1 + z - 1 = 0$，即 $x + y + z = 3$.\n\n（Ⅱ）由（Ⅰ）知，$T$ 与坐标平面所围有界区域在 $xOy$ 平面上的投影 $D = \\{(x, y) \\mid 0 \\leqslant x \\leqslant 3,\\ 0 \\leqslant y \\leqslant 3 - x\\}$.\n\n令\n\\[\n\\begin{cases} \\frac{\\partial f}{\\partial x} = 0, \\\\ \\frac{\\partial f}{\\partial y} = 0, \\end{cases} \\quad \\text{即} \\quad \\begin{cases} 3x^2 - 2(x+y) = 0, \\\\ 3y^2 - 2(x+y) = 0, \\end{cases} \\quad \\text{解得} \\quad \\begin{cases} x = 0, \\\\ y = 0, \\end{cases} \\text{或} \\begin{cases} x = \\frac{4}{3}, \\\\ y = \\frac{4}{3}. \\end{cases}\n\\]\n\n当 $(x, y) \\in \\{(x, y) \\mid 0 \\leqslant x \\leqslant 3,\\ y = 0\\}$ 时，\n\\[\nf(x, 0) = x^3 - x^2 + 3, \\quad x \\in [0, 3].\n\\]\n令 $\\frac{\\mathrm{d}}{\\mathrm{d}x}[f(x, 0)] = 3x^2 - 2x = 0$，得 $x = 0$ 或 $x = \\frac{2}{3}$.\n\n当 $(x, y) \\in \\{(x, y) \\mid 0 \\leqslant y \\leqslant 3,\\ x = 0\\}$ 时，同理可得 $y = 0$ 或 $y = \\frac{2}{3}$.\n\n当 $(x, y) \\in \\{(x, y) \\mid 0 \\leqslant x \\leqslant 3,\\ x + y = 3\\}$ 时，\n\\[\nf(x, 3-x) = x^3 + (3-x)^3 - 6, \\quad x \\in [0, 3].\n\\]\n令 $\\frac{\\mathrm{d}}{\\mathrm{d}x}[f(x, 3-x)] = 3x^2 - 3(3-x)^2 = 0$，得 $x = \\frac{3}{2}$.\n\n综上，$f(x, y)$ 在 $D$ 上的可能最值点是 $(0, 0)$，$\\left(\\frac{4}{3}, \\frac{4}{3}\\right)$，$\\left(\\frac{2}{3}, 0\\right)$，$\\left(0, \\frac{2}{3}\\right)$，$(3, 0)$，$(0, 3)$，$\\left(\\frac{3}{2}, \\frac{3}{2}\\right)$.\n\n又因为 $f(0, 0) = 3$，$f\\left(\\frac{4}{3}, \\frac{4}{3}\\right) = \\frac{17}{27}$，$f\\left(\\frac{2}{3}, 0\\right) = f\\left(0, \\frac{2}{3}\\right) = \\frac{77}{27}$，$f(3, 0) = f(0, 3) = 21$，$f\\left(\\frac{3}{2}, \\frac{3}{2}\\right) = \\frac{3}{4}$，所以 $f(x, y)$ 在 $D$ 上的最大值为 $21$，最小值为 $\\frac{17}{27}$.\n\n【注】求边界 $\\{(x, y) \\mid 0 \\leqslant x \\leqslant 3,\\ x + y = 3\\}$ 上的驻点时也可以利用拉格朗日乘数法."
+    },
+    {
+      "image": "img/question/f9216f95b828-02.png",
+      "latex": "记 $F(x, y, \\lambda) = x^3 + y^3 - (x+y)^2 + 3 + \\lambda(x + y - 3)$，由\n\\[\n\\frac{\\partial F}{\\partial x} = 3x^2 - 2(x+y) + \\lambda = 0, \\quad \\frac{\\partial F}{\\partial y} = 3y^2 - 2(x+y) + \\lambda = 0, \\quad \\frac{\\partial F}{\\partial \\lambda} = x + y - 3 = 0\n\\]\n解得 $x = y = \\frac{3}{2}$.\n\n【典型错误】本题近 $60\\%$ 的考生能较好地完成解答. 常见错误有：\n\n① $T$ 的法向量计算错误，为 $\\boldsymbol{n} = (-1, -1, 1)$.\n\n② 投影区域错误表示成 $x + y = 3$.\n\n③ 求 $f(x, y)$ 在 $D$ 上的最大值和最小值时只考虑 $D$ 内部的点，未考虑边界的函数值，特别是边界 $\\{(x, y) \\mid 0 \\leqslant x \\leqslant 3,\\ x + y = 3\\}$ 上的函数值."
+    },
+    {
+      "image": "img/question/f9216f95b828-03.png",
+      "latex": "已知函数 $f(x, y) = x^3 + y^3 - (x+y)^2 + 3$，设 $T$ 是曲面 $z = f(x, y)$ 在点 $(1, 1, 1)$ 处的切平面，$D$ 为 $T$ 与坐标平面所围有界区域在 $xOy$ 平面上的投影.\n\n（Ⅰ）求 $T$ 的方程；\n\n（Ⅱ）求 $f(x, y)$ 在 $D$ 上的最大值和最小值."
+    }
+  ],
+  "confidence": 0.92,
+  "flags": [
+    "possible_answer_content"
+  ],
+  "notes": "第 1、2 张图片为印刷的解答与评注（答案内容），第 3 张图片为题干；已按 images 顺序逐图忠实转写，未将其视为元数据。"
+}

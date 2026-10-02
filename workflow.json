@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "source_manifest": "manifest.json",
+  "stages": [
+    {
+      "id": "extract_question_images",
+      "status": "complete",
+      "output": "img/question"
+    },
+    {
+      "id": "classify_related_images",
+      "status": "pending",
+      "input": "img/related",
+      "output": "img/answer"
+    },
+    {
+      "id": "ocr_questions",
+      "status": "complete",
+      "output": "json/ocr/question",
+      "results": 391
+    },
+    {
+      "id": "ocr_answers",
+      "status": "pending",
+      "output": "json/ocr/answer"
+    },
+    {
+      "id": "manual_fixes",
+      "status": "complete",
+      "output": "json/manual/fixups.json",
+      "reviewed_items": 7
+    },
+    {
+      "id": "typeset",
+      "status": "complete",
+      "output": "output/pdf",
+      "pdf_editions": [
+        "无空版",
+        "留空版"
+      ]
+    }
+  ],
+  "updated_at": "2026-10-02",
+  "scope": "question-only; answer classification and OCR pending"
+}

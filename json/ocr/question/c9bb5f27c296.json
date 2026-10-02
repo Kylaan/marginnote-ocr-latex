@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c9bb5f27c296",
+  "item_id": "c9bb5f27c296",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲线 \\(L\\) 为 \\(x^2+y^2+z^2=\\frac{9}{2}\\) 与 \\(x+z=1\\) 的交线，则 \\(I=\\oint_L (x^2+y^2+z^2)\\,ds = \\underline{\\hspace{4em}}.\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c9bb5f27c296-01.png",
+      "latex": "设曲线 \\(L\\) 为 \\(x^2+y^2+z^2=\\frac{9}{2}\\) 与 \\(x+z=1\\) 的交线，则 \\(I=\\oint_L (x^2+y^2+z^2)\\,ds = \\underline{\\hspace{4em}}.\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将图片中的 \\(\\frac{9}{2}\\) 识别为 92，并将积分表达式识别为缺少括号的形式；已按图片内容转写。"
+}

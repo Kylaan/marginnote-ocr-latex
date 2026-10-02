@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "496880a713e6",
+  "item_id": "496880a713e6",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $L$ 为 $\\left(x-\\frac{1}{2}\\right)^2+y^2=\\frac{1}{4}$ $(y\\geqslant 0)$ 上从点 $O(0,0)$ 到点 $A(1,0)$ 的一段弧，计算\n\\[ I=\\int_L \\left[3+(2-\\sqrt{2})y+\\mathrm{e}^x\\sin y\\right]\\mathrm{d}x+\\left(\\sqrt{2}x+\\mathrm{e}^x\\cos y\\right)\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/496880a713e6-01.png",
+      "latex": "设 $L$ 为 $\\left(x-\\frac{1}{2}\\right)^2+y^2=\\frac{1}{4}$ $(y\\geqslant 0)$ 上从点 $O(0,0)$ 到点 $A(1,0)$ 的一段弧，计算\n\\[ I=\\int_L \\left[3+(2-\\sqrt{2})y+\\mathrm{e}^x\\sin y\\right]\\mathrm{d}x+\\left(\\sqrt{2}x+\\mathrm{e}^x\\cos y\\right)\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

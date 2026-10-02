@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "3e03b8a3e138",
+  "item_id": "3e03b8a3e138",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知有向曲线 $L$ 为球面 $x^2+y^2+z^2=2x$ 与平面 $2x-z-1=0$ 的交线，从 $z$ 轴正向往 $z$ 轴负向看去为逆时针方向，计算曲线积分\n\\[\n\\int_L (6xyz-yz^2)\\,\\mathrm{d}x+2x^2z\\,\\mathrm{d}y+xyz\\,\\mathrm{d}z.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3e03b8a3e138-01.png",
+      "latex": "已知有向曲线 $L$ 为球面 $x^2+y^2+z^2=2x$ 与平面 $2x-z-1=0$ 的交线，从 $z$ 轴正向往 $z$ 轴负向看去为逆时针方向，计算曲线积分\n\\[\n\\int_L (6xyz-yz^2)\\,\\mathrm{d}x+2x^2z\\,\\mathrm{d}y+xyz\\,\\mathrm{d}z.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“zP十y2十z2”“2r-x-1”及被积表达式存在 OCR 识别错误，已按图片校正。"
+}

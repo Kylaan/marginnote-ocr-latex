@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "f030f6142839",
+  "item_id": "f030f6142839",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "平行于平面 $5x-14y+2z+36=0$ 且距此平面距离为 $3$ 的平面方程为 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f030f6142839-01.png",
+      "latex": "平行于平面 $5x-14y+2z+36=0$ 且距此平面距离为 $3$ 的平面方程为 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

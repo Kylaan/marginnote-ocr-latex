@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "648e6f755a5b",
+  "item_id": "648e6f755a5b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设平面曲线 \\(L\\) 为 \\(|\\ln x|+|\\ln y|=1\\)，取逆时针方向，计算\n\\[\nI=\\oint_L \\frac{-y\\,dx+x\\,dy}{|\\ln x|+|\\ln y|}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/648e6f755a5b-01.png",
+      "latex": "设平面曲线 \\(L\\) 为 \\(|\\ln x|+|\\ln y|=1\\)，取逆时针方向，计算\n\\[\nI=\\oint_L \\frac{-y\\,dx+x\\,dy}{|\\ln x|+|\\ln y|}.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 \\(\\ln x+\\ln y=1\\) 与分母均缺少绝对值；图片中为 \\(|\\ln x|+|\\ln y|=1\\)，分母为 \\(|\\ln x|+|\\ln y|\\)。"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "a1b529cfdcf2",
+  "item_id": "a1b529cfdcf2",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "346 设曲线 $L$ 为椭圆 $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$，其周长为 $l$，则 $\\oint_L (bx+ay)^2\\,ds$ 等于",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$(a+b)l$."
+    },
+    {
+      "label": "B",
+      "latex": "$(a^2+b^2)l$."
+    },
+    {
+      "label": "C",
+      "latex": "$a^2b^2l$."
+    },
+    {
+      "label": "D",
+      "latex": "$abl$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a1b529cfdcf2-01.png",
+      "latex": "346 设曲线 $L$ 为椭圆 $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$，其周长为 $l$，则 $\\oint_L (bx+ay)^2\\,ds$ 等于\nA. $(a+b)l.$\\quad B. $(a^2+b^2)l.$\\quad C. $a^2b^2l.$\\quad D. $abl.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

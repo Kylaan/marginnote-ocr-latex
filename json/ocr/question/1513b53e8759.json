@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1513b53e8759",
+  "item_id": "1513b53e8759",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma$ 为曲面 $x^2+y^2+4z^2=4\\,(z\\geqslant 0)$ 的上侧，则 $\\displaystyle\\iint_{\\Sigma}\\sqrt{4-x^2-4z^2}\\,\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1513b53e8759-01.png",
+      "latex": "设 $\\Sigma$ 为曲面 $x^2+y^2+4z^2=4\\,(z\\geqslant 0)$ 的上侧，则 $\\displaystyle\\iint_{\\Sigma}\\sqrt{4-x^2-4z^2}\\,\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面方程作“x+y2+4z2=4”，与图片中的 $x^2+y^2+4z^2=4$ 不一致，已以图片为准；raw_text 中“V4-x2-4z2ddy”对应图片中的 $\\sqrt{4-x^2-4z^2}\\,\\mathrm{d}x\\mathrm{d}y$。"
+}

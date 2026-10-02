@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "1b611462499d",
+  "item_id": "1b611462499d",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "6. 设函数 $z=f(x,y)$ 在点 $(0,0)$ 附近有定义，且 $f'_x(0,0)=3$，则曲线\n\\[\\begin{cases}\nz=f(x,y),\\\\\ny=0\n\\end{cases}\\]\n在点 $(0,0,f(0,0))$ 处的法平面方程为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1b611462499d-01.png",
+      "latex": "6. 设函数 $z=f(x,y)$ 在点 $(0,0)$ 附近有定义，且 $f'_x(0,0)=3$，则曲线\n\\[\\begin{cases}\nz=f(x,y),\\\\\ny=0\n\\end{cases}\\]\n在点 $(0,0,f(0,0))$ 处的法平面方程为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

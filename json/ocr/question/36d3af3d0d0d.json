@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "36d3af3d0d0d",
+  "item_id": "36d3af3d0d0d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设有一高度为 $h(t)$（$t$ 为时间）的雪堆在融化过程中，其侧面满足方程 $z=h(t)-\\frac{2(x^2+y^2)}{h(t)}$（设长度单位为厘米，时间单位为小时），已知体积减少的速率与侧面积成正比（比例系数为 $0.9$），问高度为 $130$ 厘米的雪堆全部融化需多少小时？",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/36d3af3d0d0d-01.png",
+      "latex": "设有一高度为 $h(t)$（$t$ 为时间）的雪堆在融化过程中，其侧面满足方程 $z=h(t)-\\frac{2(x^2+y^2)}{h(t)}$（设长度单位为厘米，时间单位为小时），已知体积减少的速率与侧面积成正比（比例系数为 $0.9$），问高度为 $130$ 厘米的雪堆全部融化需多少小时？"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

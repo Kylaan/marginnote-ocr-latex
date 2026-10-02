@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "8eb3e7f8c579",
+  "item_id": "8eb3e7f8c579",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "（12）设 $\\Omega$ 是由平面 $x+y+z=1$ 与三个坐标平面所围成的空间区域，则\n\\[\n\\iiint_{\\Omega}(x+2y+3z)\\,\\mathrm{d}x\\mathrm{d}y\\mathrm{d}z=\\underline{\\hspace{4em}}\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8eb3e7f8c579-01.png",
+      "latex": "（12）设 $\\Omega$ 是由平面 $x+y+z=1$ 与三个坐标平面所围成的空间区域，则\n\\[\n\\iiint_{\\Omega}(x+2y+3z)\\,\\mathrm{d}x\\mathrm{d}y\\mathrm{d}z=\\underline{\\hspace{4em}}\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中将平面写为 x+y+z=l，且积分表达式有误；图片中为 x+y+z=1 与标准三重积分。"
+}

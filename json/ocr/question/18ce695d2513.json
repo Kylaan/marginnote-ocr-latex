@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "18ce695d2513",
+  "item_id": "18ce695d2513",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(3) 计算积分 \\(I=\\oint_{L}\\frac{x\\,dy-y\\,dx}{x^2+y^2}\\)，其中\n\n(I) \\(L\\) 为 \\((x+2)^2+(y-2)^2=1\\)，取逆时针方向；\n\n(II) \\(L\\) 为 \\(x^2+y^2=1\\)，取逆时针方向；\n\n(III) \\(L\\) 为 \\(\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1\\)，取逆时针方向.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/18ce695d2513-01.png",
+      "latex": "(3) 计算积分 \\(I=\\oint_{L}\\frac{x\\,dy-y\\,dx}{x^2+y^2}\\)，其中\n\n(I) \\(L\\) 为 \\((x+2)^2+(y-2)^2=1\\)，取逆时针方向；\n\n(II) \\(L\\) 为 \\(x^2+y^2=1\\)，取逆时针方向；\n\n(III) \\(L\\) 为 \\(\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1\\)，取逆时针方向."
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中部分公式与图片不一致，已按图片转写。"
+}

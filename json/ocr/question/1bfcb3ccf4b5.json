@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1bfcb3ccf4b5",
+  "item_id": "1bfcb3ccf4b5",
+  "status": "ok",
+  "confidence": 0.98,
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma$ 是锥面 $z=\\sqrt{x^2+y^2}\\ (0\\leqslant z\\leqslant 1)$ 的下侧，则 $\\displaystyle\\iint_{\\Sigma} x\\,\\mathrm{d}y\\mathrm{d}z+2y\\,\\mathrm{d}z\\mathrm{d}x+3(z-1)\\,\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1bfcb3ccf4b5-01.png",
+      "latex": "设 $\\Sigma$ 是锥面 $z=\\sqrt{x^2+y^2}\\ (0\\leqslant z\\leqslant 1)$ 的下侧，则 $\\displaystyle\\iint_{\\Sigma} x\\,\\mathrm{d}y\\mathrm{d}z+2y\\,\\mathrm{d}z\\mathrm{d}x+3(z-1)\\,\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "输入 raw_text 将锥面误写为 z=x+y(OKzS1)，与图片中 $z=\\sqrt{x^2+y^2}\\ (0\\leqslant z\\leqslant 1)$ 不符，已以图片为准。"
+}

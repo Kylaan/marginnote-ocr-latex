@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "671550f9e642",
+  "item_id": "671550f9e642",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "3 设封闭曲面 $\\Sigma_1:x^2+y^2+z^2=1,\\Sigma_2:x^2+2y^2+z^2=1,\\Sigma_3:(x-1)^2+y^2+z^2=1,\\Sigma_4:x^2+y^2+(z-1)^2=1$ 均取外侧，则第二类曲面积分 $I_i=\\iint_{\\Sigma_i}4dydz+yzdzdx+3x^2dxdy(i=1,2,3,4)$ 中，最大的是（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$I_1$."
+    },
+    {
+      "label": "B",
+      "latex": "$I_2$."
+    },
+    {
+      "label": "C",
+      "latex": "$I_3$."
+    },
+    {
+      "label": "D",
+      "latex": "$I_4$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/671550f9e642-01.png",
+      "latex": "3 设封闭曲面 $\\Sigma_1:x^2+y^2+z^2=1,\\Sigma_2:x^2+2y^2+z^2=1,\\Sigma_3:(x-1)^2+y^2+z^2=1,\\Sigma_4:x^2+y^2+(z-1)^2=1$ 均取外侧，则第二类曲面积分 $I_i=\\iint_{\\Sigma_i}4dydz+yzdzdx+3x^2dxdy(i=1,2,3,4)$ 中，最大的是（ ）\n(A)$I_1$. (B)$I_2$. (C)$I_3$. (D)$I_4$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中多处符号与图片不符，已按图片转写。"
+}

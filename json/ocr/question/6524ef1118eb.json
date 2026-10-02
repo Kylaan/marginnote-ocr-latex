@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6524ef1118eb",
+  "item_id": "6524ef1118eb",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(4) 设 $\\Omega$ 是由锥面 $z=\\sqrt{x^2+y^2}$ 与半球面 $z=\\sqrt{R^2-x^2-y^2}$ 围成的空间区域，$\\Sigma$ 是 $\\Omega$ 的整个边界的外侧，则\n\\[\n\\iint\\limits_{\\Sigma} x\\,dy\\,dz+y\\,dz\\,dx+z\\,dx\\,dy=\\underline{\\hspace{4em}}\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6524ef1118eb-01.png",
+      "latex": "(4) 设 $\\Omega$ 是由锥面 $z=\\sqrt{x^2+y^2}$ 与半球面 $z=\\sqrt{R^2-x^2-y^2}$ 围成的空间区域，$\\Sigma$ 是 $\\Omega$ 的整个边界的外侧，则\n\\[\n\\iint\\limits_{\\Sigma} x\\,dy\\,dz+y\\,dz\\,dx+z\\,dx\\,dy=\\underline{\\hspace{4em}}\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中锥面/半球面表达式及积分项有明显 OCR 错误，已按图片转写。"
+}

@@ -1,0 +1,37 @@
+{
+  "questions": 391,
+  "chapter_counts": {
+    "空间解析几何": 113,
+    "三重积分": 44,
+    "线面积分": 234
+  },
+  "ocr_status_after_review": {
+    "ok": 391
+  },
+  "manual_review_items": [
+    "26f9c73f068d",
+    "71a215a71e97",
+    "7f6ce1bb0b76",
+    "267f55726955",
+    "0f23bb94c21f",
+    "dd8e1f044cad",
+    "4084728d945f"
+  ],
+  "figures": {
+    "c340b16c6ba4": [
+      "assets/fig/c340b16c6ba4-01.png"
+    ],
+    "c45d9b70090b": [
+      "assets/fig/c45d9b70090b-01.png"
+    ],
+    "7b170a949815": [
+      "assets/fig/7b170a949815-01.png"
+    ]
+  },
+  "books": {
+    "无空版": "澄潇宇大观题库-多元积分·无空版.tex",
+    "留空版": "澄潇宇大观题库-多元积分·留空版.tex"
+  },
+  "warnings": [],
+  "body_policy": "Only latex/options; no answer or image_transcriptions content."
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5422d937fad9",
+  "item_id": "5422d937fad9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲面 $x^2+2y^2+3z^2=21$ 在点 $(1,-2,2)$ 的法线方程为 $\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5422d937fad9-01.png",
+      "latex": "曲面 $x^2+2y^2+3z^2=21$ 在点 $(1,-2,2)$ 的法线方程为 $\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的公式与点坐标存在 OCR 误识别；图片清晰，已按图片转写。"
+}

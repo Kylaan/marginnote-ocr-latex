@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "124b4c12f168",
+  "item_id": "124b4c12f168",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设对于半空间 $x>0$ 内任意的光滑有向封闭曲面 $S$，都有\n\\[\\oiint_{S} xf(x)\\,\\mathrm{d}y\\,\\mathrm{d}z-xyf(x)\\,\\mathrm{d}z\\,\\mathrm{d}x-\\mathrm{e}^{2x}z\\,\\mathrm{d}x\\,\\mathrm{d}y=0,\\]\n其中函数 $f(x)$ 在 $(0,+\\infty)$ 内具有连续的一阶导数，且 $\\lim\\limits_{x\\to 0^{+}}f(x)=1$。求 $f(x)$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/124b4c12f168-01.png",
+      "latex": "设对于半空间 $x>0$ 内任意的光滑有向封闭曲面 $S$，都有\n\\[\\oiint_{S} xf(x)\\,\\mathrm{d}y\\,\\mathrm{d}z-xyf(x)\\,\\mathrm{d}z\\,\\mathrm{d}x-\\mathrm{e}^{2x}z\\,\\mathrm{d}x\\,\\mathrm{d}y=0,\\]\n其中函数 $f(x)$ 在 $(0,+\\infty)$ 内具有连续的一阶导数，且 $\\lim\\limits_{x\\to 0^{+}}f(x)=1$。求 $f(x)$。"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": "raw_text 中积分被误识为“手/(n0b-o/Cxdr-e\"ddy”，图片显示为封闭曲面积分 $\\oiint_S$ 及被积式 $xf(x)\\,\\mathrm{d}y\\,\\mathrm{d}z-xyf(x)\\,\\mathrm{d}z\\,\\mathrm{d}x-\\mathrm{e}^{2x}z\\,\\mathrm{d}x\\,\\mathrm{d}y$；raw_text 中极限未标出 $x\\to 0^{+}$，图片中明确为 $\\lim\\limits_{x\\to 0^{+}}f(x)=1$。"
+}

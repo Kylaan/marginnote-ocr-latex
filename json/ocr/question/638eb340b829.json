@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "638eb340b829",
+  "item_id": "638eb340b829",
+  "status": "ok",
+  "question_type": "proof",
+  "latex": "(8) 设在 \\(D=\\{(x,y)\\mid y>0\\}\\) 内，\\(f(x,y)\\) 有一阶连续偏导数，\\(f(x,y)\\neq 0\\)，且对任意 \\(t>0\\)，有 \\(f(tx,ty)=t^2 f(x,y)\\)，证明：对 \\(D\\) 内的任意分段光滑的有向简单闭曲线 \\(L\\)，都有 \\[\\oint_L \\frac{y}{f(x,y)}\\,\\mathrm{d}x-\\frac{x}{f(x,y)}\\,\\mathrm{d}y=0.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/638eb340b829-01.png",
+      "latex": "(8) 设在 \\(D=\\{(x,y)\\mid y>0\\}\\) 内，\\(f(x,y)\\) 有一阶连续偏导数，\\(f(x,y)\\neq 0\\)，且对任意 \\(t>0\\)，有 \\(f(tx,ty)=t^2 f(x,y)\\)，证明：对 \\(D\\) 内的任意分段光滑的有向简单闭曲线 \\(L\\)，都有 \\[\\oint_L \\frac{y}{f(x,y)}\\,\\mathrm{d}x-\\frac{x}{f(x,y)}\\,\\mathrm{d}y=0.\\]"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

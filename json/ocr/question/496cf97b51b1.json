@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "496cf97b51b1",
+  "item_id": "496cf97b51b1",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "1 设曲线积分 $\\int_L e^y \\sin x\\,dx + f(x)e^{y-x}\\,dy$ 与路径无关，其中 $f(x)$ 具有一阶连续偏导数，且当 $x\\to 0$ 时，$f(x)$ 为无穷小量，则 $f(x)$ 与下列哪一项是同阶无穷小量（\\quad）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$x$."
+    },
+    {
+      "label": "B",
+      "latex": "$x^2$."
+    },
+    {
+      "label": "C",
+      "latex": "$x^3$."
+    },
+    {
+      "label": "D",
+      "latex": "$x^4$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/496cf97b51b1-01.png",
+      "latex": "1 设曲线积分 $\\int_L e^y \\sin x\\,dx + f(x)e^{y-x}\\,dy$ 与路径无关，其中 $f(x)$ 具有一阶连续偏导数，且当 $x\\to 0$ 时，$f(x)$ 为无穷小量，则 $f(x)$ 与下列哪一项是同阶无穷小量（\\quad） (A) $x$. (B) $x^2$. (C) $x^3$. (D) $x^4$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

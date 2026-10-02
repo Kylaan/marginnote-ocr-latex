@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "59928cafc9a2",
+  "item_id": "59928cafc9a2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲面 $z=4-x^2-y^2$ 在点 $P(1,1,2)$ 处的切平面方程为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/59928cafc9a2-01.png",
+      "latex": "曲面 $z=4-x^2-y^2$ 在点 $P(1,1,2)$ 处的切平面方程为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

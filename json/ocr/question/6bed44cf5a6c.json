@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6bed44cf5a6c",
+  "item_id": "6bed44cf5a6c",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求 $I = \\int_L \\left[ e^x \\sin y - b(x+y) \\right] dx + \\left( e^x \\cos y - a x \\right) dy$，其中 $a,b$ 为正的常数，$L$ 为从点 $A(2a,0)$ 沿曲线 $y=\\sqrt{2ax-x^2}$ 到点 $O(0,0)$ 的弧。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6bed44cf5a6c-01.png",
+      "latex": "求 $I = \\int_L \\left[ e^x \\sin y - b(x+y) \\right] dx + \\left( e^x \\cos y - a x \\right) dy$，其中 $a,b$ 为正的常数，$L$ 为从点 $A(2a,0)$ 沿曲线 $y=\\sqrt{2ax-x^2}$ 到点 $O(0,0)$ 的弧。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片冲突：raw_text 将积分表达式误写为 1=... 且曲线根号内容不准确；已以图片为准。"
+}

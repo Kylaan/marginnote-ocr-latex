@@ -1,0 +1,30 @@
+{
+  "prepared_at": "2026-10-02",
+  "redacted_paths": [
+    "tools\\typeset\\typeset_base.py",
+    "tools\\typeset\\templates\\无空版-封皮.tex",
+    "tools\\typeset\\templates\\无空版.tex",
+    "tools\\typeset\\templates\\留空版.tex",
+    "work\\logs\\ocr-import-report.json",
+    "archives/ocr-delivery-sanitized.zip::work/logs/ocr-progress.json",
+    "archives/ocr-delivery-sanitized.zip::work/logs/ocr-run.jsonl",
+    "archives/ocr-delivery-sanitized.zip::work/ocr-run/README.md",
+    "archives/ocr-delivery-sanitized.zip::work/ocr-run/run_ocr.py",
+    "archives/ocr-delivery-sanitized.zip::work/review/ocr-sample-5-standalone.html",
+    "archives/ocr-delivery-sanitized.zip::work/review/ocr-sample-5.html",
+    "archives/ocr-delivery-sanitized.zip::workflow.json"
+  ],
+  "archives": [
+    {
+      "path": "archives/extraction-original.zip",
+      "bytes": 300735298,
+      "sha256": "b8bef42b2d535c2f80974abfaeac607c94d8e36660a72e2f010f2f99d1bccee6"
+    },
+    {
+      "path": "archives/ocr-delivery-sanitized.zip",
+      "bytes": 301081691,
+      "sha256": "bfe163b054908dfd678f4e227756338a60332ff37244bcfd899128ffd74ee2e6"
+    }
+  ],
+  "policy": "Canonical OCR/images/database preserved; protected overlays updated; historical delivery snapshot sanitized."
+}

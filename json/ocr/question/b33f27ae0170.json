@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b33f27ae0170",
+  "item_id": "b33f27ae0170",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(11) 已知曲线 \\(L\\) 的方程为 \\(y=1-|x|\\)（\\(x\\in[-1,1]\\)），起点是 \\((-1,0)\\)，终点为 \\((1,0)\\)，则曲线积分\n\\[\n\\int_L xy\\,dx+x^2\\,dy=\\underline{\\hspace{4em}}\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b33f27ae0170-01.png",
+      "latex": "(11) 已知曲线 \\(L\\) 的方程为 \\(y=1-|x|\\)（\\(x\\in[-1,1]\\)），起点是 \\((-1,0)\\)，终点为 \\((1,0)\\)，则曲线积分\n\\[\n\\int_L xy\\,dx+x^2\\,dy=\\underline{\\hspace{4em}}\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致：图片中曲线方程为 y=1-|x|，x∈[-1,1]，起点为 (-1,0)，终点为 (1,0)。"
+}

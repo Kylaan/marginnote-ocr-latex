@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "f07f5a1c56f4",
+  "item_id": "f07f5a1c56f4",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2) 设 $f(u)$ 有一阶连续导数，点 $A(1,0,0)$ 与点 $B(1,1,1)$，$\\Sigma$ 为直线 $AB$ 绕 $z$ 轴旋转一周所得旋转曲面介于平面 $z=0$ 与 $z=1$ 之间部分的外侧，计算积分\n\\[ I=\\iint\\limits_{\\Sigma}[xf(xy)-2x]\\,\\mathrm{d}y\\mathrm{d}z+[y^2-yf(xy)]\\,\\mathrm{d}z\\mathrm{d}x+(z+1)^2\\,\\mathrm{d}x\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f07f5a1c56f4-01.png",
+      "latex": "(2) 设 $f(u)$ 有一阶连续导数，点 $A(1,0,0)$ 与点 $B(1,1,1)$，$\\Sigma$ 为直线 $AB$ 绕 $z$ 轴旋转一周所得旋转曲面介于平面 $z=0$ 与 $z=1$ 之间部分的外侧，计算积分\n\\[ I=\\iint\\limits_{\\Sigma}[xf(xy)-2x]\\,\\mathrm{d}y\\mathrm{d}z+[y^2-yf(xy)]\\,\\mathrm{d}z\\mathrm{d}x+(z+1)^2\\,\\mathrm{d}x\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片存在多处 OCR 差异，已按图片转写。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "b14e43c35093",
+  "item_id": "b14e43c35093",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "14. 在曲面 $\\Sigma:x^2+2y^2+z^2=1$ 上求一点，使函数 $f(x,y,z)=2x^2+y^2+z$ 在该点沿方向 $n$ 的方向导数最大，其中 $n$ 是曲面 $\\Sigma$ 在点 $P\\left(\\frac{1}{2},-\\frac{1}{2},\\frac{1}{2}\\right)$ 的外侧法向量.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b14e43c35093-01.png",
+      "latex": "14. 在曲面 $\\Sigma:x^2+2y^2+z^2=1$ 上求一点，使函数 $f(x,y,z)=2x^2+y^2+z$ 在该点沿方向 $n$ 的方向导数最大，其中 $n$ 是曲面 $\\Sigma$ 在点 $P\\left(\\frac{1}{2},-\\frac{1}{2},\\frac{1}{2}\\right)$ 的外侧法向量."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

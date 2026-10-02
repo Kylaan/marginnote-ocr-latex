@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "e4c1f060f4eb",
+  "item_id": "e4c1f060f4eb",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $V$ 是由 $x^2+y^2+z^2=R^2$ 与 $x^2+y^2+(z-R)^2=R^2$ 所围的区域，计算 $I=\\iiint_V z^2\\,dV$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e4c1f060f4eb-01.png",
+      "latex": "设 $V$ 是由 $x^2+y^2+z^2=R^2$ 与 $x^2+y^2+(z-R)^2=R^2$ 所围的区域，计算 $I=\\iiint_V z^2\\,dV$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

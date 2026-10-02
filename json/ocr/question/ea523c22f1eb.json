@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "ea523c22f1eb",
+  "item_id": "ea523c22f1eb",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "14. 设函数 $f(x,y)$ 在区域 $D=\\{(x,y)\\mid x^{2}+4y^{2}\\leqslant 4\\}$ 上二阶偏导数连续，$\\partial D$ 是 $D$ 取正向的边界曲线，则 $\\oint_{\\partial D}\\left[f_{x}^{\\prime}(x,y)-y\\right]\\mathrm{d}x+f_{y}^{\\prime}(x,y)\\,\\mathrm{d}y=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ea523c22f1eb-01.png",
+      "latex": "14. 设函数 $f(x,y)$ 在区域 $D=\\{(x,y)\\mid x^{2}+4y^{2}\\leqslant 4\\}$ 上二阶偏导数连续，$\\partial D$ 是 $D$ 取正向的边界曲线，则 $\\oint_{\\partial D}\\left[f_{x}^{\\prime}(x,y)-y\\right]\\mathrm{d}x+f_{y}^{\\prime}(x,y)\\,\\mathrm{d}y=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "33e9d0c98ff2",
+  "item_id": "33e9d0c98ff2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "156 设曲线 $\\Gamma$ 为圆柱面 $x^2+y^2=4$ 与平面 $\\frac{x}{2}+z=1$ 的交线，从 $z$ 轴的正向看去为逆时针方向，则积分 \\[\\oint_{\\Gamma}(y^2z-x)\\,\\mathrm{d}x+(3x-2yz^2)\\,\\mathrm{d}y+(x+y+z)\\,\\mathrm{d}z=\\underline{\\hspace{4em}}.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/33e9d0c98ff2-01.png",
+      "latex": "156 设曲线 $\\Gamma$ 为圆柱面 $x^2+y^2=4$ 与平面 $\\frac{x}{2}+z=1$ 的交线，从 $z$ 轴的正向看去为逆时针方向，则积分 $\\oint_{\\Gamma}(y^2z-x)\\,\\mathrm{d}x+(3x-2yz^2)\\,\\mathrm{d}y+(x+y+z)\\,\\mathrm{d}z=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“平面x2+ z = 1”将平面方程误识别为 $x^2+z=1$，图中实为 $\\frac{x}{2}+z=1$，已以图片为准。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "f851cc755cad",
+  "item_id": "f851cc755cad",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分 \\[ I=\\iint_{\\Sigma}(x^3+az^2)\\,\\mathrm{d}y\\mathrm{d}z+(y^3+ax^2)\\,\\mathrm{d}z\\mathrm{d}x+(z^3+ay^2)\\,\\mathrm{d}x\\mathrm{d}y, \\] 其中 \\(\\Sigma\\) 为上半球面 \\[ z=\\sqrt{a^2-x^2-y^2} \\] 的上侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f851cc755cad-01.png",
+      "latex": "计算曲面积分 \\[ I=\\iint_{\\Sigma}(x^3+az^2)\\,\\mathrm{d}y\\mathrm{d}z+(y^3+ax^2)\\,\\mathrm{d}z\\mathrm{d}x+(z^3+ay^2)\\,\\mathrm{d}x\\mathrm{d}y, \\] 其中 \\(\\Sigma\\) 为上半球面 \\[ z=\\sqrt{a^2-x^2-y^2} \\] 的上侧."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已按图片转写。"
+}

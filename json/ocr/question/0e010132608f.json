@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "0e010132608f",
+  "item_id": "0e010132608f",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "356 在力场 \\(F=\\frac{y^3 i-x^3 j}{\\sqrt{x^2+y^2}}\\) 的作用下，一质点沿圆周 \\(x^2+y^2=1\\) 逆时针运动一圈所做的功为",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\(\\frac{\\pi}{2}.\\)"
+    },
+    {
+      "label": "B",
+      "latex": "\\(\\frac{3\\pi}{2}.\\)"
+    },
+    {
+      "label": "C",
+      "latex": "\\(-\\frac{\\pi}{2}.\\)"
+    },
+    {
+      "label": "D",
+      "latex": "\\(-\\frac{3\\pi}{2}.\\)"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0e010132608f-01.png",
+      "latex": "356 在力场 \\(F=\\frac{y^3 i-x^3 j}{\\sqrt{x^2+y^2}}\\) 的作用下，一质点沿圆周 \\(x^2+y^2=1\\) 逆时针运动一圈所做的功为\nA. \\(\\frac{\\pi}{2}.\\)\nB. \\(\\frac{3\\pi}{2}.\\)\nC. \\(-\\frac{\\pi}{2}.\\)\nD. \\(-\\frac{3\\pi}{2}.\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中力场分母写作 x2+y2，图片中为 \\sqrt{x^2+y^2}；以图片为准。"
+}

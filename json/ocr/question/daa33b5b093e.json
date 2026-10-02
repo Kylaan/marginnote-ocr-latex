@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "daa33b5b093e",
+  "item_id": "daa33b5b093e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "2. 设 $\\Omega$ 是由上半球面 $z=\\sqrt{4-x^2-y^2}$ 与曲面 $x^2+y^2=3z$ 所围成的空间有界闭区域，则 $\\Omega$ 的形心竖坐标 $\\bar{z}= \\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/daa33b5b093e-01.png",
+      "latex": "2. 设 $\\Omega$ 是由上半球面 $z=\\sqrt{4-x^2-y^2}$ 与曲面 $x^2+y^2=3z$ 所围成的空间有界闭区域，则 $\\Omega$ 的形心竖坐标 $\\bar{z}= \\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中将 $z=\\sqrt{4-x^2-y^2}$ 略写为 $z=4-x^2-y^2$；图片显示带根号。"
+}

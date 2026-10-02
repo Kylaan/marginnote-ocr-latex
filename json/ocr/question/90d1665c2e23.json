@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "90d1665c2e23",
+  "item_id": "90d1665c2e23",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "点 $P(1,-1,0)$ 到直线 $L:\\frac{x}{3}=\\frac{y}{3}=\\frac{z+1}{2}$ 的距离 $d=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/90d1665c2e23-01.png",
+      "latex": "点 $P(1,-1,0)$ 到直线 $L:\\frac{x}{3}=\\frac{y}{3}=\\frac{z+1}{2}$ 的距离 $d=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

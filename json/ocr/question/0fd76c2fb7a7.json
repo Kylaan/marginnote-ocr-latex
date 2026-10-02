@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "0fd76c2fb7a7",
+  "item_id": "0fd76c2fb7a7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "与两直线 \\[\\begin{cases} x=1, \\\\ y=-1+t, \\\\ z=2+t \\end{cases}\\] 及 \\[\\frac{x+1}{1}=\\frac{y+2}{2}=\\frac{z-1}{1}\\] 都平行，且过原点的平面方程为 \\underline{\\hspace{4em}}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0fd76c2fb7a7-01.png",
+      "latex": "与两直线 \\[\\begin{cases} x=1, \\\\ y=-1+t, \\\\ z=2+t \\end{cases}\\] 及 \\[\\frac{x+1}{1}=\\frac{y+2}{2}=\\frac{z-1}{1}\\] 都平行，且过原点的平面方程为 \\underline{\\hspace{4em}}"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容明显不一致，已以图片为准。"
+}

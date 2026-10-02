@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "71a215a71e97",
+  "item_id": "71a215a71e97",
+  "status": "needs_review",
+  "question_type": "solution",
+  "latex": "设有界区域 $\\Omega$ 由平面 $2x+y+2z=2$ 与三个坐标平面围成，$\\Sigma$ 为 $\\Omega$ 整个表面的外侧，计算曲面积分\n\\[ I=\\iint_{\\Sigma}(x^2+1)\\,\\mathrm{d}y\\,\\mathrm{d}z-2y\\,\\mathrm{d}z\\,\\mathrm{d}x+3z\\,\\mathrm{d}x\\,\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/71a215a71e97-01.png",
+      "latex": "设有界区域 $\\Omega$ 由平面 $2x+y+2z=2$ 与三个坐标平面围成，$\\Sigma$ 为 $\\Omega$ 整个表面的外侧，计算曲面积分\n\\[ I=\\iint_{\\Sigma}(x^2+1)\\,\\mathrm{d}y\\,\\mathrm{d}z-2y\\,\\mathrm{d}z\\,\\mathrm{d}x+3z\\,\\mathrm{d}x\\,\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中为 $(x+1)$ 与 $-2ydzdr$，图片显示为 $(x^2+1)$ 与 $-2y\\,\\mathrm{d}z\\,\\mathrm{d}x$，以图片为准。"
+}

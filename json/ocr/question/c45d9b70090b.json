@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "qid": "c45d9b70090b",
+  "item_id": "c45d9b70090b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "11. 已知 $\\Sigma$ 为曲面 $4x^2+y^2+z^2=1\\ (x\\geqslant 0,\\ y\\geqslant 0,\\ z\\geqslant 0)$ 的上侧（见图），$L$ 为 $\\Sigma$ 的边界曲线，其方向与 $\\Sigma$ 的正法向量满足右手法则，计算曲线积分\n\\[\nI=\\oint_L(yz^2-\\cos z)\\,dx+2xz^2\\,dy+(2xyz+x\\sin z)\\,dz.\n\\]\n\\text{[见图]}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c45d9b70090b-01.png",
+      "latex": "11. 已知 $\\Sigma$ 为曲面 $4x^2+y^2+z^2=1\\ (x\\geqslant 0,\\ y\\geqslant 0,\\ z\\geqslant 0)$ 的上侧（见图），$L$ 为 $\\Sigma$ 的边界曲线，其方向与 $\\Sigma$ 的正法向量满足右手法则，计算曲线积分\n\\[\nI=\\oint_L(yz^2-\\cos z)\\,dx+2xz^2\\,dy+(2xyz+x\\sin z)\\,dz.\n\\]\n\\text{[见图]}"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "contains_diagram",
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中部分符号缺失或格式不一致，已按图片转写。"
+}

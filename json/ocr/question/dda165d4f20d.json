@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "dda165d4f20d",
+  "item_id": "dda165d4f20d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "12 设 $u(x,y)=\\arctan\\frac{x}{y}$，$D$ 为由 $x^2+y^2=1$，$x^2+y^2=4$，$y=x$，$y=-x$ 所围成区域在上半平面中的部分，$L$ 为其正向边界。\n（I）当 $y\\neq 0$ 时，计算 $\\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2}$；\n（II）求 $\\oint_L u(x,y)\\frac{\\partial u}{\\partial n}\\mathrm{d}s$，其中 $\\boldsymbol{n}$ 为 $L$ 的外法线方向。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/dda165d4f20d-01.png",
+      "latex": "12 设 $u(x,y)=\\arctan\\frac{x}{y}$，$D$ 为由 $x^2+y^2=1$，$x^2+y^2=4$，$y=x$，$y=-x$ 所围成区域在上半平面中的部分，$L$ 为其正向边界。\n（I）当 $y\\neq 0$ 时，计算 $\\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2}$；\n（II）求 $\\oint_L u(x,y)\\frac{\\partial u}{\\partial n}\\mathrm{d}s$，其中 $\\boldsymbol{n}$ 为 $L$ 的外法线方向。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "输入 raw_text 与图片不一致；图片中为 \\arctan(x/y)、二阶偏导和闭合曲线积分，已按图片转写。"
+}

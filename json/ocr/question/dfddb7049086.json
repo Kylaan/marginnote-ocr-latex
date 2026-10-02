@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "dfddb7049086",
+  "item_id": "dfddb7049086",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲线 $\\begin{cases} x^2+2y^2+3z^2=6, \\\\ x+y+z=3 \\end{cases}$ 在点 $(1,1,1)$ 处的切线方程为 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/dfddb7049086-01.png",
+      "latex": "曲线 $\\begin{cases} x^2+2y^2+3z^2=6, \\\\ x+y+z=3 \\end{cases}$ 在点 $(1,1,1)$ 处的切线方程为 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

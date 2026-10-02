@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "288aa8438128",
+  "item_id": "288aa8438128",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "点 $P(1,-1,2)$ 到平面 $\\pi: 2x-y+5z-12=0$ 的距离 $d=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/288aa8438128-01.png",
+      "latex": "点 $P(1,-1,2)$ 到平面 $\\pi: 2x-y+5z-12=0$ 的距离 $d=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

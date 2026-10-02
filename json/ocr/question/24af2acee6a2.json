@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "24af2acee6a2",
+  "item_id": "24af2acee6a2",
+  "status": "ok",
+  "question_type": "proof",
+  "latex": "21 设 \\(f(x,y)\\) 在单位圆盘 \\(D=\\{(x,y)\\mid x^2+y^2\\le 1\\}\\) 上有二阶连续偏导数，且满足\n\\[\n\\frac{\\partial^2 f}{\\partial x^2}+\\frac{\\partial^2 f}{\\partial y^2}=\\frac{e^{\\sqrt{x^2+y^2}}}{1+\\sqrt{x^2+y^2}}.\n\\]\n证明：\\(0<\\oint_L \\frac{\\partial f}{\\partial n}\\,\\mathrm{d}s<\\pi e\\)，其中 \\(L\\) 为 \\(D\\) 的正向边界曲线，\\(n\\) 为 \\(L\\) 的外法线方向。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/24af2acee6a2-01.png",
+      "latex": "21 设 \\(f(x,y)\\) 在单位圆盘 \\(D=\\{(x,y)\\mid x^2+y^2\\le 1\\}\\) 上有二阶连续偏导数，且满足\n\\[\n\\frac{\\partial^2 f}{\\partial x^2}+\\frac{\\partial^2 f}{\\partial y^2}=\\frac{e^{\\sqrt{x^2+y^2}}}{1+\\sqrt{x^2+y^2}}.\n\\]\n证明：\\(0<\\oint_L \\frac{\\partial f}{\\partial n}\\,\\mathrm{d}s<\\pi e\\)，其中 \\(L\\) 为 \\(D\\) 的正向边界曲线，\\(n\\) 为 \\(L\\) 的外法线方向。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

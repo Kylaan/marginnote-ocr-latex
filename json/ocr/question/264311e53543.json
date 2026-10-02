@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "264311e53543",
+  "item_id": "264311e53543",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "过点 $(1,0,1)$ 与点 $(0,1,1)$ 且与曲面 $z=1+x^2+y^2$ 相切的平面为 $\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/264311e53543-01.png",
+      "latex": "过点 $(1,0,1)$ 与点 $(0,1,1)$ 且与曲面 $z=1+x^2+y^2$ 相切的平面为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

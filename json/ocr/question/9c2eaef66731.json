@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "9c2eaef66731",
+  "item_id": "9c2eaef66731",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "12 求直线 \\(l:\\frac{x}{2}=\\frac{y-1}{2}=\\frac{z-1}{-1}\\) 在平面 \\(\\pi:x-y+2z-1=0\\) 上的投影直线 \\(l_0\\) 的方程，并求 \\(l_0\\) 绕 \\(y\\) 轴旋转一周所成曲面的方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9c2eaef66731-01.png",
+      "latex": "12 求直线 \\(l:\\frac{x}{2}=\\frac{y-1}{2}=\\frac{z-1}{-1}\\) 在平面 \\(\\pi:x-y+2z-1=0\\) 上的投影直线 \\(l_0\\) 的方程，并求 \\(l_0\\) 绕 \\(y\\) 轴旋转一周所成曲面的方程."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将题号及直线方程误识别为“四求直线1=2”等，与图片不一致；以图片为准。"
+}

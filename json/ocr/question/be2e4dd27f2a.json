@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "be2e4dd27f2a",
+  "item_id": "be2e4dd27f2a",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例 8.12】(1) 设奇函数 $f(u)$ 有一阶连续导数，曲面 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 与球面 $x^2+y^2+z^2=1$，$x^2+y^2+z^2=2$ 所围立体表面的外侧，计算积分\n\\[\nI = \\iint_{\\Sigma} x^3\\,dy\\,dz + [y^3+f(yz)]\\,dz\\,dx + [z^3+f(yz)]\\,dx\\,dy.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/be2e4dd27f2a-01.png",
+      "latex": "【例 8.12】(1) 设奇函数 $f(u)$ 有一阶连续导数，曲面 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 与球面 $x^2+y^2+z^2=1$，$x^2+y^2+z^2=2$ 所围立体表面的外侧，计算积分\n\\[\nI = \\iint_{\\Sigma} x^3\\,dy\\,dz + [y^3+f(yz)]\\,dz\\,dx + [z^3+f(yz)]\\,dx\\,dy.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

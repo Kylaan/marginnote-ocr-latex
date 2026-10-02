@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5d2128461b36",
+  "item_id": "5d2128461b36",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $L:x^2+y^2=R^2(R>1)$，取逆时针方向，计算\n\\[\nI=\\oint_L \\frac{x\\mathrm{d}y-y\\mathrm{d}x}{4x^2+9y^2}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5d2128461b36-01.png",
+      "latex": "设 $L:x^2+y^2=R^2(R>1)$，取逆时针方向，计算\n\\[\nI=\\oint_L \\frac{x\\mathrm{d}y-y\\mathrm{d}x}{4x^2+9y^2}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 缺少积分号 \\oint_L，已按图片转写。"
+}

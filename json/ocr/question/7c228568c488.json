@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7c228568c488",
+  "item_id": "7c228568c488",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设直线 $L$ 过 $A(1,0,0),B(0,1,1)$ 两点，将 $L$ 绕 $Z$ 轴旋转一周得到曲面 $\\Sigma$，$\\Sigma$ 与平面 $z=0,z=2$ 所围成的立体为 $\\Omega$，\n\n（I）求曲面 $\\Sigma$ 的方程；（II）求 $\\Omega$ 的形心坐标.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7c228568c488-01.png",
+      "latex": "设直线 $L$ 过 $A(1,0,0),B(0,1,1)$ 两点，将 $L$ 绕 $Z$ 轴旋转一周得到曲面 $\\Sigma$，$\\Sigma$ 与平面 $z=0,z=2$ 所围成的立体为 $\\Omega$，\n\n（I）求曲面 $\\Sigma$ 的方程；（II）求 $\\Omega$ 的形心坐标."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 A 点坐标识别有误，图片显示为 A(1,0,0)。"
+}

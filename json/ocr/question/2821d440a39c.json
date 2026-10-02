@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2821d440a39c",
+  "item_id": "2821d440a39c",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(2)（第十二届北京市大学生数学竞赛题，2000年）设 $\\Gamma$ 为从球面 $x^2+y^2+z^2=a^2$ 上任一点到球面 $x^2+y^2+z^2=b^2\\,(a>0,b>0)$ 上任一点的分段光滑曲线，则 $\\int_{\\Gamma}\\left(x^2+y^2+z^2\\right)^{\\frac{3}{2}}\\left(x\\,dx+y\\,dy+z\\,dz\\right)=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2821d440a39c-01.png",
+      "latex": "(2)（第十二届北京市大学生数学竞赛题，2000年）设 $\\Gamma$ 为从球面 $x^2+y^2+z^2=a^2$ 上任一点到球面 $x^2+y^2+z^2=b^2\\,(a>0,b>0)$ 上任一点的分段光滑曲线，则 $\\int_{\\Gamma}\\left(x^2+y^2+z^2\\right)^{\\frac{3}{2}}\\left(x\\,dx+y\\,dy+z\\,dz\\right)=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中多处字符识别错误，已按图片忠实转写；无其他不确定点。"
+}

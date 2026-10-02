@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "219e1dc29fda",
+  "item_id": "219e1dc29fda",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Omega=\\{(x,y,z)\\mid x^2+y^2\\leqslant z\\leqslant 1\\}$，则 $\\Omega$ 的形心的竖坐标 $\\bar z=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/219e1dc29fda-01.png",
+      "latex": "设 $\\Omega=\\{(x,y,z)\\mid x^2+y^2\\leqslant z\\leqslant 1\\}$，则 $\\Omega$ 的形心的竖坐标 $\\bar z=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容差异较大，已按图片转写。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "5550716a6b40",
+  "item_id": "5550716a6b40",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "11 设 $C$ 是从球面 $x^2+y^2+z^2=a^2$ 上任一点到另一球面 $x^2+y^2+z^2=b^2$ 上任一点的任一条光滑曲线 $(a>0,b>0)$，则 $\\int_C xdx+ydy+zdz=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5550716a6b40-01.png",
+      "latex": "11 设 $C$ 是从球面 $x^2+y^2+z^2=a^2$ 上任一点到另一球面 $x^2+y^2+z^2=b^2$ 上任一点的任一条光滑曲线 $(a>0,b>0)$，则 $\\int_C xdx+ydy+zdz=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

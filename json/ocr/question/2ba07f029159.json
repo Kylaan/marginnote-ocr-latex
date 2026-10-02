@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2ba07f029159",
+  "item_id": "2ba07f029159",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(23) 设曲面 $S$ 为球面 $x^2+y^2+z^2=4z$ 与锥面 $z=\\frac{\\sqrt{x^2+y^2}}{\\sqrt{3}}$ 所围，且位于锥面上方部分的立体表面，流速场为 $A(x,y,z)=\\left(\\frac{1}{3}x^3+x^2y+x^2z,\\frac{1}{3}y^3+y^2z,\\frac{1}{3}z^3\\right)$，求 $A(x,y,z)$ 从曲面 $S$ 内部流向外部的流量 $\\Phi$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2ba07f029159-01.png",
+      "latex": "(23) 设曲面 $S$ 为球面 $x^2+y^2+z^2=4z$ 与锥面 $z=\\frac{\\sqrt{x^2+y^2}}{\\sqrt{3}}$ 所围，且位于锥面上方部分的立体表面，流速场为 $A(x,y,z)=\\left(\\frac{1}{3}x^3+x^2y+x^2z,\\frac{1}{3}y^3+y^2z,\\frac{1}{3}z^3\\right)$，求 $A(x,y,z)$ 从曲面 $S$ 内部流向外部的流量 $\\Phi$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中锥面表达式写作 'z = x2+y2 3'，与图片中的 $z=\\frac{\\sqrt{x^2+y^2}}{\\sqrt{3}}$ 不一致，已以图片为准。"
+}

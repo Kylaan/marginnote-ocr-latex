@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "69a20e3e35c0",
+  "item_id": "69a20e3e35c0",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma$ 为曲面 $z=\\sqrt{x^2+y^2}$（$1\\leqslant x^2+y^2\\leqslant 4$）的下侧，$f(x)$ 是连续函数，计算\n\\[\nI=\\iint_{\\Sigma}[xf(xy)+2x-y]\\,\\mathrm{d}y\\mathrm{d}z+[yf(xy)+2y+x]\\,\\mathrm{d}z\\mathrm{d}x+[zf(xy)+z]\\,\\mathrm{d}x\\mathrm{d}y\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/69a20e3e35c0-01.png",
+      "latex": "设 $\\Sigma$ 为曲面 $z=\\sqrt{x^2+y^2}$（$1\\leqslant x^2+y^2\\leqslant 4$）的下侧，$f(x)$ 是连续函数，计算\n\\[\nI=\\iint_{\\Sigma}[xf(xy)+2x-y]\\,\\mathrm{d}y\\mathrm{d}z+[yf(xy)+2y+x]\\,\\mathrm{d}z\\mathrm{d}x+[zf(xy)+z]\\,\\mathrm{d}x\\mathrm{d}y\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

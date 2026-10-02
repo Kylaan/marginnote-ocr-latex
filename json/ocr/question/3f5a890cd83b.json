@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "3f5a890cd83b",
+  "item_id": "3f5a890cd83b",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma$ 为球面 $x^2+y^2+z^2=2ax(a>0)$，则面积分 $\\iint_{\\Sigma}(x^2+y^2+z^2)dS=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3f5a890cd83b-01.png",
+      "latex": "设 $\\Sigma$ 为球面 $x^2+y^2+z^2=2ax(a>0)$，则面积分 $\\iint_{\\Sigma}(x^2+y^2+z^2)dS=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

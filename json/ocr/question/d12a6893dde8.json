@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d12a6893dde8",
+  "item_id": "d12a6893dde8",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(10) 设曲面 $S$ 为由圆柱面 $x^2+y^2=R^2$、平面 $z=0$ 和 $z-x=R(R>0)$ 所围立体的表面，计算 $I=\\iint_S z\\,dS$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d12a6893dde8-01.png",
+      "latex": "(10) 设曲面 $S$ 为由圆柱面 $x^2+y^2=R^2$、平面 $z=0$ 和 $z-x=R(R>0)$ 所围立体的表面，计算 $I=\\iint_S z\\,dS$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中条件“(R>0)”缺失且存在乱码，已按图片转写。"
+}

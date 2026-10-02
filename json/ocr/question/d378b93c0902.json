@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "d378b93c0902",
+  "item_id": "d378b93c0902",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "确定常数 $\\lambda$, 使在右半平面 $x>0$ 上的向量 $\\mathbf{A}(x,y)=2xy(x^4+y^2)^\\lambda \\mathbf{i}-x^2(x^4+y^2)^\\lambda \\mathbf{j}$ 为某二元函数 $u(x,y)$ 的梯度, 并求 $u(x,y)$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d378b93c0902-01.png",
+      "latex": "确定常数 $\\lambda$, 使在右半平面 $x>0$ 上的向量 $\\mathbf{A}(x,y)=2xy(x^4+y^2)^\\lambda \\mathbf{i}-x^2(x^4+y^2)^\\lambda \\mathbf{j}$ 为某二元函数 $u(x,y)$ 的梯度, 并求 $u(x,y)$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": "raw_text 中的 \"2yx\"、\"yP\"、\"xrf+y2P\" 等为识别噪声, 已按图片正确转写为 2xy(x^4+y^2)^\\lambda 与 x^2(x^4+y^2)^\\lambda。"
+}

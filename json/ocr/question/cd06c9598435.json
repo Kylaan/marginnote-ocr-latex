@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "cd06c9598435",
+  "item_id": "cd06c9598435",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "344 曲线 \\(L\\)：\\[\\begin{cases}\\frac{x^2}{16}+\\frac{y^2}{4}-\\frac{z^2}{5}=1,\\\\ x-2z+3=0\\end{cases}\\] 在 \\(xOy\\) 面上的投影柱面方程是",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\(x^2+20y^2-24x-116=0.\\)"
+    },
+    {
+      "label": "B",
+      "latex": "\\(4y^2+4z^2-12z-7=0.\\)"
+    },
+    {
+      "label": "C",
+      "latex": "\\(\\begin{cases}x^2+20y^2-24x-116=0,\\\\ z=0.\\end{cases}\\)"
+    },
+    {
+      "label": "D",
+      "latex": "\\(\\begin{cases}4y^2+4z^2-12z-7=0,\\\\ x=0.\\end{cases}\\)"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/cd06c9598435-01.png",
+      "latex": "344 曲线 \\(L\\)：\\[\\begin{cases}\\frac{x^2}{16}+\\frac{y^2}{4}-\\frac{z^2}{5}=1,\\\\ x-2z+3=0\\end{cases}\\] 在 \\(xOy\\) 面上的投影柱面方程是\n\nA. \\(x^2+20y^2-24x-116=0.\\)\n\nB. \\(4y^2+4z^2-12z-7=0.\\)\n\nC. \\(\\begin{cases}x^2+20y^2-24x-116=0,\\\\ z=0.\\end{cases}\\)\n\nD. \\(\\begin{cases}4y^2+4z^2-12z-7=0,\\\\ x=0.\\end{cases}\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "e17a8b5e5f7a",
+  "item_id": "e17a8b5e5f7a",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "20. 设 \\(I_1=\\int_L f(x,y)\\mathrm{d}x+(6xy-6x)\\mathrm{d}y,\\ I_2=\\int_L (6x^2y+6xy+x)\\mathrm{d}x+f(x,y)\\mathrm{d}y\\). 已知曲线积分 \\(I_1\\) 与 \\(I_2\\) 均在整个 \\(xOy\\) 平面内与路径无关，且 \\(f(0,0)=0\\)，求函数 \\(f(x,y)\\) 的极值.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e17a8b5e5f7a-01.png",
+      "latex": "20. 设 \\(I_1=\\int_L f(x,y)\\mathrm{d}x+(6xy-6x)\\mathrm{d}y,\\ I_2=\\int_L (6x^2y+6xy+x)\\mathrm{d}x+f(x,y)\\mathrm{d}y\\). 已知曲线积分 \\(I_1\\) 与 \\(I_2\\) 均在整个 \\(xOy\\) 平面内与路径无关，且 \\(f(0,0)=0\\)，求函数 \\(f(x,y)\\) 的极值."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致（如缺少积分表达式中的括号），以图片为准。"
+}

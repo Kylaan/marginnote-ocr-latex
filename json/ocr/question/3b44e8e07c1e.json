@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "3b44e8e07c1e",
+  "item_id": "3b44e8e07c1e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "1. 设平面曲线 $z^2=2x$ 绕 $x$ 轴旋转一周所得空间曲面 $\\Sigma$ 与平面 $x=1,x=2$ 围成的空间区域为 $\\Omega$，则\n\\[\nI=\\iiint_{\\Omega}\\frac{1}{x^2+y^2+z^2}\\,\\mathrm{d}v=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3b44e8e07c1e-01.png",
+      "latex": "1. 设平面曲线 $z^2=2x$ 绕 $x$ 轴旋转一周所得空间曲面 $\\Sigma$ 与平面 $x=1,x=2$ 围成的空间区域为 $\\Omega$，则\n\\[\nI=\\iiint_{\\Omega}\\frac{1}{x^2+y^2+z^2}\\,\\mathrm{d}v=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的积分表达式与图片不一致，已按图片转写。"
+}

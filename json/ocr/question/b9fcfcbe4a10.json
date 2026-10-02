@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "b9fcfcbe4a10",
+  "item_id": "b9fcfcbe4a10",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求与直线 $L_1:x+2=3-y=z+1$ 和 $L_2:\\frac{x+4}{2}=y=\\frac{z-4}{3}$ 都垂直相交的直线方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b9fcfcbe4a10-01.png",
+      "latex": "求与直线 $L_1:x+2=3-y=z+1$ 和 $L_2:\\frac{x+4}{2}=y=\\frac{z-4}{3}$ 都垂直相交的直线方程."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b7072bffb9f6",
+  "item_id": "b7072bffb9f6",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设曲面为 $z=\\sqrt{x^2+y^2}$ 介于 $z=1$ 与 $z=2$ 之间的部分，取上侧，计算\n\\[ I=\\iint_S xz^2\\,\\mathrm{d}y\\,\\mathrm{d}z + y^2\\,\\mathrm{d}z\\,\\mathrm{d}x + zx\\,\\mathrm{d}x\\,\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b7072bffb9f6-01.png",
+      "latex": "设曲面为 $z=\\sqrt{x^2+y^2}$ 介于 $z=1$ 与 $z=2$ 之间的部分，取上侧，计算\n\\[ I=\\iint_S xz^2\\,\\mathrm{d}y\\,\\mathrm{d}z + y^2\\,\\mathrm{d}z\\,\\mathrm{d}x + zx\\,\\mathrm{d}x\\,\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分符号及被积表达式与图片不完全一致，已以图片为准转写。"
+}

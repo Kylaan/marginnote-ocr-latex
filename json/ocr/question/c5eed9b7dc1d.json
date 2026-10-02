@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c5eed9b7dc1d",
+  "item_id": "c5eed9b7dc1d",
+  "status": "ok",
+  "question_type": "mixed",
+  "latex": "设函数 $\\varphi(y)$ 具有连续导数，在围绕原点的任意分段光滑简单闭曲线 $L$ 上，曲线积分\n\\[\n\\oint_L \\frac{\\varphi(y)\\,dx+2xy\\,dy}{2x^2+y^4}\n\\]\n的值恒为同一常数.\n\n（I）证明对右半平面 $x>0$ 内的任意分段光滑简单闭曲线 $C$，有\n\\[\n\\oint_C \\frac{\\varphi(y)\\,dx+2xy\\,dy}{2x^2+y^4}=0;\n\\]\n\n（II）求函数 $\\varphi(y)$ 的表达式.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c5eed9b7dc1d-01.png",
+      "latex": "设函数 $\\varphi(y)$ 具有连续导数，在围绕原点的任意分段光滑简单闭曲线 $L$ 上，曲线积分\n\\[\n\\oint_L \\frac{\\varphi(y)\\,dx+2xy\\,dy}{2x^2+y^4}\n\\]\n的值恒为同一常数.\n\n（I）证明对右半平面 $x>0$ 内的任意分段光滑简单闭曲线 $C$，有\n\\[\n\\oint_C \\frac{\\varphi(y)\\,dx+2xy\\,dy}{2x^2+y^4}=0;\n\\]\n\n（II）求函数 $\\varphi(y)$ 的表达式."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中多处字符识别有误，已以图片为准；图片内容清晰，无其他不确定点."
+}

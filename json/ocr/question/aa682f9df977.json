@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "aa682f9df977",
+  "item_id": "aa682f9df977",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "23. 设锥面 $\\Sigma$ 的顶点是 $A(0,1,1)$，准线是 $\\begin{cases} x^2+y^2=1,\\\\ z=0, \\end{cases}$ 直线 $L$ 过顶点 $A$ 和准线上任一点 $M_1(x_1,y_1,0)$.\n\n$\\Omega$ 是 $\\Sigma(0\\le z\\le1)$ 与平面 $z=0$ 所围成的锥体. 求:\n\n(1) $L$ 和 $\\Sigma$ 的方程；\n\n(2) $\\Omega$ 的形心坐标.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/aa682f9df977-01.png",
+      "latex": "23. 设锥面 $\\Sigma$ 的顶点是 $A(0,1,1)$，准线是 $\\begin{cases} x^2+y^2=1,\\\\ z=0, \\end{cases}$ 直线 $L$ 过顶点 $A$ 和准线上任一点 $M_1(x_1,y_1,0)$.\n\n$\\Omega$ 是 $\\Sigma(0\\le z\\le1)$ 与平面 $z=0$ 所围成的锥体. 求:\n\n(1) $L$ 和 $\\Sigma$ 的方程；\n\n(2) $\\Omega$ 的形心坐标."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

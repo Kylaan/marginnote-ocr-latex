@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "6629885a19d0",
+  "item_id": "6629885a19d0",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(22) 在球面 $z=\\sqrt{1-x^2-y^2},x\\geqslant 0,y\\geqslant 0$ 上，取以 $M_1(1,0,0)$，$M_2(0,1,0)$，$M_3\\left(\\frac{\\sqrt{2}}{2},0,\\frac{\\sqrt{2}}{2}\\right)$ 为顶点的球面三角形 $\\Sigma$，$\\Sigma$ 的法向量的方向余弦 $\\cos\\gamma>0$，计算 $I=\\iint_{\\Sigma}\\frac{x\\mathrm{d}y\\mathrm{d}z+z\\mathrm{d}x\\mathrm{d}y}{x^2+y^2+z^2}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6629885a19d0-01.png",
+      "latex": "(22) 在球面 $z=\\sqrt{1-x^2-y^2},x\\geqslant 0,y\\geqslant 0$ 上，取以 $M_1(1,0,0)$，$M_2(0,1,0)$，$M_3\\left(\\frac{\\sqrt{2}}{2},0,\\frac{\\sqrt{2}}{2}\\right)$ 为顶点的球面三角形 $\\Sigma$，$\\Sigma$ 的法向量的方向余弦 $\\cos\\gamma>0$，计算 $I=\\iint_{\\Sigma}\\frac{x\\mathrm{d}y\\mathrm{d}z+z\\mathrm{d}x\\mathrm{d}y}{x^2+y^2+z^2}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

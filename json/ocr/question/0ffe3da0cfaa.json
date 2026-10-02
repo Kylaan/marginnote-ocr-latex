@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "0ffe3da0cfaa",
+  "item_id": "0ffe3da0cfaa",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "10. 已知 $\\Omega = \\{(x,y,z) \\mid y^2+z^2 \\le 1, 0 \\le x \\le 1\\}$，$\\Sigma$ 为 $\\Omega$ 的边界面且取外侧，则\n\\[\\oiint_{\\Sigma} (y^3+z\\sin x)\\,dzdx + z\\,dxdy = \\underline{\\hspace{4em}}.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0ffe3da0cfaa-01.png",
+      "latex": "10. 已知 $\\Omega = \\{(x,y,z) \\mid y^2+z^2 \\le 1, 0 \\le x \\le 1\\}$，$\\Sigma$ 为 $\\Omega$ 的边界面且取外侧，则\n\\[\\oiint_{\\Sigma} (y^3+z\\sin x)\\,dzdx + z\\,dxdy = \\underline{\\hspace{4em}}.\\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

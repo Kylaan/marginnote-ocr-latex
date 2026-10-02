@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "856928fedf19",
+  "item_id": "856928fedf19",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "348 设有曲线 $\\Gamma:\\begin{cases}x^2+y^2+z^2=a^2,\\\\x+y+z=0\\end{cases}$，从 $x$ 轴正向看去为逆时针方向，则 $\\oint_{\\Gamma} y\\,dx+z\\,dy+x\\,dz$ 等于",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\sqrt{2}\\pi a^2.$"
+    },
+    {
+      "label": "B",
+      "latex": "$-\\sqrt{2}\\pi a^2.$"
+    },
+    {
+      "label": "C",
+      "latex": "$-\\sqrt{3}\\pi a^2.$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\sqrt{3}\\pi a^2.$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/856928fedf19-01.png",
+      "latex": "348 设有曲线 $\\Gamma:\\begin{cases}x^2+y^2+z^2=a^2,\\\\x+y+z=0\\end{cases}$，从 $x$ 轴正向看去为逆时针方向，则 $\\oint_{\\Gamma} y\\,dx+z\\,dy+x\\,dz$ 等于\n\nA. $\\sqrt{2}\\pi a^2.$\nB. $-\\sqrt{2}\\pi a^2.$\nC. $-\\sqrt{3}\\pi a^2.$\nD. $\\sqrt{3}\\pi a^2.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的选项数值与图片不一致；图片显示为 $\\sqrt{2}\\pi a^2$、$-\\sqrt{2}\\pi a^2$、$-\\sqrt{3}\\pi a^2$、$\\sqrt{3}\\pi a^2$。"
+}

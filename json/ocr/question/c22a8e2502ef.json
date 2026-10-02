@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c22a8e2502ef",
+  "item_id": "c22a8e2502ef",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "若曲线积分 \\(\\displaystyle\\int_L \\frac{x\\,dx-a\\,y\\,dy}{x^2+y^2-1}\\) 在区域 \\(D=\\{(x,y)\\mid x^2+y^2<1\\}\\) 内与路径无关，则 \\(a=\\underline{\\hspace{4em}}\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c22a8e2502ef-01.png",
+      "latex": "若曲线积分 \\(\\displaystyle\\int_L \\frac{x\\,dx-a\\,y\\,dy}{x^2+y^2-1}\\) 在区域 \\(D=\\{(x,y)\\mid x^2+y^2<1\\}\\) 内与路径无关，则 \\(a=\\underline{\\hspace{4em}}\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致，已按图片转写。"
+}

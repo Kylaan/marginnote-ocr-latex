@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "8922c4948527",
+  "item_id": "8922c4948527",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求直线 $L:\\frac{x+2}{3}=\\frac{2-y}{1}=\\frac{z+1}{2}$ 在平面 $\\pi:2x+3y+3z-8=0$ 上的投影直线方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8922c4948527-01.png",
+      "latex": "求直线 $L:\\frac{x+2}{3}=\\frac{2-y}{1}=\\frac{z+1}{2}$ 在平面 $\\pi:2x+3y+3z-8=0$ 上的投影直线方程."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

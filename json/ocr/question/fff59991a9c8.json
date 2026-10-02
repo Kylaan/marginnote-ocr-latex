@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "fff59991a9c8",
+  "item_id": "fff59991a9c8",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算 $I=\\oint_L (y^2-z^2)\\,dx+(2z^2-x^2)\\,dy+(3x^2-y^2)\\,dz$，其中 $L$ 是平面 $x+y+z=2$ 与柱面 $|x|+|y|=1$ 的交线，从 $z$ 轴正向看去，$L$ 为逆时针方向。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/fff59991a9c8-01.png",
+      "latex": "计算 $I=\\oint_L (y^2-z^2)\\,dx+(2z^2-x^2)\\,dy+(3x^2-y^2)\\,dz$，其中 $L$ 是平面 $x+y+z=2$ 与柱面 $|x|+|y|=1$ 的交线，从 $z$ 轴正向看去，$L$ 为逆时针方向。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

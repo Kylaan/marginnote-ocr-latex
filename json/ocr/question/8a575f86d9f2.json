@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "8a575f86d9f2",
+  "item_id": "8a575f86d9f2",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 \\(S\\) 为 \\(z=x^2+y^2\\) 介于 \\(z=0\\) 与 \\(z=1\\) 之间部分的下侧，计算 \\(I=\\iint_S x^2\\mathrm{d}y\\mathrm{d}z+z\\mathrm{d}x\\mathrm{d}y\\).",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8a575f86d9f2-01.png",
+      "latex": "设 \\(S\\) 为 \\(z=x^2+y^2\\) 介于 \\(z=0\\) 与 \\(z=1\\) 之间部分的下侧, 计算 \\(I=\\iint_S x^2\\mathrm{d}y\\mathrm{d}z+z\\mathrm{d}x\\mathrm{d}y\\)."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

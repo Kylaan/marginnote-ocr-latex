@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "f8b0eea1f84e",
+  "item_id": "f8b0eea1f84e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 \\(L\\) 为抛物线 \\(y=x^2(-1 \\leqslant x \\leqslant 1)\\)，则\n\\[\n\\int_L\\left[x\\cos y\\left(e^{\\sin x}+e^{-\\sin x}\\right)+\\frac{1}{\\sqrt{1+4y}}\\right]\\mathrm{d}s=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f8b0eea1f84e-01.png",
+      "latex": "设 \\(L\\) 为抛物线 \\(y=x^2(-1 \\leqslant x \\leqslant 1)\\)，则\n\\[\n\\int_L\\left[x\\cos y\\left(e^{\\sin x}+e^{-\\sin x}\\right)+\\frac{1}{\\sqrt{1+4y}}\\right]\\mathrm{d}s=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

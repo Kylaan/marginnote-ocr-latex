@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "1d505a0fad35",
+  "item_id": "1d505a0fad35",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "1. 设 \\(f(x,y)=\\mathrm{e}^{-(x^2+2y^2)}\\)，曲线 \\(y=y(x)\\) 上任一点 \\(P(x,y)\\) 的切线方向始终指向 \\(f(x,y)\\) 变化率最大的方向，且 \\(y(1)=2\\)，则 \\(y(x)=(\\quad)\\)。",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\(2x^2\\)"
+    },
+    {
+      "label": "B",
+      "latex": "\\(x^2+x\\)"
+    },
+    {
+      "label": "C",
+      "latex": "\\(e^{-x^2+1}+x\\)"
+    },
+    {
+      "label": "D",
+      "latex": "\\(2e^{-x^2+1}\\)"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1d505a0fad35-01.png",
+      "latex": "1. 设 \\(f(x,y)=\\mathrm{e}^{-(x^2+2y^2)}\\)，曲线 \\(y=y(x)\\) 上任一点 \\(P(x,y)\\) 的切线方向始终指向 \\(f(x,y)\\) 变化率最大的方向，且 \\(y(1)=2\\)，则 \\(y(x)=(\\quad)\\)。\n\nA. \\(2x^2\\)\nB. \\(x^2+x\\)\nC. \\(e^{-x^2+1}+x\\)\nD. \\(2e^{-x^2+1}\\)"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的公式 OCR 与图片不一致，图片显示为 \\(e^{-(x^2+2y^2)}\\)。"
+}

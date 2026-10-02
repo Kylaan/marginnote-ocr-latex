@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "9163b7653010",
+  "item_id": "9163b7653010",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "10 与两直线 $\\begin{cases} x=2,\\\\ y=t,\\\\ z=1+t \\end{cases}$ 及 $\\frac{x}{1}=\\frac{y+1}{2}=\\frac{z-1}{3}$ 都平行，且过原点的平面方程为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9163b7653010-01.png",
+      "latex": "10 与两直线 $\\begin{cases} x=2,\\\\ y=t,\\\\ z=1+t \\end{cases}$ 及 $\\frac{x}{1}=\\frac{y+1}{2}=\\frac{z-1}{3}$ 都平行，且过原点的平面方程为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "75be66071b51",
+  "item_id": "75be66071b51",
+  "status": "ok",
+  "question_type": "proof",
+  "latex": "已知平面区域 $D=\\{(x,y)\\mid 0\\leqslant x\\leqslant \\pi,0\\leqslant y\\leqslant \\pi\\}$，$L$ 为 $D$ 的正向边界. 试证：\n\n（I）\\[\\oint_L x\\mathrm{e}^{\\sin y}\\mathrm{d}y-y\\mathrm{e}^{-\\sin x}\\mathrm{d}x=\\oint_L x\\mathrm{e}^{-\\sin y}\\mathrm{d}y-y\\mathrm{e}^{\\sin x}\\mathrm{d}x;\\]\n\n（II）\\[\\oint_L x\\mathrm{e}^{\\sin y}\\mathrm{d}y-y\\mathrm{e}^{-\\sin x}\\mathrm{d}x\\geqslant 2\\pi^2.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/75be66071b51-01.png",
+      "latex": "已知平面区域 $D=\\{(x,y)\\mid 0\\leqslant x\\leqslant \\pi,0\\leqslant y\\leqslant \\pi\\}$，$L$ 为 $D$ 的正向边界. 试证：\n\n（I）\\[\\oint_L x\\mathrm{e}^{\\sin y}\\mathrm{d}y-y\\mathrm{e}^{-\\sin x}\\mathrm{d}x=\\oint_L x\\mathrm{e}^{-\\sin y}\\mathrm{d}y-y\\mathrm{e}^{\\sin x}\\mathrm{d}x;\\]\n\n（II）\\[\\oint_L x\\mathrm{e}^{\\sin y}\\mathrm{d}y-y\\mathrm{e}^{-\\sin x}\\mathrm{d}x\\geqslant 2\\pi^2.\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中区域条件及第二问不等式与图片不一致，已按图片转写。"
+}

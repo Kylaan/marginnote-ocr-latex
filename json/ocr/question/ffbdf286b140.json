@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "ffbdf286b140",
+  "item_id": "ffbdf286b140",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设有向曲线 $L$ 为椭圆 $x^2+3y^2=1$ 上沿逆时针方向从点 $A\\left(-\\frac{1}{2},-\\frac{1}{2}\\right)$ 到 $B\\left(\\frac{1}{2},\\frac{1}{2}\\right)$ 的部分，计算曲线积分\n\\[ I=\\int_L \\left(\\mathrm{e}^{x^2}\\sin x-2xy\\right)\\mathrm{d}x+\\left(6x-x^2-y\\cos^4 y\\right)\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ffbdf286b140-01.png",
+      "latex": "设有向曲线 $L$ 为椭圆 $x^2+3y^2=1$ 上沿逆时针方向从点 $A\\left(-\\frac{1}{2},-\\frac{1}{2}\\right)$ 到 $B\\left(\\frac{1}{2},\\frac{1}{2}\\right)$ 的部分，计算曲线积分\n\\[ I=\\int_L \\left(\\mathrm{e}^{x^2}\\sin x-2xy\\right)\\mathrm{d}x+\\left(6x-x^2-y\\cos^4 y\\right)\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

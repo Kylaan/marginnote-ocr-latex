@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "6d3aaf600bda",
+  "item_id": "6d3aaf600bda",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "（3）函数 $f(x,y,z)=x^2y+z^2$ 在点 $(1,2,0)$ 处沿向量 $\\mathbf{n}=(1,2,2)$ 的方向导数为（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "12."
+    },
+    {
+      "label": "B",
+      "latex": "6."
+    },
+    {
+      "label": "C",
+      "latex": "4."
+    },
+    {
+      "label": "D",
+      "latex": "2."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6d3aaf600bda-01.png",
+      "latex": "（3）函数 $f(x,y,z)=x^2y+z^2$ 在点 $(1,2,0)$ 处沿向量 $\\mathbf{n}=(1,2,2)$ 的方向导数为（ ）\n\n（A）12. （B）6. （C）4. （D）2."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中函数与点坐标与图片不一致；图片显示 $f(x,y,z)=x^2y+z^2$，点为 $(1,2,0)$。"
+}

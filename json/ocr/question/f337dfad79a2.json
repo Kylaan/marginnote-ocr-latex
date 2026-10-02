@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "f337dfad79a2",
+  "item_id": "f337dfad79a2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "15 设三棱锥的四个顶点分别为 $A(-1,2,0)$，$B(-1,-2,0)$，$C(1,0,0)$，$D(2,0,2)$，$\\Sigma$ 为该三棱锥的表面的外侧，则 \\[\\iint\\limits_{\\Sigma}(2xy+1)\\mathrm{d}y\\mathrm{d}z+(2y+1)\\mathrm{d}z\\mathrm{d}x+z\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f337dfad79a2-01.png",
+      "latex": "15 设三棱锥的四个顶点分别为 $A(-1,2,0)$，$B(-1,-2,0)$，$C(1,0,0)$，$D(2,0,2)$，$\\Sigma$ 为该三棱锥的表面的外侧，则 \\[\\iint\\limits_{\\Sigma}(2xy+1)\\mathrm{d}y\\mathrm{d}z+(2y+1)\\mathrm{d}z\\mathrm{d}x+z\\mathrm{d}x\\mathrm{d}y=\\underline{\\hspace{4em}}.\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“1下设”“2为”与图片中“15 设”“Σ 为”不一致，按图片转写。"
+}

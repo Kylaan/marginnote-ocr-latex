@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "a5824e708a4e",
+  "item_id": "a5824e708a4e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $L$ 为从点 $A(-1,0)$ 到点 $B(3,0)$ 的上半个圆周 $(x-1)^2+y^2=2^2,\\ y\\ge 0$，则\n\\[\n\\int_L \\frac{(x-y)\\mathrm{d}x+(x+y)\\mathrm{d}y}{x^2+y^2} = \\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a5824e708a4e-01.png",
+      "latex": "设 $L$ 为从点 $A(-1,0)$ 到点 $B(3,0)$ 的上半个圆周 $(x-1)^2+y^2=2^2,\\ y\\ge 0$，则\n\\[\n\\int_L \\frac{(x-y)\\mathrm{d}x+(x+y)\\mathrm{d}y}{x^2+y^2} = \\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

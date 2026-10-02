@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "8d12e6467fe2",
+  "item_id": "8d12e6467fe2",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(3) 设有空间区域 $\\Omega_1: x^2+y^2+z^2 \\le R^2, z \\ge 0$ 及 $\\Omega_2: x^2+y^2+z^2 \\le R^2, x \\ge 0, y \\ge 0, z \\ge 0$，则（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\iiint\\limits_{\\Omega_1} x\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} x\\,\\mathrm{d}v.$"
+    },
+    {
+      "label": "B",
+      "latex": "$\\iiint\\limits_{\\Omega_1} y\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} y\\,\\mathrm{d}v.$"
+    },
+    {
+      "label": "C",
+      "latex": "$\\iiint\\limits_{\\Omega_1} z\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} z\\,\\mathrm{d}v.$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\iiint\\limits_{\\Omega_1} xyz\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} xyz\\,\\mathrm{d}v.$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8d12e6467fe2-01.png",
+      "latex": "(3) 设有空间区域 $\\Omega_1: x^2+y^2+z^2 \\le R^2, z \\ge 0$ 及 $\\Omega_2: x^2+y^2+z^2 \\le R^2, x \\ge 0, y \\ge 0, z \\ge 0$，则（ ）\n(A) $\\iiint\\limits_{\\Omega_1} x\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} x\\,\\mathrm{d}v.$ \\quad (B) $\\iiint\\limits_{\\Omega_1} y\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} y\\,\\mathrm{d}v.$\n(C) $\\iiint\\limits_{\\Omega_1} z\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} z\\,\\mathrm{d}v.$ \\quad (D) $\\iiint\\limits_{\\Omega_1} xyz\\,\\mathrm{d}v=4\\iiint\\limits_{\\Omega_2} xyz\\,\\mathrm{d}v.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中空间区域、积分符号和选项存在多处 OCR 错误，已按图片内容转写。"
+}

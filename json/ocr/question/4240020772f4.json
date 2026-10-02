@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "4240020772f4",
+  "item_id": "4240020772f4",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 过点 $(1,0,0),(0,1,0)$，且与曲面 $z=x^2+y^2$ 相切的平面为（　　）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$z=0$ 与 $x+y-z=1$."
+    },
+    {
+      "label": "B",
+      "latex": "$z=0$ 与 $2x+2y-z=2$."
+    },
+    {
+      "label": "C",
+      "latex": "$x=y$ 与 $x+y-z=1$."
+    },
+    {
+      "label": "D",
+      "latex": "$x=y$ 与 $2x+2y-z=2$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4240020772f4-01.png",
+      "latex": "(2) 过点 $(1,0,0),(0,1,0)$，且与曲面 $z=x^2+y^2$ 相切的平面为（　　）\n\n(A) $z=0$ 与 $x+y-z=1$.\n\n(B) $z=0$ 与 $2x+2y-z=2$.\n\n(C) $x=y$ 与 $x+y-z=1$.\n\n(D) $x=y$ 与 $2x+2y-z=2$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面写作 z=x+y，图片显示为 z=x^2+y^2，以图片为准。"
+}

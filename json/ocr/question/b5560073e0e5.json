@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "b5560073e0e5",
+  "item_id": "b5560073e0e5",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 设 $S$ 为球面 $(x-a)^2+(y-b)^2+(z-c)^2=1$（$a,b,c$ 均大于零），则 $I=\\iint_S (x+y+z)dS=(\\quad)$。",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$4\\pi$"
+    },
+    {
+      "label": "B",
+      "latex": "$4\\pi(a+b+c)$"
+    },
+    {
+      "label": "C",
+      "latex": "$0$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\frac{4}{3}\\pi(a+b+c)$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b5560073e0e5-01.png",
+      "latex": "(2) 设 $S$ 为球面 $(x-a)^2+(y-b)^2+(z-c)^2=1$（$a,b,c$ 均大于零），则 $I=\\iint_S (x+y+z)dS=(\\quad)$。\nA. $4\\pi$ B. $4\\pi(a+b+c)$ C. $0$ D. $\\frac{4}{3}\\pi(a+b+c)$"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

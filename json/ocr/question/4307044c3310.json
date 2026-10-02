@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "4307044c3310",
+  "item_id": "4307044c3310",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "152 设 $\\Omega$ 是由曲线\n\\[\n\\begin{cases}\ny^2=2z\\\\\nx=0\n\\end{cases}\n\\]\n绕 $z$ 轴旋转一周而成的曲面与平面 $z=2$ 和 $z=8$ 所围立体，则\n\\[\n\\iiint_{\\Omega}(x^2+y^2)\\,\\mathrm{d}v=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4307044c3310-01.png",
+      "latex": "152 设 $\\Omega$ 是由曲线\n\\[\n\\begin{cases}\ny^2=2z\\\\\nx=0\n\\end{cases}\n\\]\n绕 $z$ 轴旋转一周而成的曲面与平面 $z=2$ 和 $z=8$ 所围立体，则\n\\[\n\\iiint_{\\Omega}(x^2+y^2)\\,\\mathrm{d}v=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

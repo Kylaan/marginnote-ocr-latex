@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "84137a6bcad6",
+  "item_id": "84137a6bcad6",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "若直线 $l_1:\\frac{x-4}{1}=\\frac{y-2}{3}=\\frac{z-1}{5}$ 在平面 $\\pi$ 上的投影直线为 $l_2:\\frac{x-4}{3}=\\frac{y-2}{2}=\\frac{z-1}{1}$，则平面 $\\pi$ 的方程为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/84137a6bcad6-01.png",
+      "latex": "9 若直线 $l_1:\\frac{x-4}{1}=\\frac{y-2}{3}=\\frac{z-1}{5}$ 在平面 $\\pi$ 上的投影直线为 $l_2:\\frac{x-4}{3}=\\frac{y-2}{2}=\\frac{z-1}{1}$，则平面 $\\pi$ 的方程为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

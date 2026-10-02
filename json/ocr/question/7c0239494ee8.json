@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "7c0239494ee8",
+  "item_id": "7c0239494ee8",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设向量 $a=(2,-3,1),b=(1,-2,3),c=(2,1,2)$，向量 $r$ 满足 $r\\perp a,r\\perp b,\\mathrm{Prj}_{c}r=14$，则 $r=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7c0239494ee8-01.png",
+      "latex": "设向量 $a=(2,-3,1),b=(1,-2,3),c=(2,1,2)$，向量 $r$ 满足 $r\\perp a,r\\perp b,\\mathrm{Prj}_{c}r=14$，则 $r=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

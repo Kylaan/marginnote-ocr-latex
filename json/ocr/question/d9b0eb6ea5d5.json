@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d9b0eb6ea5d5",
+  "item_id": "d9b0eb6ea5d5",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设向量场 $\\boldsymbol{A}(x,y,z)=(z^2,x^2,y^2)$，以点 $M_0(1,1,0)$ 为圆心，$\\varepsilon$ 为半径，在 $xOy$ 面上作一圆盘 $\\Sigma_\\varepsilon$，面积为 $\\sigma_\\varepsilon$，$\\Gamma$ 为该圆盘的正向边界，$\\boldsymbol{\\tau}$ 为 $\\Gamma$ 上点 $(x,y,z)$ 处的单位切向量，则\n\\[\n\\lim_{\\varepsilon\\to 0^+}\\frac{1}{\\sigma_\\varepsilon}\\oint_\\Gamma \\boldsymbol{A}\\cdot \\boldsymbol{\\tau}\\,\\mathrm{d}s=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d9b0eb6ea5d5-01.png",
+      "latex": "9 设向量场 $\\boldsymbol{A}(x,y,z)=(z^2,x^2,y^2)$，以点 $M_0(1,1,0)$ 为圆心，$\\varepsilon$ 为半径，在 $xOy$ 面上作一圆盘 $\\Sigma_\\varepsilon$，面积为 $\\sigma_\\varepsilon$，$\\Gamma$ 为该圆盘的正向边界，$\\boldsymbol{\\tau}$ 为 $\\Gamma$ 上点 $(x,y,z)$ 处的单位切向量，则 $\\lim_{\\varepsilon\\to 0^+}\\frac{1}{\\sigma_\\varepsilon}\\oint_\\Gamma \\boldsymbol{A}\\cdot \\boldsymbol{\\tau}\\,\\mathrm{d}s=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“M?”应为 $M_0$，且积分表达式等存在 OCR 误差，已按图片转写。"
+}

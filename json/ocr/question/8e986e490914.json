@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "8e986e490914",
+  "item_id": "8e986e490914",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲面 \\(S:|x|+|y|+|z|=1\\)，则 \\(I=\\oiint_S (x+y+|z|)\\,dS=\\underline{\\hspace{4em}}\\)．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8e986e490914-01.png",
+      "latex": "设曲面 \\(S:|x|+|y|+|z|=1\\)，则 \\(I=\\oiint_S (x+y+|z|)\\,dS=\\underline{\\hspace{4em}}\\)．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

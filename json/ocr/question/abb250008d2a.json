@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "abb250008d2a",
+  "item_id": "abb250008d2a",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(5) 设 $f(x)$ 有连续导数，$L$ 为从点 $A(2,2\\pi)$ 沿 $(x-1)^2+(y-\\pi)^2=1+\\pi^2$ 的上半圆周到点 $O(0,0)$ 的一段弧，计算\n\\[ I=\\int_L f'(x)\\sin y\\,\\mathrm{d}x+[f(x)\\cos y-\\pi x]\\,\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/abb250008d2a-01.png",
+      "latex": "(5) 设 $f(x)$ 有连续导数，$L$ 为从点 $A(2,2\\pi)$ 沿 $(x-1)^2+(y-\\pi)^2=1+\\pi^2$ 的上半圆周到点 $O(0,0)$ 的一段弧，计算\n\\[ I=\\int_L f'(x)\\sin y\\,\\mathrm{d}x+[f(x)\\cos y-\\pi x]\\,\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

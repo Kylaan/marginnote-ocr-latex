@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c67ba335bb22",
+  "item_id": "c67ba335bb22",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "11 已知两条直线的方程是\n\\[\nL_1:\\frac{x-1}{1}=\\frac{y-2}{1}=\\frac{z-1}{-1},\\quad L_2:\\frac{x+2}{2}=\\frac{y-1}{1}=\\frac{z}{1},\n\\]\n则过 \\(L_1\\) 且平行于 \\(L_2\\) 的平面方程是 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c67ba335bb22-01.png",
+      "latex": "11 已知两条直线的方程是\n\\[\nL_1:\\frac{x-1}{1}=\\frac{y-2}{1}=\\frac{z-1}{-1},\\quad L_2:\\frac{x+2}{2}=\\frac{y-1}{1}=\\frac{z}{1},\n\\]\n则过 \\(L_1\\) 且平行于 \\(L_2\\) 的平面方程是 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已以图片为准。"
+}

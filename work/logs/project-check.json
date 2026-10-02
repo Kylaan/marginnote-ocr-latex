@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "questions": 391,
+  "raw_status": {
+    "ok": 385,
+    "needs_review": 6
+  },
+  "effective_status": {
+    "ok": 391
+  },
+  "manual_overlays": 7,
+  "source_package_hash_and_crc": "passed",
+  "uniqueness": [
+    "qid",
+    "item_id",
+    "seq"
+  ],
+  "semantic_deduplication": "not performed",
+  "pdf_delivery": "passed"
+}

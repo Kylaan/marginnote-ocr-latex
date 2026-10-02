@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b3115b9e0474",
+  "item_id": "b3115b9e0474",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲线积分 \\(I=\\oint_L \\frac{xdy - ydx}{4x^2+y^2}\\)，其中 \\(L\\) 是以点 \\((1,0)\\) 为中心，\\(R\\) 为半径的圆周 \\((R>1)\\)，取逆时针方向。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b3115b9e0474-01.png",
+      "latex": "计算曲线积分 \\(I=\\oint_L \\frac{xdy - ydx}{4x^2+y^2}\\)，其中 \\(L\\) 是以点 \\((1,0)\\) 为中心，\\(R\\) 为半径的圆周 \\((R>1)\\)，取逆时针方向。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 为 OCR 乱码，与图片冲突；已按图片转写。"
+}

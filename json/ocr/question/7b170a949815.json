@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "qid": "7b170a949815",
+  "item_id": "7b170a949815",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "质点 $P$ 沿着以 $AB$ 为直径的半圆周，从点 $A(1,2)$ 运动到点 $B(3,4)$ 的过程中受变力 $\\mathbf{F}$ 作用（如图），$\\mathbf{F}$ 的大小等于点 $P$ 与原点 $O$ 之间的距离，其方向垂直于线段 $OP$，且与 $y$ 轴正向的夹角小于 $\\frac{\\pi}{2}$。求变力 $\\mathbf{F}$ 对质点 $P$ 所作的功。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7b170a949815-01.png",
+      "latex": "质点 $P$ 沿着以 $AB$ 为直径的半圆周，从点 $A(1,2)$ 运动到点 $B(3,4)$ 的过程中受变力 $\\mathbf{F}$ 作用（如图），$\\mathbf{F}$ 的大小等于点 $P$ 与原点 $O$ 之间的距离，其方向垂直于线段 $OP$，且与 $y$ 轴正向的夹角小于 $\\frac{\\pi}{2}$. 求变力 $\\mathbf{F}$ 对质点 $P$ 所作的功.\n\n\\[\\text{[见图]}\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "contains_diagram",
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的“4B”“点4(1,2)”“原点Q”“小于三”等与图片不符，已按图片校正为“AB”“点 A(1,2)”“原点 O”“小于 $\\frac{\\pi}{2}$”；图片包含坐标系示意图。"
+}

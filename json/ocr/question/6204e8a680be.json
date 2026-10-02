@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6204e8a680be",
+  "item_id": "6204e8a680be",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $l$ 是从点 $(1,1,1)$ 到点 $(4,4,4)$ 的直线段，则\n\\[\n\\int_{l}\\frac{x\\,dx+y\\,dy+z\\,dz}{\\sqrt{x^2+y^2+z^2-x-y+2z}}=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6204e8a680be-01.png",
+      "latex": "设 $l$ 是从点 $(1,1,1)$ 到点 $(4,4,4)$ 的直线段，则\n\\[\n\\int_{l}\\frac{x\\,dx+y\\,dy+z\\,dz}{\\sqrt{x^2+y^2+z^2-x-y+2z}}=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的分式、根号及点坐标括号不完整，已按图片转写。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "4d3a46e48819",
+  "item_id": "4d3a46e48819",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲线 \\(L\\) 为上半圆周 \\(y=\\sqrt{1-x^2}\\)，则\n\\[\n\\int_L (x-y)^2 \\mathrm{e}^{x^2+y^2}\\,ds=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4d3a46e48819-01.png",
+      "latex": "设曲线 \\(L\\) 为上半圆周 \\(y=\\sqrt{1-x^2}\\)，则\n\\[\n\\int_L (x-y)^2 \\mathrm{e}^{x^2+y^2}\\,ds=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式与图片不一致，已按图片转写。"
+}

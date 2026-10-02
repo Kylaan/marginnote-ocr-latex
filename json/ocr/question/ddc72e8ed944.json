@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "qid": "ddc72e8ed944",
+  "item_id": "ddc72e8ed944",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2) 设 $n$ 是曲面 $2x^2+3y^2+z^2=6$ 在点 $P(1,1,1)$ 处的指向外侧的法向量，求函数 $u=\\frac{\\sqrt{6x^2+8y^2}}{z}$ 在点 $P$ 处沿方向 $n$ 的方向导数.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ddc72e8ed944-01.png",
+      "latex": "(2) 【解析】先求方向 $\\vec{n}$ 的方向余弦，再求 $\\frac{\\partial u}{\\partial x}, \\frac{\\partial u}{\\partial y}, \\frac{\\partial u}{\\partial z}$，最后按方向导数的计算公式 \\[\\frac{\\partial u}{\\partial n} = \\frac{\\partial u}{\\partial x}\\cos\\alpha + \\frac{\\partial u}{\\partial y}\\cos\\beta + \\frac{\\partial u}{\\partial z}\\cos\\gamma\\] 求出方向导数. 曲面 $2x^2+3y^2+z^2=6$ 在点 $P(1,1,1)$ 处的法向量为 \\[\\pm\\{4x,6y,2z\\}\\big|_P = \\{4x,6y,2z\\}\\big|_{(1,1,1)} = \\pm 2\\{2,3,1\\},\\] 在点 $P(1,1,1)$ 处指向外侧，取正号，并单位化得"
+    },
+    {
+      "image": "img/question/ddc72e8ed944-02.png",
+      "latex": "\\[\\vec{n} = \\frac{1}{\\sqrt{2^2+3^2+1}}\\{2,3,1\\} = \\frac{1}{\\sqrt{14}}\\{2,3,1\\} = \\{\\cos\\alpha,\\cos\\beta,\\cos\\gamma\\}.\\] 又 \\[\\left\\{\\begin{aligned}\\left.\\frac{\\partial u}{\\partial x}\\right|_P &= \\left.\\frac{6x}{z\\sqrt{6x^2+8y^2}}\\right|_P = \\left.\\frac{6x}{z\\sqrt{6x^2+8y^2}}\\right|_{(1,1,1)} = \\frac{6}{\\sqrt{14}},\\\\ \\left.\\frac{\\partial u}{\\partial y}\\right|_P &= \\left.\\frac{8y}{z\\sqrt{6x^2+8y^2}}\\right|_P = \\left.\\frac{8y}{z\\sqrt{6x^2+8y^2}}\\right|_{(1,1,1)} = \\frac{8}{\\sqrt{14}},\\\\ \\left.\\frac{\\partial u}{\\partial z}\\right|_P &= -\\left.\\frac{\\sqrt{6x^2+8y^2}}{z^2}\\right|_P = -\\left.\\frac{\\sqrt{6x^2+8y^2}}{z^2}\\right|_{(1,1,1)} = -\\sqrt{14}\\end{aligned}\\right.\\] 所以方向导数 \\[\\frac{\\partial u}{\\partial n} = \\frac{\\partial u}{\\partial x}\\cos\\alpha + \\frac{\\partial u}{\\partial y}\\cos\\beta + \\frac{\\partial u}{\\partial z}\\cos\\gamma\\] \\[= \\frac{6}{\\sqrt{14}}\\cdot\\frac{2}{\\sqrt{14}} + \\frac{8}{\\sqrt{14}}\\cdot\\frac{3}{\\sqrt{14}} - \\sqrt{14}\\cdot\\frac{1}{\\sqrt{14}} = \\frac{11}{7}.\\]"
+    },
+    {
+      "image": "img/question/ddc72e8ed944-03.png",
+      "latex": "(2) 设 $n$ 是曲面 $2x^2+3y^2+z^2=6$ 在点 $P(1,1,1)$ 处的指向外侧的法向量，求函数 $u=\\frac{\\sqrt{6x^2+8y^2}}{z}$ 在点 $P$ 处沿方向 $n$ 的方向导数."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "possible_answer_content",
+    "raw_text_conflict"
+  ],
+  "notes": "第一、二张图片为解析内容，第三张图片为题干；raw_text 中部分公式与图片不符，已以图片为准。"
+}

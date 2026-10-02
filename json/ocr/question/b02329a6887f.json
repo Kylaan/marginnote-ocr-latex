@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b02329a6887f",
+  "item_id": "b02329a6887f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(9) 设曲线 $L$ 为 $z=4-x^2-y^2$ 与 $z=3$ 的交线，从 $z$ 轴正向看是逆时针方向，计算\n\\[I=\\oint_L x^2y^3\\,dx+z\\,dy+y\\,dz.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b02329a6887f-01.png",
+      "latex": "(9) 设曲线 $L$ 为 $z=4-x^2-y^2$ 与 $z=3$ 的交线，从 $z$ 轴正向看是逆时针方向，计算\n\\[I=\\oint_L x^2y^3\\,dx+z\\,dy+y\\,dz.\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分式未显示积分号及部分指数，已按图片转写。"
+}

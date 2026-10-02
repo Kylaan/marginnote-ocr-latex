@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "5a893c936e10",
+  "item_id": "5a893c936e10",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "直线 $L:\\begin{cases} x+2y-3z=2,\\\\ 2x-y+z=3 \\end{cases}$，在平面 $z=0$ 上的投影为 $\\underline{\\hspace{4em}}$，在平面 $z=1$ 上的投影为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5a893c936e10-01.png",
+      "latex": "直线 $L:\\begin{cases} x+2y-3z=2,\\\\ 2x-y+z=3 \\end{cases}$，在平面 $z=0$ 上的投影为 $\\underline{\\hspace{4em}}$，在平面 $z=1$ 上的投影为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

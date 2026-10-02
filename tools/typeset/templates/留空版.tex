@@ -1,0 +1,322 @@
+% !TEX program = xelatex
+% 由 tools/build_tex.py 自动生成，请勿直接手改；改样式改脚本里的 PREAMBLE。
+\documentclass[UTF8,10pt,a4paper]{ctexart}
+
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\graphicspath{{../../_build/}}
+\usepackage[table]{xcolor}
+\usepackage{geometry}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+
+\geometry{top=2.0cm, bottom=2.0cm, left=1.9cm, right=1.9cm,
+          headsep=4mm, footskip=9mm}
+
+% OCR 结果里中文标点会出现在 $...$ 内部（如 $x\to0。$），
+% 不开这个开关的话数学字体没有该字形，xelatex 会静默丢字。
+\xeCJKsetup{CJKmath=true}
+
+% ①②③ 与 Ⅰ Ⅱ 同样会出现在数学模式里，用与模式无关的宏顶替。
+\newcommand{\cnum}[1]{\ensuremath{\text{\textcircled{\scriptsize #1}}}}
+\newcommand{\rn}[1]{\ensuremath{\mathrm{#1}}}
+
+\definecolor{ink}{HTML}{1A1A1A}
+\definecolor{accent}{HTML}{16506B}
+\definecolor{soft}{HTML}{8A8A8A}
+\definecolor{rule}{HTML}{D6DEE3}
+
+\hypersetup{
+  colorlinks=true, linkcolor=accent, urlcolor=accent,
+  bookmarksnumbered=true, bookmarksopen=true, bookmarksopenlevel=2,
+  pdftitle={无空做题本-留空版},
+}
+
+\color{ink}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\linespread{1.15}
+\allowdisplaybreaks[4]
+\setlength{\emergencystretch}{1.5em}
+
+\setlength{\abovedisplayskip}{4pt plus 2pt minus 1pt}
+\setlength{\belowdisplayskip}{4pt plus 2pt minus 1pt}
+\setlength{\abovedisplayshortskip}{2pt plus 1pt}
+\setlength{\belowdisplayshortskip}{2pt plus 1pt}
+
+% ======== 可调版式参数 ========
+\newlength{\qsep}     \setlength{\qsep}{8ex}      % 题与题之间的间距（留空版就是加大它）
+\newlength{\qheadgap} \setlength{\qheadgap}{1.2ex} % 小标题与它下面第一道题的间距
+\newlength{\qhdrsep}  \setlength{\qhdrsep}{1.1ex}  % 题号行与题干之间的间距
+\newlength{\qindent}  \setlength{\qindent}{1.7em}  % 题干相对题号的缩进
+
+% 「刚打完一个小标题」的标志。
+% 每道题开头都要空出 \qsep，但紧跟在标题后面的第一道题不能空——否则标题和它的
+% 第一道题之间被撑开一个 \qsep 的大洞，标题看起来就孤零零地悬着。间距越大越明显。
+% 所以标题结束时立旗，题目开头看到旗就改用 \qheadgap，并把旗放倒。
+\newif\ifqafterhead \qafterheadfalse
+
+% ---------------- 页眉页脚 ----------------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyhead[L]{\small\color{soft}无空做题本-留空版}
+\fancyhead[R]{\small\color{soft}\leftmark}
+\fancyfoot[C]{\small\color{soft}· 第 \thepage{} 页，共 \pageref{LastPage} 页 ·}
+
+% ---------------- 分类标题 ----------------
+% \qhead{层级}{编号}{标题}{锚点}
+\newcommand{\qhead}[4]{%
+  \par\phantomsection\label{#4}%
+  \ifnum#1=1
+    \addvspace{2.4ex}\pdfbookmark[1]{#2 #3}{#4}%
+    \markboth{#2\quad #3}{#2\quad #3}%
+    \addcontentsline{toc}{section}{\protect\numberline{#2}#3}%
+    {\color{accent}\hrule height 1.2pt}\vspace{0.7ex}%
+    {\LARGE\bfseries\color{accent} #2\hspace{0.6em}#3}%
+    \par\vspace{0.3ex}\addvspace{1.6ex}%
+  \else\ifnum#1=2
+    \addvspace{2.0ex}\pdfbookmark[2]{#2 #3}{#4}%
+    \addcontentsline{toc}{subsection}{\protect\numberline{#2}#3}%
+    {\large\bfseries\color{accent} #2\hspace{0.5em}#3}%
+    \par\vspace{0.4ex}{\color{rule}\hrule height 0.5pt}\addvspace{1.2ex}%
+  \else\ifnum#1=3
+    \addvspace{1.7ex}\pdfbookmark[3]{#2 #3}{#4}%
+    {\normalsize\bfseries\color{accent} #2\hspace{0.5em}#3}\par\addvspace{0.8ex}%
+  \else
+    \addvspace{1.4ex}\pdfbookmark[#1]{#2 #3}{#4}%
+    \hspace*{\dimexpr 0.9em*(#1-4)\relax}%
+    {\normalsize\bfseries\color{soft}$\blacktriangleright$\,}%
+    {\normalsize\bfseries #2\hspace{0.45em}#3}\par\addvspace{0.6ex}%
+  \fi\fi\fi
+  \global\qafterheadtrue
+  \nopagebreak                 % 标题不要单独留在页底
+}
+
+% ---------------- 题目 ----------------
+% 题头：题号 + 唯一出处（数据库 ZNOTETITLE）
+\newcommand{\qhdr}[2]{%
+  {\bfseries\color{accent} #1}%
+  \ifx\relax#2\relax\else\hspace{0.55em}{\small\color{soft} #2}\fi
+}
+
+% \begin{q}{题号}{出处}{锚点}
+\newenvironment{q}[3]{%
+  \par
+  \ifqafterhead
+    \nobreak\vspace{\qheadgap}\global\qafterheadfalse
+  \else
+    \addvspace{\qsep}\penalty-200%
+  \fi
+  \phantomsection\label{#3}%
+  \noindent\qhdr{#1}{#2}%
+  \par\nobreak\vspace{\qhdrsep}%
+  \begingroup\leftskip=\qindent\nobreak
+}{%
+  \par\endgroup%
+}
+
+% 两栏简单填空：\begin{qrow} \qcell{号}{出处}{锚点}{正文} \hfill \qcell{...} \end{qrow}
+\newenvironment{qrow}{%
+  \par
+  \ifqafterhead
+    \nobreak\vspace{\qheadgap}\global\qafterheadfalse
+  \else
+    \addvspace{\qsep}%
+  \fi
+  \noindent
+}{%
+  \par
+}
+\newcommand{\qcell}[4]{%
+  \parbox[t]{0.48\linewidth}{%
+    \phantomsection\label{#3}\sloppy
+    \qhdr{#1}{#2}\par\vspace{\qhdrsep}%
+    \leftskip=0.9em\relax #4\strut}%
+}
+
+% 填空线
+\newcommand{\blank}{\underline{\hspace{4.2em}}}
+
+% 选项：参考样式用 “A.”，短选项四栏 / 一般两栏 / 超宽独占一行
+\newlength{\optwd}
+\newenvironment{opts}[1]{%
+  \par\addvspace{0.5ex}%
+  \setlength{\optwd}{#1\dimexpr\linewidth\relax}%
+  \setlength{\topsep}{0pt}\setlength{\partopsep}{0pt}%
+  \setlength{\parsep}{0pt}\setlength{\itemsep}{0pt}%
+  \begin{trivlist}\item[]\relax
+}{%
+  \end{trivlist}%
+}
+\newcommand{\opt}[2]{%
+  \parbox[t]{\optwd}{\raggedright\sloppy\hangindent=1.5em\hangafter=1
+    {\bfseries #1.}\hspace{0.4em}#2\strut}%
+}
+
+% 含图题：build_tex 先贴整张原始截图（图文都在里面），人工确认哪些题真的需要图之后，
+% 用 tools/crop_figs.py 把图形裁出来放进 img/fig/，并把下面的引用改指过去。
+% 截图是 165 DPI，按 72/165≈0.44 缩放即原始物理尺寸；过宽的（如整排选项图）压到版心内。
+\newenvironment{figblock}{%
+  \par\addvspace{0.8ex}\begingroup\centering
+}{%
+  \par\endgroup\addvspace{0.6ex}%
+}
+% 验收对照用：tools/figs_both.py 会往正文插入原图，验收完 --clean 移除
+\newcommand{\figlabel}[1]{\par\vspace{0.3ex}{\scriptsize\color{soft} #1}\par}
+\newcommand{\figraw}[2]{%
+  \par\vspace{0.5ex}%
+  {\scriptsize\color{soft} #2}\par\vspace{0.2ex}%
+  \fbox{\includegraphics[width=0.92\linewidth]{#1}}\par
+}
+
+\newlength{\figw}
+\newcommand{\qfig}[1]{%
+  \settowidth{\figw}{\includegraphics[scale=0.44]{#1}}%
+  \ifdim\figw>0.62\linewidth
+    \includegraphics[width=0.62\linewidth]{#1}%
+  \else
+    \includegraphics[scale=0.44]{#1}%
+  \fi
+  \hspace{1.5em}%
+}
+
+
+% ======== 留空版 ========
+\setlength{\qsep}{20ex}
+
+% ======== 合集专用 ========
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{fillbetween}
+
+\newcommand{\curchap}{}
+\fancyhead[L]{\small\color{soft}\curchap}
+\fancyhead[R]{\small\color{soft}\leftmark}
+
+% \bookchapter{章标题}{题数}{锚点}
+\newcommand{\bookchapter}[3]{%
+  \clearpage
+  \renewcommand{\curchap}{#1}%
+  \phantomsection\label{#3}%
+  \pdfbookmark[0]{#1}{#3}%
+  \addcontentsline{toc}{part}{#1}%
+  \markboth{#1}{#1}%
+  \vspace*{2.2cm}
+  {\color{accent}\hrule height 2pt}\vspace{1.0em}
+  {\Huge\bfseries\color{accent} #1}\par
+  \vspace{0.8em}
+  {\large\color{soft} 共 #2 题}\par
+  \vspace{1.0em}
+  {\color{accent}\hrule height 2pt}
+  \vspace{2.0cm}
+}
+
+% ---------------- 封面插图 ----------------
+% sin x 的泰勒部分和 S_1, S_3, ..., S_13。
+% 由浅入深的每一条都比前一条多贴合一段，最终仍然甩开 —— 这就是「逼近」的样子，
+% 也是做题的样子。波峰下淡淡的一块是 ∫_0^π sin x dx = 2，顺手点一下积分。
+\newcommand{\coverplot}{%
+\begin{tikzpicture}
+\begin{axis}[
+  width=15.8cm, height=9.0cm,
+  axis lines=middle,
+  axis line style={soft, line width=0.4pt, -},
+  xmin=-7.6, xmax=7.6, ymin=-2.05, ymax=2.05,
+  domain=-7.6:7.6, samples=300,
+  restrict y to domain=-2.3:2.3,
+  xtick={-6.2832, -3.1416, 3.1416, 6.2832},
+  xticklabels={$-2\pi$, $-\pi$, $\pi$, $2\pi$},
+  ytick=\empty,
+  tick label style={font=\tiny, color=soft},
+  tick style={soft, line width=0.3pt},
+  clip=true,
+]
+  \addplot[draw=none, domain=0:3.1416, name path=hump] {sin(deg(x))};
+  \path[name path=base] (axis cs:0,0) -- (axis cs:3.1416,0);
+  \addplot[accent, opacity=0.10] fill between[of=hump and base];
+
+  \addplot[accent, opacity=0.18, line width=0.5pt] {x};
+  \addplot[accent, opacity=0.26, line width=0.5pt] {x - x^3/6};
+  \addplot[accent, opacity=0.34, line width=0.5pt] {x - x^3/6 + x^5/120};
+  \addplot[accent, opacity=0.42, line width=0.5pt] {x - x^3/6 + x^5/120 - x^7/5040};
+  \addplot[accent, opacity=0.50, line width=0.5pt]
+     {x - x^3/6 + x^5/120 - x^7/5040 + x^9/362880};
+  \addplot[accent, opacity=0.58, line width=0.5pt]
+     {x - x^3/6 + x^5/120 - x^7/5040 + x^9/362880 - x^11/39916800};
+  \addplot[accent, opacity=0.66, line width=0.5pt]
+     {x - x^3/6 + x^5/120 - x^7/5040 + x^9/362880 - x^11/39916800 + x^13/6227020800};
+
+  \addplot[accent, line width=1.3pt] {sin(deg(x))};
+\end{axis}
+\end{tikzpicture}}
+
+\begin{document}
+
+\begin{titlepage}
+\centering
+\vspace*{1.4cm}
+
+{\color{accent}\hrule height 1.6pt}
+\vspace{1.1em}
+{\Huge\bfseries 帕拉迪宇大观做题本}\par
+\vspace{0.7em}
+{\LARGE\bfseries\color{accent} 高等数学 · 留空版}\par
+\vspace{1.0em}
+{\color{accent}\hrule height 1.6pt}
+
+\vspace{1.7cm}
+
+\coverplot
+
+\vspace{0.9em}
+{\small\color{soft}
+$\displaystyle\sin x=\sum_{k=0}^{\infty}\frac{(-1)^{k}x^{2k+1}}{(2k+1)!}$
+\qquad
+图为部分和 $S_1,S_3,\dots,S_{13}$：每多算一项，就多对一阵子。}
+
+\vspace{1.8cm}
+
+{\large 全七章 · 共 3759 题}\par
+\vspace{1.0em}
+{\color{soft} 函数极限连续 · 一元微分 · 一元积分 · 微分方程\\[0.4em]
+多元微分 · 二重积分 · 级数}\par
+
+\vfill
+{\small\color{soft} 重构自「大观」MarginNote 源文件；题干经 OCR 重新识别，不含答案。\\[0.4em]
+勘误请参考：https://kylaan.github.io/pldy-daguan-export/}\par
+\vspace{0.7em}
+{\small\color{accent} 纠错请联系 @Kylaan\ (maintainer@example.invalid)}\par
+\vspace{0.6cm}
+\end{titlepage}
+
+\pagenumbering{roman}
+\setcounter{tocdepth}{1}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+
+\bookchapter{第一章 函数·极限·连续}{896}{ch01:chap}
+\input{../../_build/parts/ch01-函数极限连续.tex}
+
+\bookchapter{第二章 一元微分}{684}{ch02:chap}
+\input{../../_build/parts/ch02-一元微分.tex}
+
+\bookchapter{第三章 一元积分}{645}{ch03:chap}
+\input{../../_build/parts/ch03-一元积分.tex}
+
+\bookchapter{第四章 微分方程}{451}{ch04:chap}
+\input{../../_build/parts/ch04-微分方程.tex}
+
+\bookchapter{第五章 多元微分}{396}{ch05:chap}
+\input{../../_build/parts/ch05-多元微分.tex}
+
+\bookchapter{第六章 二重积分}{248}{ch06:chap}
+\input{../../_build/parts/ch06-二重积分.tex}
+
+\bookchapter{第七章 级数}{439}{ch07:chap}
+\input{../../_build/parts/ch07-级数.tex}
+
+\end{document}

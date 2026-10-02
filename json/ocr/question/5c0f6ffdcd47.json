@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5c0f6ffdcd47",
+  "item_id": "5c0f6ffdcd47",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲线 $\\Gamma$ 为球面 $(x-1)^2+(y+1)^2+z^2=a^2$ 与平面 $x+y+z=0$ 的交线，则积分 $\\oint_{\\Gamma} x^2\\,ds=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5c0f6ffdcd47-01.png",
+      "latex": "设曲线 $\\Gamma$ 为球面 $(x-1)^2+(y+1)^2+z^2=a^2$ 与平面 $x+y+z=0$ 的交线，则积分 $\\oint_{\\Gamma} x^2\\,ds=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中多出题号“4”，且球面方程缺少括号、积分符号写作 Γx2ds；均以图片为准。"
+}

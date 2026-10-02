@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "de10b182a010",
+  "item_id": "de10b182a010",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求平行于平面 $x+y+z=9$ 且与球面 $x^2+y^2+z^2=4$ 相切的平面方程。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/de10b182a010-01.png",
+      "latex": "求平行于平面 $x+y+z=9$ 且与球面 $x^2+y^2+z^2=4$ 相切的平面方程。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 开头多出一个右括号“)”，图片中不存在该字符。"
+}

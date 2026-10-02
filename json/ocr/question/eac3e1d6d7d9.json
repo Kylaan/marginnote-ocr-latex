@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "eac3e1d6d7d9",
+  "item_id": "eac3e1d6d7d9",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 设 $S: x^2+y^2+z^2=a^2\\,(z\\geqslant 0)$，$S_1$ 为 $S$ 在第一卦限中的部分，则有（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\iint_S x\\,dS = 4\\iint_{S_1} x\\,dS$"
+    },
+    {
+      "label": "B",
+      "latex": "$\\iint_S y\\,dS = 4\\iint_{S_1} x\\,dS$"
+    },
+    {
+      "label": "C",
+      "latex": "$\\iint_S z\\,dS = 4\\iint_{S_1} x\\,dS$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\iint_S xyz\\,dS = 4\\iint_{S_1} xyz\\,dS$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/eac3e1d6d7d9-01.png",
+      "latex": "(2) 设 $S: x^2+y^2+z^2=a^2\\,(z\\geqslant 0)$，$S_1$ 为 $S$ 在第一卦限中的部分，则有（ ）\n\n(A) $\\iint_S x\\,dS = 4\\iint_{S_1} x\\,dS$ \\qquad (B) $\\iint_S y\\,dS = 4\\iint_{S_1} x\\,dS$.\n\n(C) $\\iint_S z\\,dS = 4\\iint_{S_1} x\\,dS$ \\qquad (D) $\\iint_S xyz\\,dS = 4\\iint_{S_1} xyz\\,dS$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

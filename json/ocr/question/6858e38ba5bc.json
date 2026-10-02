@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6858e38ba5bc",
+  "item_id": "6858e38ba5bc",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "已知函数 $v(x,y,z)=xy^2z^3$，向量 $\\vec{n}=(2,2,-1)$，则 $\\left.\\frac{\\partial v}{\\partial \\vec{n}}\\right|_{(1,1,1)}=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6858e38ba5bc-01.png",
+      "latex": "已知函数 $v(x,y,z)=xy^2z^3$，向量 $\\vec{n}=(2,2,-1)$，则 $\\left.\\frac{\\partial v}{\\partial \\vec{n}}\\right|_{(1,1,1)}=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的函数与向量和图片不一致，已以图片为准。"
+}

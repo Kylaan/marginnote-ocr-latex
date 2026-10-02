@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "c29b9607d5ab",
+  "item_id": "c29b9607d5ab",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(3) 设有直线 $L_1:\\frac{x-1}{1}=\\frac{y-5}{-2}=\\frac{z+8}{1}$ 与 $L_2:\\begin{cases} x-y=6,\\\\ 2y+z=3, \\end{cases}$ 则 $L_1$ 与 $L_2$ 的夹角为（\\quad）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\frac{\\pi}{6}.$"
+    },
+    {
+      "label": "B",
+      "latex": "$\\frac{\\pi}{4}.$"
+    },
+    {
+      "label": "C",
+      "latex": "$\\frac{\\pi}{3}.$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\frac{\\pi}{2}.$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c29b9607d5ab-01.png",
+      "latex": "(3) 设有直线 $L_1:\\frac{x-1}{1}=\\frac{y-5}{-2}=\\frac{z+8}{1}$ 与 $L_2:\\begin{cases} x-y=6,\\\\ 2y+z=3, \\end{cases}$ 则 $L_1$ 与 $L_2$ 的夹角为（\\quad）\n\n（A）$\\frac{\\pi}{6}.$ （B）$\\frac{\\pi}{4}.$ （C）$\\frac{\\pi}{3}.$ （D）$\\frac{\\pi}{2}.$"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

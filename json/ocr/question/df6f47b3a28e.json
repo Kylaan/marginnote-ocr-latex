@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "df6f47b3a28e",
+  "item_id": "df6f47b3a28e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设函数 $u(x,y,z)$ 在球面 $\\Sigma:x^2+y^2+z^2=2z$ 所包围的闭区域 $\\Omega$ 上有二阶连续偏导数，且满足关系式\n\\[\n\\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2}+\\frac{\\partial^2 u}{\\partial z^2}=x^2+y^2+z^2.\n\\]\n$\\boldsymbol{n}$ 为 $\\Sigma$ 外法线方向的单位向量，计算 $I=\\iint_{\\Sigma}\\frac{\\partial u}{\\partial \\boldsymbol{n}}dS=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/df6f47b3a28e-01.png",
+      "latex": "157 设函数 $u(x,y,z)$ 在球面 $\\Sigma:x^2+y^2+z^2=2z$ 所包围的闭区域 $\\Omega$ 上有二阶连续偏导数，且满足关系式 $\\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2}+\\frac{\\partial^2 u}{\\partial z^2}=x^2+y^2+z^2$. $\\boldsymbol{n}$ 为 $\\Sigma$ 外法线方向的单位向量，计算 $I=\\iint_{\\Sigma}\\frac{\\partial u}{\\partial \\boldsymbol{n}}dS=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

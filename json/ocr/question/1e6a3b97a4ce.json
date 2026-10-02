@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "1e6a3b97a4ce",
+  "item_id": "1e6a3b97a4ce",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(3) 设函数 $f(x,y)$ 在点 $(0,0)$ 处可微，$f(0,0)=0$，$\\mathbf{n}=\\left.\\left(\\frac{\\partial f}{\\partial x},\\frac{\\partial f}{\\partial y},-1\\right)\\right|_{(0,0)}$，非零向量 $\\boldsymbol{\\alpha}$ 与 $\\mathbf{n}$ 垂直，则（　　）.",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\mathbf{n}\\cdot(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在"
+    },
+    {
+      "label": "B",
+      "latex": "$\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\mathbf{n}\\times(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在"
+    },
+    {
+      "label": "C",
+      "latex": "$\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\boldsymbol{\\alpha}\\cdot(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在"
+    },
+    {
+      "label": "D",
+      "latex": "$\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\boldsymbol{\\alpha}\\times(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1e6a3b97a4ce-01.png",
+      "latex": "(3) 设函数 $f(x,y)$ 在点 $(0,0)$ 处可微，$f(0,0)=0$，$\\mathbf{n}=\\left.\\left(\\frac{\\partial f}{\\partial x},\\frac{\\partial f}{\\partial y},-1\\right)\\right|_{(0,0)}$，非零向量 $\\boldsymbol{\\alpha}$ 与 $\\mathbf{n}$ 垂直，则（　　）.\n\n(A) $\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\mathbf{n}\\cdot(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在\n\n(B) $\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\mathbf{n}\\times(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在\n\n(C) $\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\boldsymbol{\\alpha}\\cdot(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在\n\n(D) $\\lim\\limits_{(x,y)\\to(0,0)}\\dfrac{|\\boldsymbol{\\alpha}\\times(x,y,f(x,y))|}{\\sqrt{x^{2}+y^{2}}}$ 存在"
+    }
+  ],
+  "confidence": 0.93,
+  "flags": [],
+  "notes": "raw_text 中“(1,1.”等为 OCR 噪声，已按图片内容转写；图片中左上角标号“(3)”保留。"
+}

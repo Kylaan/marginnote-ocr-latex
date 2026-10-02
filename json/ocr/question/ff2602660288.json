@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "ff2602660288",
+  "item_id": "ff2602660288",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "10. 已知函数 $z=f(x,y)$ 可微，其在点 $P_0(1,2)$ 处沿从 $P_0$ 到 $P_1(2,3)$ 的方向的方向导数为 $2\\sqrt{2}$，沿从 $P_0$ 到 $P_2(1,0)$ 的方向的方向导数为 $-3$，则 $z$ 在点 $P_0$ 处的最大方向导数为 $\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ff2602660288-01.png",
+      "latex": "10. 已知函数 $z=f(x,y)$ 可微，其在点 $P_0(1,2)$ 处沿从 $P_0$ 到 $P_1(2,3)$ 的方向的方向导数为 $2\\sqrt{2}$，沿从 $P_0$ 到 $P_2(1,0)$ 的方向的方向导数为 $-3$，则 $z$ 在点 $P_0$ 处的最大方向导数为 $\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

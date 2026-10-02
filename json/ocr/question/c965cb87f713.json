@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c965cb87f713",
+  "item_id": "c965cb87f713",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(15) 设 \\(f(u)\\) 有连续导数，\\(S\\) 为 \\(z=\\sqrt{x^2+y^2}\\) 与两个半球面 \\(z=\\sqrt{1-x^2-y^2},z=\\sqrt{4-x^2-y^2}\\) 所围立体的全表面的外侧，计算\n\\[\nI=\\oiint_S\\left[\\frac{1}{y+3}f\\left(\\frac{x+4}{y+3}\\right)+3xy^2\\right]\\mathrm{d}y\\mathrm{d}z+\\left[\\frac{1}{x+4}f\\left(\\frac{x+4}{y+3}\\right)+3x^2y\\right]\\mathrm{d}z\\mathrm{d}x+z^3\\mathrm{d}x\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c965cb87f713-01.png",
+      "latex": "(15) 设 \\(f(u)\\) 有连续导数，\\(S\\) 为 \\(z=\\sqrt{x^2+y^2}\\) 与两个半球面 \\(z=\\sqrt{1-x^2-y^2},z=\\sqrt{4-x^2-y^2}\\) 所围立体的全表面的外侧，计算\n\\[\nI=\\oiint_S\\left[\\frac{1}{y+3}f\\left(\\frac{x+4}{y+3}\\right)+3xy^2\\right]\\mathrm{d}y\\mathrm{d}z+\\left[\\frac{1}{x+4}f\\left(\\frac{x+4}{y+3}\\right)+3x^2y\\right]\\mathrm{d}z\\mathrm{d}x+z^3\\mathrm{d}x\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的根号、分式与积分表达式与图片不一致，已按图片转写。"
+}

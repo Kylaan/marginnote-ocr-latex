@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "fc1730d17c1e",
+  "item_id": "fc1730d17c1e",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "20 记平面 $x+y+z=0$ 被圆柱面 $x^2+y^2=1$ 所截得的有限部分为 $\\Sigma$，$\\Sigma$ 取上侧.\\\\\n(Ⅰ) 若点 $P(x,y,z)$ 为 $\\Sigma$ 上的任意一点，求点 $P$ 的竖坐标 $z$ 的最大值 $z_1$ 和最小值 $z_0$；\\\\\n(Ⅱ) $z_0$ 为第(Ⅰ)问所得，记圆柱面 $x^2+y^2=1$ 位于 $\\Sigma$ 与平面 $z=z_0$ 之间的部分为 $S$，$S$ 取外侧，计算曲面积分\n\\[\nI=\\iint_{\\Sigma\\cup S} xy^2\\,dydz+yz^2\\,dzdx+zx^2\\,dxdy.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/fc1730d17c1e-01.png",
+      "latex": "20 记平面 $x+y+z=0$ 被圆柱面 $x^2+y^2=1$ 所截得的有限部分为 $\\Sigma$，$\\Sigma$ 取上侧.\\\\\n(Ⅰ) 若点 $P(x,y,z)$ 为 $\\Sigma$ 上的任意一点，求点 $P$ 的竖坐标 $z$ 的最大值 $z_1$ 和最小值 $z_0$；\\\\\n(Ⅱ) $z_0$ 为第(Ⅰ)问所得，记圆柱面 $x^2+y^2=1$ 位于 $\\Sigma$ 与平面 $z=z_0$ 之间的部分为 $S$，$S$ 取外侧，计算曲面积分\n\\[\nI=\\iint_{\\Sigma\\cup S} xy^2\\,dydz+yz^2\\,dzdx+zx^2\\,dxdy.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“x+2=1”“r+y7=1”“:=_”“1=”“EUS”等与图片不一致，已按图片转写为 $x^2+y^2=1$、$z=z_0$、$I=$、$\\Sigma\\cup S$。"
+}

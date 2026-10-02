@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "9fcf9cb8c896",
+  "item_id": "9fcf9cb8c896",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲面 $\\Sigma$ 是 $z=\\sqrt{4-x^{2}-y^{2}}$ 的上侧，则\n\\[\\iint_{\\Sigma} xy\\,\\mathrm{d}y\\mathrm{d}z + x\\,\\mathrm{d}z\\mathrm{d}x + x^{2}\\,\\mathrm{d}x\\mathrm{d}y = \\underline{\\hspace{4em}}\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9fcf9cb8c896-01.png",
+      "latex": "设曲面 $\\Sigma$ 是 $z=\\sqrt{4-x^{2}-y^{2}}$ 的上侧，则 $\\displaystyle\\iint_{\\Sigma} xy\\,\\mathrm{d}y\\mathrm{d}z + x\\,\\mathrm{d}z\\mathrm{d}x + x^{2}\\,\\mathrm{d}x\\mathrm{d}y = \\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.92,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的 \"z=4-x-y7\" 与图片不符，图片显示为 $z=\\sqrt{4-x^{2}-y^{2}}$，以图片为准。"
+}

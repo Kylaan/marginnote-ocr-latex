@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "028971b57920",
+  "item_id": "028971b57920",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲线 $\\begin{cases} x^2+2z^2=4, \\\\ y=0 \\end{cases}$ 绕 $z$ 轴旋转一周所得的旋转曲面方程为 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/028971b57920-01.png",
+      "latex": "曲线 $\\begin{cases} x^2+2z^2=4, \\\\ y=0 \\end{cases}$ 绕 $z$ 轴旋转一周所得的旋转曲面方程为 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

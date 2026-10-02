@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "3eba72a226fd",
+  "item_id": "3eba72a226fd",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(20) 设 \\(\\Omega = \\{(x,y,z) \\mid x^2+y^2+z^2 \\le 2ty, t>0\\}\\)，\\(\\Omega\\) 的边界曲面记为 \\(\\Sigma\\)，取外侧，\\(f(u)\\) 在 \\(\\Omega\\) 上可导，且 \\(f(0)=1\\)，\\(I(t)=\\oiint_{\\Sigma} x f(z)\\,dy dz+z f(x)\\,dz dx+x f(y)\\,dx dy\\)。计算 \\(\\lim_{t\\to 0^+} \\frac{I(t)}{t^3}\\)。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3eba72a226fd-01.png",
+      "latex": "(20) 设 \\(\\Omega = \\{(x,y,z) \\mid x^2+y^2+z^2 \\le 2ty, t>0\\}\\)，\\(\\Omega\\) 的边界曲面记为 \\(\\Sigma\\)，取外侧，\\(f(u)\\) 在 \\(\\Omega\\) 上可导，且 \\(f(0)=1\\)，\\(I(t)=\\oiint_{\\Sigma} x f(z)\\,dy dz+z f(x)\\,dz dx+x f(y)\\,dx dy\\)。计算 \\(\\lim_{t\\to 0^+} \\frac{I(t)}{t^3}\\)。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

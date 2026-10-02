@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "f94263e90529",
+  "item_id": "f94263e90529",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "设 $\\Sigma$ 为球面 $x^2+y^2+z^2=R^2$ 上半部分的上侧，则下列结论不正确的是",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\iint\\limits_{\\Sigma} x^2\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$"
+    },
+    {
+      "label": "B",
+      "latex": "$\\iint\\limits_{\\Sigma} x\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$"
+    },
+    {
+      "label": "C",
+      "latex": "$\\iint\\limits_{\\Sigma} y^2\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$"
+    },
+    {
+      "label": "D",
+      "latex": "$\\iint\\limits_{\\Sigma} y\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f94263e90529-01.png",
+      "latex": "359 设 $\\Sigma$ 为球面 $x^2+y^2+z^2=R^2$ 上半部分的上侧，则下列结论不正确的是\n\nA. $\\iint\\limits_{\\Sigma} x^2\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$\n\nB. $\\iint\\limits_{\\Sigma} x\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$\n\nC. $\\iint\\limits_{\\Sigma} y^2\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$\n\nD. $\\iint\\limits_{\\Sigma} y\\,\\mathrm{d}y\\,\\mathrm{d}z=0.$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将 \\Sigma 写作 ∑ 且未显示积分号，已按图片转写。"
+}

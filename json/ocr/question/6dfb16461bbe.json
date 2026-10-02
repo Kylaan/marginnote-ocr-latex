@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6dfb16461bbe",
+  "item_id": "6dfb16461bbe",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "向量场 $\\mathbf{u}(x,y,z)=xy^{2}\\mathbf{i}+ye^{z}\\mathbf{j}+x\\ln(1+z^{2})\\mathbf{k}$ 在点 $P(1,1,0)$ 处的散度 $\\operatorname{div}\\mathbf{u}=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6dfb16461bbe-01.png",
+      "latex": "向量场 $\\mathbf{u}(x,y,z)=xy^{2}\\mathbf{i}+ye^{z}\\mathbf{j}+x\\ln(1+z^{2})\\mathbf{k}$ 在点 $P(1,1,0)$ 处的散度 $\\operatorname{div}\\mathbf{u}=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 \"xyi\"、\"yefj\"、\"xln(l+z)k\" 与图片不符，图片分别为 $xy^{2}\\mathbf{i}$、$ye^{z}\\mathbf{j}$、$x\\ln(1+z^{2})\\mathbf{k}$，以图片为准。"
+}

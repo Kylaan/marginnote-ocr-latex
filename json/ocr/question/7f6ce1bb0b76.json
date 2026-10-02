@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7f6ce1bb0b76",
+  "item_id": "7f6ce1bb0b76",
+  "status": "needs_review",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 被平面 $z=1,z=2$ 所截部分的外侧，则积分\n\\[\n\\iint_{\\Sigma} y\\,\\mathrm{d}y\\,\\mathrm{d}z - x\\,\\mathrm{d}z\\,\\mathrm{d}x + z^2\\,\\mathrm{d}x\\,\\mathrm{d}y = \\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7f6ce1bb0b76-01.png",
+      "latex": "设 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 被平面 $z=1,z=2$ 所截部分的外侧，则积分\n\\[\n\\iint_{\\Sigma} y\\,\\mathrm{d}y\\,\\mathrm{d}z - x\\,\\mathrm{d}z\\,\\mathrm{d}x + z^2\\,\\mathrm{d}x\\,\\mathrm{d}y = \\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面表达式和积分符号与图片不一致；图片内容清晰。"
+}

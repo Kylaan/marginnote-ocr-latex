@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "81bad65ce446",
+  "item_id": "81bad65ce446",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "14 设 $L$ 为 $xOy$ 面上的曲线,方程为 $y=\\sqrt{1-x^2}(x\\ge0)$,$\\Sigma$ 是以 $L$ 为准线,母线平行于 $z$ 轴的柱面位于 $xOy$ 面与曲面 $z=x^2+2y^2$ 之间的部分. 计算曲面积分 \\[ I=\\iint_{\\Sigma}(x^2+y^2-z)\\,\\mathrm{d}S. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/81bad65ce446-01.png",
+      "latex": "14 设 $L$ 为 $xOy$ 面上的曲线,方程为 $y=\\sqrt{1-x^2}(x\\ge0)$,$\\Sigma$ 是以 $L$ 为准线,母线平行于 $z$ 轴的柱面位于 $xOy$ 面与曲面 $z=x^2+2y^2$ 之间的部分. 计算曲面积分 \\[ I=\\iint_{\\Sigma}(x^2+y^2-z)\\,\\mathrm{d}S. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分表达式等与图片不一致，已按图片转写。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "ede3db9c06d7",
+  "item_id": "ede3db9c06d7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $r=\\sqrt{x^2+y^2+z^2}$，则 $\\mathrm{div}(\\mathbf{grad}\\,r)\\big|_{(1,-2,2)}=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ede3db9c06d7-01.png",
+      "latex": "设 $r=\\sqrt{x^2+y^2+z^2}$，则 $\\mathrm{div}(\\mathbf{grad}\\,r)\\big|_{(1,-2,2)}=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的 \"r=xP+y只+z7\" 与图片不符，图片为 $r=\\sqrt{x^^2+y^2+z^2}$；转写以图片为准。"
+}

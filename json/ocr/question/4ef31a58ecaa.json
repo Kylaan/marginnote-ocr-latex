@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "4ef31a58ecaa",
+  "item_id": "4ef31a58ecaa",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(1) 计算 \\(I=\\iiint_{\\Omega}(x^2+y^2)\\,\\mathrm{d}v\\)，其中 \\(\\Omega\\) 为平面曲线 \\(\\begin{cases} y^2=2z,\\\\ x=0 \\end{cases}\\) 绕 \\(z\\) 轴旋转一周形成的曲面与平面 \\(z=8\\) 所围成的区域.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4ef31a58ecaa-01.png",
+      "latex": "(1) 计算 \\(I=\\iiint_{\\Omega}(x^2+y^2)\\,\\mathrm{d}v\\)，其中 \\(\\Omega\\) 为平面曲线 \\(\\begin{cases} y^2=2z,\\\\ x=0 \\end{cases}\\) 绕 \\(z\\) 轴旋转一周形成的曲面与平面 \\(z=8\\) 所围成的区域."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容冲突，已按图片转写。"
+}

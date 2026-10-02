@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "90dd7792133f",
+  "item_id": "90dd7792133f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求过点 $(-1,2,3)$，垂直于直线 $\\frac{x}{4}=\\frac{y}{5}=\\frac{z}{6}$ 且平行于平面 $7x+8y+9z+10=0$ 的直线方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/90dd7792133f-01.png",
+      "latex": "求过点 $(-1,2,3)$，垂直于直线 $\\frac{x}{4}=\\frac{y}{5}=\\frac{z}{6}$ 且平行于平面 $7x+8y+9z+10=0$ 的直线方程."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "2e2440217db8",
+  "item_id": "2e2440217db8",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "7. 使得 \\(\\oint_L (2y^3-3y)\\mathrm{d}x - x^3\\mathrm{d}y\\) 的值最大的平面正向边界曲线 \\(L\\) 为（ ）.",
+  "options": [
+    {
+      "label": "A",
+      "latex": "3x^2+y^2=1"
+    },
+    {
+      "label": "B",
+      "latex": "2x^2+y^2=1"
+    },
+    {
+      "label": "C",
+      "latex": "x^2+3y^2=1"
+    },
+    {
+      "label": "D",
+      "latex": "x^2+2y^2=1"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2e2440217db8-01.png",
+      "latex": "7. 使得 \\(\\oint_L (2y^3-3y)\\mathrm{d}x - x^3\\mathrm{d}y\\) 的值最大的平面正向边界曲线 \\(L\\) 为（ ）.\n\nA. \\(3x^2+y^2=1\\) B. \\(2x^2+y^2=1\\) C. \\(x^2+3y^2=1\\) D. \\(x^2+2y^2=1\\)"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分符号与括号等与图片不一致，以图片为准。"
+}

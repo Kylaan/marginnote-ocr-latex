@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "84d64aa9ff8c",
+  "item_id": "84d64aa9ff8c",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2) 设 $f(x,y,z)$ 连续，$\\Sigma$ 为平面 $x-y+z=1$ 在第四卦限部分的上侧，计算积分\n\\[\nI = \\iint_{\\Sigma} [f(x,y,z)+x]\\,dy\\,dz + [2f(x,y,z)+y]\\,dz\\,dx + [f(x,y,z)+z]\\,dx\\,dy.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/84d64aa9ff8c-01.png",
+      "latex": "(2) 设 $f(x,y,z)$ 连续，$\\Sigma$ 为平面 $x-y+z=1$ 在第四卦限部分的上侧，计算积分\n\\[\nI = \\iint_{\\Sigma} [f(x,y,z)+x]\\,dy\\,dz + [2f(x,y,z)+y]\\,dz\\,dx + [f(x,y,z)+z]\\,dx\\,dy.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 $x-y+z=1$ 及若干 $f(x,y,z)$ 被误识别为 $x-ytz=1$、$Kx,y,z$ 等，已按图片忠实转写。"
+}

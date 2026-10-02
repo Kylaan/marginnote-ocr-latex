@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "afec046a23fe",
+  "item_id": "afec046a23fe",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求曲面积分 $I=\\iint_{\\Sigma} yz\\,\\mathrm{d}z\\mathrm{d}x+2\\,\\mathrm{d}x\\mathrm{d}y$，其中 $\\Sigma$ 是球面 $x^2+y^2+z^2=4$ 外侧在 $z\\geqslant 0$ 的部分.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/afec046a23fe-01.png",
+      "latex": "求曲面积分 $I=\\iint_{\\Sigma} yz\\,\\mathrm{d}z\\mathrm{d}x+2\\,\\mathrm{d}x\\mathrm{d}y$，其中 $\\Sigma$ 是球面 $x^2+y^2+z^2=4$ 外侧在 $z\\geqslant 0$ 的部分."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

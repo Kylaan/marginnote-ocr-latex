@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "243891b20bb1",
+  "item_id": "243891b20bb1",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 函数 $f(x,y)=\\arctan \\frac{x}{y}$ 在点 $(0,1)$ 处的梯度等于（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\boldsymbol{i}$．"
+    },
+    {
+      "label": "B",
+      "latex": "$-\\boldsymbol{i}$．"
+    },
+    {
+      "label": "C",
+      "latex": "$\\boldsymbol{j}$．"
+    },
+    {
+      "label": "D",
+      "latex": "$-\\boldsymbol{j}$．"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/243891b20bb1-01.png",
+      "latex": "(2) 函数 $f(x,y)=\\arctan \\frac{x}{y}$ 在点 $(0,1)$ 处的梯度等于（ ）\n\n(A) $\\boldsymbol{i}$．    (B) $-\\boldsymbol{i}$．\n\n(C) $\\boldsymbol{j}$．    (D) $-\\boldsymbol{j}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片存在不一致：函数名、分式与点坐标以图片为准。"
+}

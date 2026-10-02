@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "033024ef74e7",
+  "item_id": "033024ef74e7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "6 设曲线积分 \\( \\int_L f'(x)\\,dy - 4y f(x)\\,dx \\) 与路径无关，其中 \\(f(x)\\) 具有二阶连续导数，并且 \\(\\lim_{x\\to 0} \\frac{f(x)-1}{x^2}\\) 存在，则 \\(f(x)= \\underline{\\hspace{4em}}\\)。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/033024ef74e7-01.png",
+      "latex": "6 设曲线积分 \\( \\int_L f'(x)\\,dy - 4y f(x)\\,dx \\) 与路径无关，其中 \\(f(x)\\) 具有二阶连续导数，并且 \\(\\lim_{x\\to 0} \\frac{f(x)-1}{x^2}\\) 存在，则 \\(f(x)= \\underline{\\hspace{4em}}\\)。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中极限部分与图片不一致，已按图片转写。"
+}

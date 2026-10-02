@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d1e89df31379",
+  "item_id": "d1e89df31379",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2) 设曲线积分 \\(\\int_C xy^2\\,dx + y\\varphi(x)\\,dy\\) 与路径无关，其中 \\(\\varphi(x)\\) 具有连续的导数，且 \\(\\varphi(0)=0\\). 计算\n\\[\n\\int_{(0,0)}^{(1,1)} xy^2\\,dx + y\\varphi(x)\\,dy\n\\]\n的值.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d1e89df31379-01.png",
+      "latex": "(2) 设曲线积分 \\(\\int_C xy^2\\,dx + y\\varphi(x)\\,dy\\) 与路径无关，其中 \\(\\varphi(x)\\) 具有连续的导数，且 \\(\\varphi(0)=0\\). 计算\n\\[\n\\int_{(0,0)}^{(1,1)} xy^2\\,dx + y\\varphi(x)\\,dy\n\\]\n的值."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式与图片不一致，已按图片转写。"
+}

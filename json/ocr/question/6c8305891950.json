@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "6c8305891950",
+  "item_id": "6c8305891950",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设一平面经过原点及 $(6,-3,2)$，且与平面 $4x-y+2z=8$ 垂直，则此平面方程为 $\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6c8305891950-01.png",
+      "latex": "设一平面经过原点及 $(6,-3,2)$，且与平面 $4x-y+2z=8$ 垂直，则此平面方程为 $\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

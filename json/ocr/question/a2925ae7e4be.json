@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "a2925ae7e4be",
+  "item_id": "a2925ae7e4be",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算三重积分 $\\iiint_{\\Omega}(x+z)\\,\\mathrm{d}v$，其中 $\\Omega$ 是由曲面 $z=\\sqrt{x^2+y^2}$ 与 $z=\\sqrt{1-x^2-y^2}$ 所围成的区域.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a2925ae7e4be-01.png",
+      "latex": "计算三重积分 $\\iiint_{\\Omega}(x+z)\\,\\mathrm{d}v$，其中 $\\Omega$ 是由曲面 $z=\\sqrt{x^2+y^2}$ 与 $z=\\sqrt{1-x^2-y^2}$ 所围成的区域."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致，已以图片为准。"
+}

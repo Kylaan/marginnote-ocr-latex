@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "9c319be601f9",
+  "item_id": "9c319be601f9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Gamma$ 是空间圆周\n\\[\n\\begin{cases}\nx^2+y^2+z^2=a^2,\\\\\nx+y+z=\\frac{3}{2}a\n\\end{cases}\n\\quad (a>0),\n\\]\n则\n\\[\n\\oint_{\\Gamma} (2yz+2zx+2xy)\\,ds=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9c319be601f9-01.png",
+      "latex": "设 $\\Gamma$ 是空间圆周\n\\[\n\\begin{cases}\nx^2+y^2+z^2=a^2,\\\\\nx+y+z=\\frac{3}{2}a\n\\end{cases}\n\\quad (a>0),\n\\]\n则\n\\[\n\\oint_{\\Gamma} (2yz+2zx+2xy)\\,ds=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

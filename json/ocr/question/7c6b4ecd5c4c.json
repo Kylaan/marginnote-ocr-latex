@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7c6b4ecd5c4c",
+  "item_id": "7c6b4ecd5c4c",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "16 设 \\(f(u)\\) 具有连续导数，\\(\\Sigma_1,\\Sigma_2\\) 分别为由 \\(xOy\\) 面上的曲线 \\(x^2=y\\)，\\(x^2=2y\\) 绕 \\(y\\) 轴旋转而成的旋转曲面. 计算曲面积分\n\\[\nI=\\oiint_{\\Sigma} xf(xe^{z})\\,dy\\,dz + [x^{2}-f(xe^{z})]y\\,dz\\,dx + \\left[\\frac{z^{3}}{3}-f(xe^{z})\\right]dx\\,dy,\n\\]\n其中 \\(\\Sigma\\) 为由 \\(\\Sigma_1,\\Sigma_2\\) 以及平面 \\(y=2\\) 所围成立体表面的外侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7c6b4ecd5c4c-01.png",
+      "latex": "16 设 \\(f(u)\\) 具有连续导数，\\(\\Sigma_1,\\Sigma_2\\) 分别为由 \\(xOy\\) 面上的曲线 \\(x^2=y\\)，\\(x^2=2y\\) 绕 \\(y\\) 轴旋转而成的旋转曲面. 计算曲面积分\n\\[\nI=\\oiint_{\\Sigma} xf(xe^{z})\\,dy\\,dz + [x^{2}-f(xe^{z})]y\\,dz\\,dx + \\left[\\frac{z^{3}}{3}-f(xe^{z})\\right]dx\\,dy,\n\\]\n其中 \\(\\Sigma\\) 为由 \\(\\Sigma_1,\\Sigma_2\\) 以及平面 \\(y=2\\) 所围成立体表面的外侧."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片冲突：raw_text 写为 x=y, x=2y，且积分表达式与图片不一致；已以图片为准。"
+}

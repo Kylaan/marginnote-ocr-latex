@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "98a3eca02270",
+  "item_id": "98a3eca02270",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "设 \\(C_k(k=1,2,3)\\) 分别为曲线 \\(x^2+y^2=1\\), \\(\\frac{x^2}{2}+y^2=1\\), \\(x^2+y^2=2\\), 其方向为逆时针方向，\\[I_k=\\oint_{C_k}(3yx^2+y^3)\\,\\mathrm{d}x+(3x+y)\\,\\mathrm{d}y\\quad(k=1,2,3),\\] 则",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\(I_1<I_2<I_3\\)."
+    },
+    {
+      "label": "B",
+      "latex": "\\(I_1<I_3<I_2\\)."
+    },
+    {
+      "label": "C",
+      "latex": "\\(I_3<I_2<I_1\\)."
+    },
+    {
+      "label": "D",
+      "latex": "\\(I_2<I_1<I_3\\)."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/98a3eca02270-01.png",
+      "latex": "352 设 \\(C_k(k=1,2,3)\\) 分别为曲线 \\(x^2+y^2=1\\), \\(\\frac{x^2}{2}+y^2=1\\), \\(x^2+y^2=2\\), 其方向为逆时针方向，\\[I_k=\\oint_{C_k}(3yx^2+y^3)\\,\\mathrm{d}x+(3x+y)\\,\\mathrm{d}y\\quad(k=1,2,3),\\] 则 A. \\(I_1<I_2<I_3\\). B. \\(I_1<I_3<I_2\\). C. \\(I_3<I_2<I_1\\). D. \\(I_2<I_1<I_3\\)."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

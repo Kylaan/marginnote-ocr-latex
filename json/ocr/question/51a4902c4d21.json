@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "51a4902c4d21",
+  "item_id": "51a4902c4d21",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "（6）设曲线 $L: f(x,y)=1$（$f(x,y)$ 具有一阶连续偏导数）过第二象限内的点 $M$ 和第四象限内的点 $N$，$\\Gamma$ 为 $L$ 上从点 $M$ 到点 $N$ 的一段弧，则下列积分小于零的是（  ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$\\int_{\\Gamma} f(x,y)\\,\\mathrm{d}x$．"
+    },
+    {
+      "label": "B",
+      "latex": "$\\int_{\\Gamma} f(x,y)\\,\\mathrm{d}y$．"
+    },
+    {
+      "label": "C",
+      "latex": "$\\int_{\\Gamma} f(x,y)\\,\\mathrm{d}s$．"
+    },
+    {
+      "label": "D",
+      "latex": "$\\int_{\\Gamma} f'_x(x,y)\\,\\mathrm{d}x+f'_y(x,y)\\,\\mathrm{d}y$．"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/51a4902c4d21-01.png",
+      "latex": "（6）设曲线 $L: f(x,y)=1$（$f(x,y)$ 具有一阶连续偏导数）过第二象限内的点 $M$ 和第四象限内的点 $N$，$\\Gamma$ 为 $L$ 上从点 $M$ 到点 $N$ 的一段弧，则下列积分小于零的是（  ）\n\n（A）$\\int_{\\Gamma} f(x,y)\\,\\mathrm{d}x$．\\qquad（B）$\\int_{\\Gamma} f(x,y)\\,\\mathrm{d}y$．\n\n（C）$\\int_{\\Gamma} f(x,y)\\,\\mathrm{d}s$．\\qquad（D）$\\int_{\\Gamma} f'_x(x,y)\\,\\mathrm{d}x+f'_y(x,y)\\,\\mathrm{d}y$．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将题干和选项中的多处符号识别为乱码，已按图片内容转写。"
+}

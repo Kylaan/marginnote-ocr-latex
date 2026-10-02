@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "0ff5a8733bbd",
+  "item_id": "0ff5a8733bbd",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分 $\\iint_{\\Sigma} z\\,dS$, 其中 $\\Sigma$ 为锥面 $z=\\sqrt{x^{2}+y^{2}}$ 在柱体 $x^{2}+y^{2}\\leq 2x$ 内的部分.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0ff5a8733bbd-01.png",
+      "latex": "计算曲面积分 $\\iint_{\\Sigma} z\\,dS$, 其中 $\\Sigma$ 为锥面 $z=\\sqrt{x^{2}+y^{2}}$ 在柱体 $x^{2}+y^{2}\\leq 2x$ 内的部分."
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

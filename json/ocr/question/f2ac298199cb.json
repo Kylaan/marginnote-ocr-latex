@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "f2ac298199cb",
+  "item_id": "f2ac298199cb",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "过点 $(2,0,-3)$ 且与直线 $\\begin{cases} x-2y+4z-7=0,\\\\ 3x+5y-2z+1=0 \\end{cases}$ 垂直的平面方程为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f2ac298199cb-01.png",
+      "latex": "过点 $(2,0,-3)$ 且与直线 $\\begin{cases} x-2y+4z-7=0,\\\\ 3x+5y-2z+1=0 \\end{cases}$ 垂直的平面方程为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

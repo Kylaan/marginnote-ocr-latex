@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "ae39c9075451",
+  "item_id": "ae39c9075451",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "13. 设 \\(f(x,y)\\) 可微, \\(p(x,y), p_0(x_0,y_0)\\) 为曲面 \\(z=f(x,y)\\) 上的点, 则 ( ).",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\[\\lim_{p\\to p_0} \\frac{f(p)+\\left[f(p_0)-\\operatorname{grad}f\\big|_{p_0}\\circ \\overrightarrow{p_0 p}\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]"
+    },
+    {
+      "label": "B",
+      "latex": "\\[\\lim_{p\\to p_0} \\frac{f(p)-\\left[f(p_0)-\\operatorname{grad}f\\big|_{p_0}\\cdot \\overrightarrow{p_0 p}\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]"
+    },
+    {
+      "label": "C",
+      "latex": "\\[\\lim_{p\\to p_0} \\frac{f(p)+\\left[f(p_0)+\\operatorname{grad}f\\big|_{p_0}\\cdot \\overrightarrow{p_0 p}\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]"
+    },
+    {
+      "label": "D",
+      "latex": "\\[\\lim_{p\\to p_0} \\frac{f(p)-\\left[f(p_0)+\\operatorname{grad}f\\big|_{p_0}\\cdot \\overrightarrow{p_0 p}^2\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ae39c9075451-01.png",
+      "latex": "13. 设 \\(f(x,y)\\) 可微, \\(p(x,y), p_0(x_0,y_0)\\) 为曲面 \\(z=f(x,y)\\) 上的点, 则 ( ).\nA. \\[\\lim_{p\\to p_0} \\frac{f(p)+\\left[f(p_0)-\\operatorname{grad}f\\big|_{p_0}\\circ \\overrightarrow{p_0 p}\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]\nB. \\[\\lim_{p\\to p_0} \\frac{f(p)-\\left[f(p_0)-\\operatorname{grad}f\\big|_{p_0}\\cdot \\overrightarrow{p_0 p}\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]\nC. \\[\\lim_{p\\to p_0} \\frac{f(p)+\\left[f(p_0)+\\operatorname{grad}f\\big|_{p_0}\\cdot \\overrightarrow{p_0 p}\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]\nD. \\[\\lim_{p\\to p_0} \\frac{f(p)-\\left[f(p_0)+\\operatorname{grad}f\\big|_{p_0}\\cdot \\overrightarrow{p_0 p}^2\\right]}{\\left|\\overrightarrow{p_0 p}\\right|}=0\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

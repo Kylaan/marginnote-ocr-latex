@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "1f1b7855f8bc",
+  "item_id": "1f1b7855f8bc",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设函数 $u(x,y,z)=1+\\frac{x^2}{6}+\\frac{y^2}{12}+\\frac{z^2}{18}$，单位向量 $\\mathbf{n}=\\frac{1}{\\sqrt{3}}(1,1,1)$，则 $\\left.\\frac{\\partial u}{\\partial \\mathbf{n}}\\right|_{(1,2,3)} = \\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1f1b7855f8bc-01.png",
+      "latex": "设函数 $u(x,y,z)=1+\\frac{x^2}{6}+\\frac{y^2}{12}+\\frac{z^2}{18}$，单位向量 $\\mathbf{n}=\\frac{1}{\\sqrt{3}}(1,1,1)$，则 $\\left.\\frac{\\partial u}{\\partial \\mathbf{n}}\\right|_{(1,2,3)} = \\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

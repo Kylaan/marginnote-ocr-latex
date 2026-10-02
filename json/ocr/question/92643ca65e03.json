@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "92643ca65e03",
+  "item_id": "92643ca65e03",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $V$ 由曲面 $z=\\sqrt{x^2+y^2}$ 与 $z=\\sqrt{1-x^2-y^2}$ 所围，则\n\\[\nI=\\iiint_V (x+z)\\,dV=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/92643ca65e03-01.png",
+      "latex": "设 $V$ 由曲面 $z=\\sqrt{x^2+y^2}$ 与 $z=\\sqrt{1-x^2-y^2}$ 所围，则\n\\[\nI=\\iiint_V (x+z)\\,dV=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面和积分表达式与图片不一致：图片为 $z=\\sqrt{x^2+y^2}$、$z=\\sqrt{1-x^2-y^2}$，积分为 $\\iiint_V (x+z)\\,dV$。"
+}

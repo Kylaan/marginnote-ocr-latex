@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "5c10d1bdeb0c",
+  "item_id": "5c10d1bdeb0c",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "过点 $P(-1,0,4)$ 且与平面 $3x-4y+z+10=0$ 平行，又与直线 $L:\\frac{x+1}{1}=\\frac{y-3}{1}=\\frac{z}{2}$ 相交的直线方程是 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5c10d1bdeb0c-01.png",
+      "latex": "139 过点 $P(-1,0,4)$ 且与平面 $3x-4y+z+10=0$ 平行，又与直线 $L:\\frac{x+1}{1}=\\frac{y-3}{1}=\\frac{z}{2}$ 相交的直线方程是 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

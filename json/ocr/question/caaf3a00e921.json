@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "caaf3a00e921",
+  "item_id": "caaf3a00e921",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "14 设曲面 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 在柱体 $x^2+y^2\\le 2x$ 内的部分，取下侧，则 $I=\\iint_{\\Sigma} xz\\,dy\\,dz+z^2\\,dx\\,dy=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/caaf3a00e921-01.png",
+      "latex": "14 设曲面 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 在柱体 $x^2+y^2\\le 2x$ 内的部分，取下侧，则 $I=\\iint_{\\Sigma} xz\\,dy\\,dz+z^2\\,dx\\,dy=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片存在多处不一致，已按图片转写。"
+}

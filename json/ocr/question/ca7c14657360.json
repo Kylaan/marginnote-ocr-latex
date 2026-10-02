@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "ca7c14657360",
+  "item_id": "ca7c14657360",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 \\( \\boldsymbol{F}(x,y,z)=|x|\\cos y\\,\\boldsymbol{i}-y\\sin z\\,\\boldsymbol{j}+z\\boldsymbol{k} \\)，则 \\( \\operatorname{rot}\\boldsymbol{F}(1,1,0)=\\underline{\\hspace{4em}} \\)。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ca7c14657360-01.png",
+      "latex": "设 \\( \\boldsymbol{F}(x,y,z)=|x|\\cos y\\,\\boldsymbol{i}-y\\sin z\\,\\boldsymbol{j}+z\\boldsymbol{k} \\)，则 \\( \\operatorname{rot}\\boldsymbol{F}(1,1,0)=\\underline{\\hspace{4em}} \\)。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的“[x]”与图片中的“|x|”不一致；raw_text 中的“f”疑为向量“i”的误识别。"
+}

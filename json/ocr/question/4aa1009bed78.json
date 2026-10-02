@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "4aa1009bed78",
+  "item_id": "4aa1009bed78",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 \\(L:x^2+y^2=R^2\\)，取顺时针方向，则\n\\[\nI=\\oint_L \\frac{e^{x^2}-x^2y}{x^2+y^2}\\,\\mathrm{d}x+\\frac{xy^2-e^{y^2}}{x^2+y^2}\\,\\mathrm{d}y=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4aa1009bed78-01.png",
+      "latex": "设 \\(L:x^2+y^2=R^2\\)，取顺时针方向，则\n\\[\nI=\\oint_L \\frac{e^{x^2}-x^2y}{x^2+y^2}\\,\\mathrm{d}x+\\frac{xy^2-e^{y^2}}{x^2+y^2}\\,\\mathrm{d}y=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

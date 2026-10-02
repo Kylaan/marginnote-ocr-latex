@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "3af2d1af57fd",
+  "item_id": "3af2d1af57fd",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "曲线 \\(\\begin{cases} z=2x^2+3y^2, \\\\ z=12-x^2-3y^2 \\end{cases}\\) 在 \\(xOy\\) 面上的投影曲线方程为 \\(\\underline{\\hspace{4em}}\\).",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3af2d1af57fd-01.png",
+      "latex": "曲线 \\(\\begin{cases} z=2x^2+3y^2, \\\\ z=12-x^2-3y^2 \\end{cases}\\) 在 \\(xOy\\) 面上的投影曲线方程为 \\(\\underline{\\hspace{4em}}\\)."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

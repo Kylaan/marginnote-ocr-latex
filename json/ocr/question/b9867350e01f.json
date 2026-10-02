@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b9867350e01f",
+  "item_id": "b9867350e01f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算 \\[\\iint_{\\Sigma}\\frac{ax\\,dy\\,dz+(z+a)^2\\,dx\\,dy}{(x^2+y^2+z^2)^{1/2}},\\] 其中 $\\Sigma$ 为下半球面 $z=-\\sqrt{a^2-x^2-y^2}$ 的上侧，$a$ 为大于零的常数.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b9867350e01f-01.png",
+      "latex": "计算 \\[\\iint_{\\Sigma}\\frac{ax\\,dy\\,dz+(z+a)^2\\,dx\\,dy}{(x^2+y^2+z^2)^{1/2}},\\] 其中 $\\Sigma$ 为下半球面 $z=-\\sqrt{a^2-x^2-y^2}$ 的上侧，$a$ 为大于零的常数."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致。"
+}

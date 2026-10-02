@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "bcb3c5d3aa21",
+  "item_id": "bcb3c5d3aa21",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "（8）设 $P(x,y)=\\frac{x\\left(\\sqrt{x^2+y^2}\\right)^k}{y}$，$Q(x,y)=-\\frac{x^2\\left(\\sqrt{x^2+y^2}\\right)^k}{y^2}$，$D=\\{(x,y)\\mid y>0\\}$。\n\n（I）若积分 $I=\\int_L P\\,\\mathrm{d}x+Q\\,\\mathrm{d}y$ 在 $D$ 内与路径无关，求 $k$ 的值；\n\n（II）在 $D$ 内求函数 $u(x,y)$，使得 $\\mathrm{d}u=P\\,\\mathrm{d}x+Q\\,\\mathrm{d}y$，并计算 $I=\\int_{(1,1)}^{(2,2)}P\\,\\mathrm{d}x+Q\\,\\mathrm{d}y$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/bcb3c5d3aa21-01.png",
+      "latex": "（8）设 $P(x,y)=\\frac{x\\left(\\sqrt{x^2+y^2}\\right)^k}{y}$，$Q(x,y)=-\\frac{x^2\\left(\\sqrt{x^2+y^2}\\right)^k}{y^2}$，$D=\\{(x,y)\\mid y>0\\}$。\n\n（I）若积分 $I=\\int_L P\\,\\mathrm{d}x+Q\\,\\mathrm{d}y$ 在 $D$ 内与路径无关，求 $k$ 的值；\n\n（II）在 $D$ 内求函数 $u(x,y)$，使得 $\\mathrm{d}u=P\\,\\mathrm{d}x+Q\\,\\mathrm{d}y$，并计算 $I=\\int_{(1,1)}^{(2,2)}P\\,\\mathrm{d}x+Q\\,\\mathrm{d}y$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片不一致，已按图片转写。"
+}

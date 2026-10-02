@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "9b31ec71b3d5",
+  "item_id": "9b31ec71b3d5",
+  "status": "ok",
+  "question_type": "mixed",
+  "latex": "设函数 $f(x)$ 在 $(-\\infty,+\\infty)$ 内具有一阶连续导数，$L$ 是上半平面 $(y>0)$ 内的有向分段光滑曲线，其起点为 $(a,b)$，终点为 $(c,d)$。记\n\\[\nI=\\int_L \\frac{1}{y}\\left[1+y^2 f(xy)\\right]\\mathrm{d}x+\\frac{x}{y^2}\\left[y^2 f(xy)-1\\right]\\mathrm{d}y.\n\\]\n（Ⅰ）证明曲线积分 $I$ 与路径 $L$ 无关；\n（Ⅱ）当 $ab=cd$ 时，求 $I$ 的值。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9b31ec71b3d5-01.png",
+      "latex": "设函数 $f(x)$ 在 $(-\\infty,+\\infty)$ 内具有一阶连续导数，$L$ 是上半平面 $(y>0)$ 内的有向分段光滑曲线，其起点为 $(a,b)$，终点为 $(c,d)$。记\n\\[\nI=\\int_L \\frac{1}{y}\\left[1+y^2 f(xy)\\right]\\mathrm{d}x+\\frac{x}{y^2}\\left[y^2 f(xy)-1\\right]\\mathrm{d}y.\n\\]\n（Ⅰ）证明曲线积分 $I$ 与路径 $L$ 无关；\n（Ⅱ）当 $ab=cd$ 时，求 $I$ 的值。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中存在较多 OCR 乱码，已按图片内容转写。"
+}

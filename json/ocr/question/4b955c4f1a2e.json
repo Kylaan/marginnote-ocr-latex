@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "4b955c4f1a2e",
+  "item_id": "4b955c4f1a2e",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $F(x,y,z)=xyi-y\\cos zj+z\\sin xk$，则 $\\operatorname{rot}F\\big|_{(1,1,0)}=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4b955c4f1a2e-01.png",
+      "latex": "设 $F(x,y,z)=xyi-y\\cos zj+z\\sin xk$，则 $\\operatorname{rot}F\\big|_{(1,1,0)}=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

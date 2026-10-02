@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6fa9ab2d7642",
+  "item_id": "6fa9ab2d7642",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设数量场 \\(u=\\ln\\sqrt{x^2+y^2+z^2}\\)，则 \\(\\operatorname{div}(\\operatorname{grad}u)=\\underline{\\hspace{4em}}\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6fa9ab2d7642-01.png",
+      "latex": "设数量场 \\(u=\\ln\\sqrt{x^2+y^2+z^2}\\)，则 \\(\\operatorname{div}(\\operatorname{grad}u)=\\underline{\\hspace{4em}}\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中为 lnx2+y2+z7，图片中根号内为 x^2+y^2+z^2。"
+}

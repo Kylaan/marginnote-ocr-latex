@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "83b68e7a2c91",
+  "item_id": "83b68e7a2c91",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "12. 设曲面 $z=\\sqrt{1-x^2-y^2}$ 与平面 $z=-x$ 的交线为 $L$，起点为 $A(0,1,0)$，终点为 $B(0,-1,0)$，则\n\\[\n\\int_L (x+y-z)\\,\\mathrm{d}x+|y|\\,\\mathrm{d}z=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/83b68e7a2c91-01.png",
+      "latex": "12. 设曲面 $z=\\sqrt{1-x^2-y^2}$ 与平面 $z=-x$ 的交线为 $L$，起点为 $A(0,1,0)$，终点为 $B(0,-1,0)$，则\n\\[\n\\int_L (x+y-z)\\,\\mathrm{d}x+|y|\\,\\mathrm{d}z=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面根号、积分绝对值符号等与图片不一致，已以图片为准。"
+}

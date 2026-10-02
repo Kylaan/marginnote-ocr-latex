@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5430143f39d0",
+  "item_id": "5430143f39d0",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设区域 $\\Omega=\\{(x,y,z)\\mid \\sqrt{x^2+y^2}\\le z\\le 1\\}$，计算积分 \\[ I=\\iiint\\limits_{\\Omega}\\left|\\sqrt{x^2+y^2+z^2}-1\\right|\\mathrm{d}V. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5430143f39d0-01.png",
+      "latex": "设区域 $\\Omega=\\{(x,y,z)\\mid \\sqrt{x^2+y^2}\\le z\\le 1\\}$，计算积分 \\[ I=\\iiint\\limits_{\\Omega}\\left|\\sqrt{x^2+y^2+z^2}-1\\right|\\mathrm{d}V. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，以图片为准。"
+}

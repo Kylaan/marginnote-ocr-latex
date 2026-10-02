@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d96ca005ad20",
+  "item_id": "d96ca005ad20",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例8.3】设球体 $\\Omega$ 的方程为 $x^2+y^2+z^2=2Rz$，球体上任意点的密度与该点到原点的距离的平方成正比，比例常数 $k>0$，求球体的质心．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d96ca005ad20-01.png",
+      "latex": "【例8.3】设球体 $\\Omega$ 的方程为 $x^2+y^2+z^2=2Rz$，球体上任意点的密度与该点到原点的距离的平方成正比，比例常数 $k>0$，求球体的质心．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的“Q”“x+ytz=2Rz”“比例常数4”与图片中的“Ω”“x^2+y^2+z^2=2Rz”“比例常数k”不一致，已按图片转写。"
+}

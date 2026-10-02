@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b14792d1821f",
+  "item_id": "b14792d1821f",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(3) 设 $L$ 为 $(x-2)^2+y^2=1$ 从点 $A(1,0)$ 到点 $B(3,0)$ 的上半圆弧，则\n\\[\nI=\\int_L \\frac{(x-y)\\,\\mathrm{d}x+(x+y)\\,\\mathrm{d}y}{x^2+y^2}=\\underline{\\hspace{4em}}.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b14792d1821f-01.png",
+      "latex": "(3) 设 $L$ 为 $(x-2)^2+y^2=1$ 从点 $A(1,0)$ 到点 $B(3,0)$ 的上半圆弧，则\n\\[\nI=\\int_L \\frac{(x-y)\\,\\mathrm{d}x+(x+y)\\,\\mathrm{d}y}{x^2+y^2}=\\underline{\\hspace{4em}}.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“设4为”“点4”“dr”以及分母等与图片不符，已按图片转写。"
+}

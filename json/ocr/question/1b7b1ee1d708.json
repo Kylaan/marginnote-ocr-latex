@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "1b7b1ee1d708",
+  "item_id": "1b7b1ee1d708",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "17. 设函数 $f(x)$ 具有一阶连续导数，且对右半平面 $x>0$ 内任意分段光滑简单闭曲线 $L$，均有\n\\[ \\oint_L \\frac{f(x)y^2\\mathrm{d}y-y^3\\mathrm{d}x}{2x^2+y^6}=0. \\]\n(1) 求 $f(x)$ 的表达式；\n(2) 计算\n\\[ \\oint_{L_0} \\frac{f(x)y^2\\mathrm{d}y-y^3\\mathrm{d}x}{2x^2+y^6}, \\]\n其中 $L_0$ 为 $2x^2+y^2=1$，取逆时针方向.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1b7b1ee1d708-01.png",
+      "latex": "17. 设函数 $f(x)$ 具有一阶连续导数，且对右半平面 $x>0$ 内任意分段光滑简单闭曲线 $L$，均有\n\\[ \\oint_L \\frac{f(x)y^2\\mathrm{d}y-y^3\\mathrm{d}x}{2x^2+y^6}=0. \\]\n(1) 求 $f(x)$ 的表达式；\n(2) 计算\n\\[ \\oint_{L_0} \\frac{f(x)y^2\\mathrm{d}y-y^3\\mathrm{d}x}{2x^2+y^6}, \\]\n其中 $L_0$ 为 $2x^2+y^2=1$，取逆时针方向."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

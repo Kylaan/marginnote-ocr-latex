@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1b479ade0a2b",
+  "item_id": "1b479ade0a2b",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(2) 由曲线 \\[\\begin{cases}3x^2+2y^2=12,\\\\ z=0\\end{cases}\\] 绕 \\(y\\) 轴旋转一周得到的旋转面在点 \\((0,\\sqrt{3},\\sqrt{2})\\) 处的指向外侧的单位法向量为 \\underline{\\hspace{4em}}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1b479ade0a2b-01.png",
+      "latex": "(2) 由曲线 \\[\\begin{cases}3x^2+2y^2=12,\\\\ z=0\\end{cases}\\] 绕 \\(y\\) 轴旋转一周得到的旋转面在点 \\((0,\\sqrt{3},\\sqrt{2})\\) 处的指向外侧的单位法向量为 \\underline{\\hspace{4em}}"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中方程 OCR 与图片不一致，已按图片转写。"
+}

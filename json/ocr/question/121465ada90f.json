@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "121465ada90f",
+  "item_id": "121465ada90f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(11) 设曲面 $S$ 为上半圆锥 $z=\\sqrt{x^2+y^2}$ 被圆柱面 $x^2+y^2=2ax(a>0)$ 所截出的有限部分，计算 $I=\\iint_S (x^2y+yz^2+z^2x)\\,dS$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/121465ada90f-01.png",
+      "latex": "(11) 设曲面 $S$ 为上半圆锥 $z=\\sqrt{x^2+y^2}$ 被圆柱面 $x^2+y^2=2ax(a>0)$ 所截出的有限部分，计算 $I=\\iint_S (x^2y+yz^2+z^2x)\\,dS$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

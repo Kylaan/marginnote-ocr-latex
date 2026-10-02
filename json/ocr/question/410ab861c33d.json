@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "410ab861c33d",
+  "item_id": "410ab861c33d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $a,b$ 为实数，函数 $z=2+ax^2+by^2$ 在点 $(3,4)$ 处的方向导数中，沿方向 $l=-3i-4j$ 的方向导数最大，最大值为 $10$。\n（I）求 $a,b$；\n（II）求曲面 $z=2+ax^2+by^2\\,(z\\ge0)$ 的面积。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/410ab861c33d-01.png",
+      "latex": "设 $a,b$ 为实数，函数 $z=2+ax^2+by^2$ 在点 $(3,4)$ 处的方向导数中，沿方向 $l=-3i-4j$ 的方向导数最大，最大值为 $10$。\n（I）求 $a,b$；\n（II）求曲面 $z=2+ax^2+by^2\\,(z\\ge0)$ 的面积。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "图片清晰；raw_text 与图片不一致处已按图片转写。"
+}

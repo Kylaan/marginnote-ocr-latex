@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "04b189e891b9",
+  "item_id": "04b189e891b9",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "24. 设锥面 $\\Sigma$ 的顶点为原点，准线为曲线 $\\Gamma:\\begin{cases} z=y^2,\\\\ x=1 \\end{cases}(|y|\\le 1).$\n\n(1) 求 $\\Sigma$ 的方程；\n\n(2) 计算 $I=\\displaystyle\\iint_{\\Sigma} 2x^2\\,\\mathrm{d}y\\mathrm{d}z+xy\\,\\mathrm{d}z\\mathrm{d}x+(z+1)\\,\\mathrm{d}x\\mathrm{d}y$，$\\Sigma$ 取上侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/04b189e891b9-01.png",
+      "latex": "24. 设锥面 $\\Sigma$ 的顶点为原点，准线为曲线 $\\Gamma:\\begin{cases} z=y^2,\\\\ x=1 \\end{cases}(|y|\\le 1).$\n\n(1) 求 $\\Sigma$ 的方程；\n\n(2) 计算 $I=\\displaystyle\\iint_{\\Sigma} 2x^2\\,\\mathrm{d}y\\mathrm{d}z+xy\\,\\mathrm{d}z\\mathrm{d}x+(z+1)\\,\\mathrm{d}x\\mathrm{d}y$，$\\Sigma$ 取上侧."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

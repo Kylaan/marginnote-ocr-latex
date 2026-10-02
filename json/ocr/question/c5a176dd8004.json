@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "c5a176dd8004",
+  "item_id": "c5a176dd8004",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(1) 设 \\(L\\) 为圆周 \\(x^2+y^2=2x\\)，则 \\(I=\\int_L x\\,ds=(\\quad)\\).",
+  "options": [
+    {
+      "label": "A",
+      "latex": "2\\pi"
+    },
+    {
+      "label": "B",
+      "latex": "\\pi"
+    },
+    {
+      "label": "C",
+      "latex": "1"
+    },
+    {
+      "label": "D",
+      "latex": "0"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c5a176dd8004-01.png",
+      "latex": "(1) 设 \\(L\\) 为圆周 \\(x^2+y^2=2x\\)，则 \\(I=\\int_L x\\,ds=(\\quad)\\).\n\nA. \\(2\\pi\\)\nB. \\(\\pi\\)\nC. \\(1\\)\nD. \\(0\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

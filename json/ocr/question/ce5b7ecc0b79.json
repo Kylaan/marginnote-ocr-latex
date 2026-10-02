@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "ce5b7ecc0b79",
+  "item_id": "ce5b7ecc0b79",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2)（江苏省高等数学竞赛题，2010年）设曲面 $\\Sigma:x^{2}+y^{2}+z^{2}=2z$，计算积分\n\\[\nI=\\iint\\limits_{\\Sigma}(a x^{2}+b y^{2}+c z^{2})\\,\\mathrm{d}S.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ce5b7ecc0b79-01.png",
+      "latex": "(2)（江苏省高等数学竞赛题，2010年）设曲面 $\\Sigma:x^{2}+y^{2}+z^{2}=2z$，计算积分\n\\[\nI=\\iint\\limits_{\\Sigma}(a x^{2}+b y^{2}+c z^{2})\\,\\mathrm{d}S.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的“Z”“xf++f=2z”等与图片不符，已按图片转写为“Σ”“x^2+y^2+z^2=2z”。"
+}

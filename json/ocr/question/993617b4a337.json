@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "993617b4a337",
+  "item_id": "993617b4a337",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $L:x^2+y^2=1$，则 $I=\\oint_L\\left[\\left(x+\\frac{1}{2}\\right)^2+\\left(\\frac{y}{2}+1\\right)^2\\right]ds=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/993617b4a337-01.png",
+      "latex": "设 $L:x^2+y^2=1$，则 $I=\\oint_L\\left[\\left(x+\\frac{1}{2}\\right)^2+\\left(\\frac{y}{2}+1\\right)^2\\right]ds=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

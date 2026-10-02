@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "87c152010633",
+  "item_id": "87c152010633",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求直线 $\\frac{x-1}{0}=\\frac{y}{1}=\\frac{z-1}{2}$ 绕 $z$ 轴旋转一周所得的旋转曲面方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/87c152010633-01.png",
+      "latex": "求直线 $\\frac{x-1}{0}=\\frac{y}{1}=\\frac{z-1}{2}$ 绕 $z$ 轴旋转一周所得的旋转曲面方程."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的直线表达式与图片不一致，已按图片转写。"
+}

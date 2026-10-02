@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "6e2e4e0c3b10",
+  "item_id": "6e2e4e0c3b10",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "点 \\((2,1,0)\\) 到平面 \\(3x+4y+5z=0\\) 的距离 \\(d = \\underline{\\hspace{4em}}\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6e2e4e0c3b10-01.png",
+      "latex": "点 \\((2,1,0)\\) 到平面 \\(3x+4y+5z=0\\) 的距离 \\(d = \\underline{\\hspace{4em}}\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“距离4=”与图片中的“距离 d =”不一致；以图片为准。"
+}

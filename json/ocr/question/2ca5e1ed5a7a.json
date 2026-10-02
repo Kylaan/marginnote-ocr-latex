@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "2ca5e1ed5a7a",
+  "item_id": "2ca5e1ed5a7a",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "已知直线 \\(l_1\\) 过点 \\((1,2,3)\\) 和 \\((9,4,1)\\)，则直线 \\(l_1\\) 与直线 \\(l_2\\)：\\(\\begin{cases} x+2y+3z=1,\\\\ 9x+4y+z=1 \\end{cases}\\) 的夹角为（  ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "0."
+    },
+    {
+      "label": "B",
+      "latex": "\\frac{\\pi}{6}."
+    },
+    {
+      "label": "C",
+      "latex": "\\frac{\\pi}{3}."
+    },
+    {
+      "label": "D",
+      "latex": "\\frac{\\pi}{2}."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2ca5e1ed5a7a-01.png",
+      "latex": "已知直线 \\(l_1\\) 过点 \\((1,2,3)\\) 和 \\((9,4,1)\\)，则直线 \\(l_1\\) 与直线 \\(l_2\\)：\\(\\begin{cases} x+2y+3z=1,\\\\ 9x+4y+z=1 \\end{cases}\\) 的夹角为（  ）\n\n(A)0.\n\n(B) \\(\\frac{\\pi}{6}.\\)\n\n(C) \\(\\frac{\\pi}{3}.\\)\n\n(D) \\(\\frac{\\pi}{2}.\\)"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已按图片转写；题干和选项清晰可辨。"
+}

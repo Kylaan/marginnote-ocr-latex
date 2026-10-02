@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b62f3bb87e62",
+  "item_id": "b62f3bb87e62",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $C$ 为 $|x|+|y|=1$，取正向，则 $\\oint_{C}\\frac{x\\mathrm{d}y-y\\mathrm{d}x}{|x|+|y|}=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b62f3bb87e62-01.png",
+      "latex": "设 $C$ 为 $|x|+|y|=1$，取正向，则 $\\oint_{C}\\frac{x\\mathrm{d}y-y\\mathrm{d}x}{|x|+|y|}=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分路径与分母的绝对值符号丢失（显示为“x  + y = 1”“x  + y”），图片中明确为 $|x|+|y|=1$ 与 $|x|+|y|$，以图片为准。"
+}

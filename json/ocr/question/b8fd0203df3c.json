@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b8fd0203df3c",
+  "item_id": "b8fd0203df3c",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲面积分 $\\iint_S \\frac{x\\,dy\\,dz+z^2\\,dx\\,dy}{x^2+y^2+z^2}$ ，其中 $S$ 是由曲面 $x^2+y^2=R^2$ 及两平面 $z=R,z=-R(R>0)$ 所围成立体表面的外侧.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b8fd0203df3c-01.png",
+      "latex": "计算曲面积分 $\\iint_S \\frac{x\\,dy\\,dz+z^2\\,dx\\,dy}{x^2+y^2+z^2}$ ，其中 $S$ 是由曲面 $x^2+y^2=R^2$ 及两平面 $z=R,z=-R(R>0)$ 所围成立体表面的外侧."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已按图片转写。"
+}

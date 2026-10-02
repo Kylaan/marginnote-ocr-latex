@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "aca5467c6a28",
+  "item_id": "aca5467c6a28",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "10. 设 \\(P(x,y,z)\\) 为球面 \\(\\Sigma: x^2+y^2+z^2-2z=0\\) 上的动点，球面 \\(\\Sigma\\) 在点 \\(P(x,y,z)\\) 处的法线与平面 \\(x+z=0\\) 平行。\n\n(1) 求点 \\(P\\) 的轨迹 \\(\\Gamma\\) 的方程；\n\n(2) 计算曲线积分 \\(\\oint_{\\Gamma} y^2dx+z^2dy+x^2dz\\)，从 \\(z\\) 轴正向看下去，\\(\\Gamma\\) 取逆时针方向。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/aca5467c6a28-01.png",
+      "latex": "10. 设 \\(P(x,y,z)\\) 为球面 \\(\\Sigma: x^2+y^2+z^2-2z=0\\) 上的动点，球面 \\(\\Sigma\\) 在点 \\(P(x,y,z)\\) 处的法线与平面 \\(x+z=0\\) 平行。\n\n(1) 求点 \\(P\\) 的轨迹 \\(\\Gamma\\) 的方程；\n\n(2) 计算曲线积分 \\(\\oint_{\\Gamma} y^2dx+z^2dy+x^2dz\\)，从 \\(z\\) 轴正向看下去，\\(\\Gamma\\) 取逆时针方向。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

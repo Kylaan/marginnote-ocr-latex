@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "a9cd803c091f",
+  "item_id": "a9cd803c091f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例 8.5】设 \\(u(x,y)\\) 在区域 \\(D=\\{(x,y)\\mid x^2+y^2\\le \\pi\\}\\) 上有二阶连续偏导数，满足\n\\[\n\\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2}\n= e^{\\pi-x^2-y^2}\\sin(x^2+y^2).\n\\]\n若 \\(\\boldsymbol{n}\\) 是 \\(D\\) 的边界 \\(L\\) 的单位外法向量，计算积分\n\\[\n\\oint_L \\frac{\\partial u}{\\partial \\boldsymbol{n}}\\,\\mathrm{d}s.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a9cd803c091f-01.png",
+      "latex": "【例 8.5】设 \\(u(x,y)\\) 在区域 \\(D=\\{(x,y)\\mid x^2+y^2\\le \\pi\\}\\) 上有二阶连续偏导数，满足\n\\[\n\\frac{\\partial^2 u}{\\partial x^2}+\\frac{\\partial^2 u}{\\partial y^2}\n= e^{\\pi-x^2-y^2}\\sin(x^2+y^2).\n\\]\n若 \\(\\boldsymbol{n}\\) 是 \\(D\\) 的边界 \\(L\\) 的单位外法向量，计算积分\n\\[\n\\oint_L \\frac{\\partial u}{\\partial \\boldsymbol{n}}\\,\\mathrm{d}s.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "输入 raw_text 多处与图片不符，已以图片为准。"
+}

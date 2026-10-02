@@ -1,0 +1,82 @@
+{
+  "status": "passed",
+  "ocr_schema_verified": 391,
+  "books": {
+    "无空版": {
+      "file": "澄潇宇大观题库-多元积分·无空版.pdf",
+      "physical_pages": 58,
+      "body_pages": 54,
+      "questions": 391,
+      "question_order_matches_manifest": true,
+      "front_cover": 1,
+      "document_note": 2,
+      "contents": 3,
+      "back_cover": 58,
+      "chapter_bookmarks": [
+        [
+          1,
+          "第一章 空间解析几何",
+          4
+        ],
+        [
+          1,
+          "第二章 三重积分",
+          18
+        ],
+        [
+          1,
+          "第三章 线面积分",
+          24
+        ]
+      ],
+      "diagram_pages": [
+        38,
+        40,
+        42
+      ],
+      "missing_characters": 0,
+      "overfull_boxes": 0,
+      "undefined_references": 0,
+      "sha256": "cfde2a559d2d3c5589d0eb3eb51f411f26b6adf9c199452af9b72a9eefe82de8",
+      "bytes": 474672
+    },
+    "留空版": {
+      "file": "澄潇宇大观题库-多元积分·留空版.pdf",
+      "physical_pages": 80,
+      "body_pages": 76,
+      "questions": 391,
+      "question_order_matches_manifest": true,
+      "front_cover": 1,
+      "document_note": 2,
+      "contents": 3,
+      "back_cover": 80,
+      "chapter_bookmarks": [
+        [
+          1,
+          "第一章 空间解析几何",
+          4
+        ],
+        [
+          1,
+          "第二章 三重积分",
+          24
+        ],
+        [
+          1,
+          "第三章 线面积分",
+          33
+        ]
+      ],
+      "diagram_pages": [
+        53,
+        55,
+        58
+      ],
+      "missing_characters": 0,
+      "overfull_boxes": 0,
+      "undefined_references": 0,
+      "sha256": "c532b24565d1525f8d95f88dc6e5a93afb0b4f97afa8ef140e1d33457c5a356b",
+      "bytes": 493137
+    }
+  }
+}

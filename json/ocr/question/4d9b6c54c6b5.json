@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "4d9b6c54c6b5",
+  "item_id": "4d9b6c54c6b5",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "点 $(1,2,0)$ 到平面 $3x+4y+5z=0$ 的距离 $d=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4d9b6c54c6b5-01.png",
+      "latex": "点 $(1,2,0)$ 到平面 $3x+4y+5z=0$ 的距离 $d=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

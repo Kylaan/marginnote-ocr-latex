@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "41652d3a3c11",
+  "item_id": "41652d3a3c11",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $V:x^2+y^2+z^2\\leqslant 2y-2x$，则 $I=\\iiint_V (x+y+z)\\,dV= \\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/41652d3a3c11-01.png",
+      "latex": "设 $V:x^2+y^2+z^2\\leqslant 2y-2x$，则 $I=\\iiint_V (x+y+z)\\,dV= \\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分符号等内容缺失或错乱，已按图片转写。"
+}

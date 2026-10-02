@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "qid": "dd8e1f044cad",
+  "item_id": "dd8e1f044cad",
+  "status": "needs_review",
+  "question_type": "unknown",
+  "latex": "\\[ I=\\int_0^1 \\mathrm{d}x\\int_x^1 \\mathrm{d}y\\int_y^1 y\\mathrm{e}^{1+z^4}\\,\\mathrm{d}z. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/dd8e1f044cad-01.png",
+      "latex": "\\[ I=\\int_0^1 \\mathrm{d}x\\int_x^1 \\mathrm{d}y\\int_y^1 y\\mathrm{e}^{1+z^4}\\,\\mathrm{d}z. \\]"
+    }
+  ],
+  "confidence": 0.9,
+  "flags": [
+    "missing_context",
+    "raw_text_conflict"
+  ],
+  "notes": "图片仅显示一个三重积分表达式，未见题干作答要求；raw_text 与图片内容不一致。"
+}

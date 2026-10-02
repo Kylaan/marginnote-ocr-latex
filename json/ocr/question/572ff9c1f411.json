@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "572ff9c1f411",
+  "item_id": "572ff9c1f411",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "15. 设 $y'=f(x,y)$ 是一条简单封闭曲线 $L$(取正向)，$f(x,y)\\neq 0$，其所围区域记为 $D$，$D$ 的面积为 $a$，$a>0$，则 $I=\\oint_L x f(x,y)\\,\\mathrm{d}x-\\frac{y}{f(x,y)}\\,\\mathrm{d}y=$ \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/572ff9c1f411-01.png",
+      "latex": "15. 设 $y'=f(x,y)$ 是一条简单封闭曲线 $L$(取正向)，$f(x,y)\\neq 0$，其所围区域记为 $D$，$D$ 的面积为 $a$，$a>0$，则 $I=\\oint_L x f(x,y)\\,\\mathrm{d}x-\\frac{y}{f(x,y)}\\,\\mathrm{d}y=$ \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

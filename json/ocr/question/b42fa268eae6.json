@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "b42fa268eae6",
+  "item_id": "b42fa268eae6",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(5) 设光滑有向曲面 $S$ 的边界曲线为光滑有向闭曲线 $L$，方向符合右手法则，则 $I=\\oint_L grad\\sin(x+y+z)\\cdot ds=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b42fa268eae6-01.png",
+      "latex": "(5) 设光滑有向曲面 $S$ 的边界曲线为光滑有向闭曲线 $L$，方向符合右手法则，则 $I=\\oint_L grad\\sin(x+y+z)\\cdot ds=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

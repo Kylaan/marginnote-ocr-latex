@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "221dfbdd54eb",
+  "item_id": "221dfbdd54eb",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设向量 $\\boldsymbol{v}_1=(0,x,z)$，$\\boldsymbol{v}_2=(y,0,1)$，令 $\\boldsymbol{F}(x,y,z)=\\boldsymbol{v}_1\\times \\boldsymbol{v}_2$，则 $\\operatorname{div}\\boldsymbol{F}=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/221dfbdd54eb-01.png",
+      "latex": "设向量 $\\boldsymbol{v}_1=(0,x,z)$，$\\boldsymbol{v}_2=(y,0,1)$，令 $\\boldsymbol{F}(x,y,z)=\\boldsymbol{v}_1\\times \\boldsymbol{v}_2$，则 $\\operatorname{div}\\boldsymbol{F}=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 z 被识别为 ´，× 被识别为 ?，与图片不一致；以图片为准。"
+}

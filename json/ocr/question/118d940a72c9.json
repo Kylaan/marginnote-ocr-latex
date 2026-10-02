@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "118d940a72c9",
+  "item_id": "118d940a72c9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(2) 设 $f(x)$ 有一阶连续导数，对任意右半平面从点 $A$ 到点 $B$ 的分段光滑曲线 $L$，\n\\[\n\\int_L \\frac{f(y)\\,\\mathrm{d}x + 2xy\\,\\mathrm{d}y}{2x^2 + y^4}\n\\]\n均与路径无关，则 $f(x) = \\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/118d940a72c9-01.png",
+      "latex": "(2) 设 $f(x)$ 有一阶连续导数，对任意右半平面从点 $A$ 到点 $B$ 的分段光滑曲线 $L$，\n\\[\n\\int_L \\frac{f(y)\\,\\mathrm{d}x + 2xy\\,\\mathrm{d}y}{2x^2 + y^4}\n\\]\n均与路径无关，则 $f(x) = \\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的公式字符与图片不一致，已以图片为准转写。"
+}

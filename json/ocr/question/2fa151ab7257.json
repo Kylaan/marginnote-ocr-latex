@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "2fa151ab7257",
+  "item_id": "2fa151ab7257",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "1. 已知函数 $f(x,y)$ 在点 $(0,0)$ 处可微，$f(0,0)=0$，$f'_x(0,0)=1$，$f'_y(0,0)=-1$，且 $\\boldsymbol{n}=(-1,1,1)$，则\n\\[\\lim_{\\substack{x\\to 0\\\\ y\\to 0}} \\frac{(x,y,f(x,y))\\cdot \\boldsymbol{n}}{e^{\\sqrt{x^2+y^2}}-1} = \\underline{\\hspace{4em}} .\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2fa151ab7257-01.png",
+      "latex": "1. 已知函数 $f(x,y)$ 在点 $(0,0)$ 处可微，$f(0,0)=0$，$f'_x(0,0)=1$，$f'_y(0,0)=-1$，且 $\\boldsymbol{n}=(-1,1,1)$，则\n\\[\\lim_{\\substack{x\\to 0\\\\ y\\to 0}} \\frac{(x,y,f(x,y))\\cdot \\boldsymbol{n}}{e^{\\sqrt{x^2+y^2}}-1} = \\underline{\\hspace{4em}} .\\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

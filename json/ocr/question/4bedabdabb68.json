@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "4bedabdabb68",
+  "item_id": "4bedabdabb68",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "过点 $A(1,1,-1),B(-2,-2,2)$ 和 $C(1,-1,2)$ 三点的平面方程为 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4bedabdabb68-01.png",
+      "latex": "过点 $A(1,1,-1),B(-2,-2,2)$ 和 $C(1,-1,2)$ 三点的平面方程为 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

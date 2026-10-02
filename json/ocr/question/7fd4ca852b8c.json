@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "7fd4ca852b8c",
+  "item_id": "7fd4ca852b8c",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(3) 设 $L$ 为平面光滑简单闭曲线，取逆时针方向，$L$ 所围区域的面积为 $S$，则（ ）。",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$S=\\oint_L y\\,dy-x\\,dx$"
+    },
+    {
+      "label": "B",
+      "latex": "$S=\\frac{1}{2}\\oint_L x\\,dy-y\\,dx$"
+    },
+    {
+      "label": "C",
+      "latex": "$S=\\oint_L x\\,dy-y\\,dx$"
+    },
+    {
+      "label": "D",
+      "latex": "$S=\\frac{1}{2}\\oint_L y\\,dy-x\\,dx$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7fd4ca852b8c-01.png",
+      "latex": "(3) 设 $L$ 为平面光滑简单闭曲线，取逆时针方向，$L$ 所围区域的面积为 $S$，则（ ）。\nA. $S=\\oint_L y\\,dy-x\\,dx$ \nB. $S=\\frac{1}{2}\\oint_L x\\,dy-y\\,dx$ \nC. $S=\\oint_L x\\,dy-y\\,dx$ \nD. $S=\\frac{1}{2}\\oint_L y\\,dy-x\\,dx$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

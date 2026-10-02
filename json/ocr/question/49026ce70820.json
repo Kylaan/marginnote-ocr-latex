@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "49026ce70820",
+  "item_id": "49026ce70820",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\gamma = xi + yj + zk$，$n$ 为球面 $S: x^2 + y^2 + z^2 = 1$ 的外单位法向量，则 $\\displaystyle\\iint_S \\gamma \\cdot n \\, dS = \\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/49026ce70820-01.png",
+      "latex": "设 $\\gamma = xi + yj + zk$，$n$ 为球面 $S: x^2 + y^2 + z^2 = 1$ 的外单位法向量，则 $\\displaystyle\\iint_S \\gamma \\cdot n \\, dS = \\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

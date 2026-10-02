@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "12bd24e441a3",
+  "item_id": "12bd24e441a3",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "11 设向量场 $\\boldsymbol{A}=xy\\boldsymbol{i}+yz\\boldsymbol{j}+zx\\boldsymbol{k}$，$\\Sigma$ 为曲面 $z=1-|x|-|y|\\,(|x|+|y|\\le 1)$ 的上侧，则向量场 $\\boldsymbol{A}$ 通过 $\\Sigma$ 上侧的流量 $I=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/12bd24e441a3-01.png",
+      "latex": "11 设向量场 $\\boldsymbol{A}=xy\\boldsymbol{i}+yz\\boldsymbol{j}+zx\\boldsymbol{k}$，$\\Sigma$ 为曲面 $z=1-|x|-|y|\\,(|x|+|y|\\le 1)$ 的上侧，则向量场 $\\boldsymbol{A}$ 通过 $\\Sigma$ 上侧的流量 $I=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中向量场分量为 'xyi+yJ+zk'，与图片中的 $xy\\boldsymbol{i}+yz\\boldsymbol{j}+zx\\boldsymbol{k}$ 不一致，已按图片转写。"
+}

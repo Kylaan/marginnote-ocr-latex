@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "85ba17e56e67",
+  "item_id": "85ba17e56e67",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(6) 设 \\(f(y)\\) 有连续导数，\\(f(0)=0\\)，曲线 \\(\\widehat{OA}\\) 的极坐标方程为 \\(r=a(1-\\cos\\theta)\\)，\\(a>0\\)，\\(0\\leqslant \\theta \\leqslant \\pi\\)，\\(O(0,0)\\) 与 \\(A\\) 分别对应于 \\(\\theta=0\\) 与 \\(\\theta=\\pi\\)，计算\n\\[\nI=\\int_{\\widehat{OA}}[f(y)e^x-\\pi y]\\,dx+[f'(y)e^x-\\pi]\\,dy.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/85ba17e56e67-01.png",
+      "latex": "(6) 设 \\(f(y)\\) 有连续导数，\\(f(0)=0\\)，曲线 \\(\\widehat{OA}\\) 的极坐标方程为 \\(r=a(1-\\cos\\theta)\\)，\\(a>0\\)，\\(0\\leqslant \\theta \\leqslant \\pi\\)，\\(O(0,0)\\) 与 \\(A\\) 分别对应于 \\(\\theta=0\\) 与 \\(\\theta=\\pi\\)，计算\n\\[\nI=\\int_{\\widehat{OA}}[f(y)e^x-\\pi y]\\,dx+[f'(y)e^x-\\pi]\\,dy.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

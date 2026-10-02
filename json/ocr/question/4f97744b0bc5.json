@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "4f97744b0bc5",
+  "item_id": "4f97744b0bc5",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例 8.4】设连续函数 $f(x,y)$ 满足 $f(x,y)=(x+3y)^2+\\int_L f(x,y)ds$，其中 $L$ 为曲线 $y=\\sqrt{1-x^2}$，求曲线积分 $\\int_L f(x,y)ds$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4f97744b0bc5-01.png",
+      "latex": "【例 8.4】设连续函数 $f(x,y)$ 满足 $f(x,y)=(x+3y)^2+\\int_L f(x,y)ds$，其中 $L$ 为曲线 $y=\\sqrt{1-x^2}$，求曲线积分 $\\int_L f(x,y)ds$．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式和变量顺序存在明显 OCR 错乱；以图片内容为准。"
+}

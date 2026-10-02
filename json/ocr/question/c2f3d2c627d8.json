@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c2f3d2c627d8",
+  "item_id": "c2f3d2c627d8",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "计算曲线积分 $\\int_L \\sin 2x\\,\\mathrm{d}x + 2(x^2-1)y\\,\\mathrm{d}y$，其中 $L$ 是曲线 $y=\\sin x$ 上从点 $(0,0)$ 到点 $(\\pi,0)$ 的一段.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c2f3d2c627d8-01.png",
+      "latex": "计算曲线积分 $\\int_L \\sin 2x\\,\\mathrm{d}x + 2(x^2-1)y\\,\\mathrm{d}y$，其中 $L$ 是曲线 $y=\\sin x$ 上从点 $(0,0)$ 到点 $(\\pi,0)$ 的一段."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 L、dx、x^2、π 等与图片不一致，已以图片为准。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2a54664be3a4",
+  "item_id": "2a54664be3a4",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例 8.9】设 $u(x,y),v(x,y)$ 在区域 $D=\\{(x,y)\\mid x^2+y^2\\le 1\\}$ 上有一阶连续偏导数，在 $D$ 的边界 $L$ 上 $u(x,y)=1,v(x,y)=y$。若 $\\boldsymbol{f}=v(x,y)\\boldsymbol{i}+u(x,y)\\boldsymbol{j}$，$\\boldsymbol{g}=\\left(\\frac{\\partial u}{\\partial x}-\\frac{\\partial u}{\\partial y}\\right)\\boldsymbol{i}-\\left(\\frac{\\partial v}{\\partial x}+\\frac{\\partial v}{\\partial y}\\right)\\boldsymbol{j}$。计算积分 $I=\\iint_D \\boldsymbol{f}\\cdot\\boldsymbol{g}\\,dxdy$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2a54664be3a4-01.png",
+      "latex": "【例 8.9】设 $u(x,y),v(x,y)$ 在区域 $D=\\{(x,y)\\mid x^2+y^2\\le 1\\}$ 上有一阶连续偏导数，在 $D$ 的边界 $L$ 上 $u(x,y)=1,v(x,y)=y$。若 $\\boldsymbol{f}=v(x,y)\\boldsymbol{i}+u(x,y)\\boldsymbol{j}$，$\\boldsymbol{g}=\\left(\\frac{\\partial u}{\\partial x}-\\frac{\\partial u}{\\partial y}\\right)\\boldsymbol{i}-\\left(\\frac{\\partial v}{\\partial x}+\\frac{\\partial v}{\\partial y}\\right)\\boldsymbol{j}$。计算积分 $I=\\iint_D \\boldsymbol{f}\\cdot\\boldsymbol{g}\\,dxdy$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的区域定义及边界条件明显乱码，已按图片内容转写。"
+}

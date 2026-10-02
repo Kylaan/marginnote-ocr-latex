@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "43f074d3eb15",
+  "item_id": "43f074d3eb15",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲面 $S:x^2+y^2+z^2=2x$，其密度为 $\\rho=x^2+y^2+z^2$，则曲面 $S$ 的质量 $m=\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/43f074d3eb15-01.png",
+      "latex": "设曲面 $S:x^2+y^2+z^2=2x$，其密度为 $\\rho=x^2+y^2+z^2$，则曲面 $S$ 的质量 $m=\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "17ce1bf3ad86",
+  "item_id": "17ce1bf3ad86",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Gamma$ 为球面 $x^2+y^2+z^2=m^2$ 与平面 $x+z=m(m>0)$ 的交线，计算 $I=\\oint_{\\Gamma} xz(1+yz-xy)\\,ds$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/17ce1bf3ad86-01.png",
+      "latex": "设 $\\Gamma$ 为球面 $x^2+y^2+z^2=m^2$ 与平面 $x+z=m(m>0)$ 的交线，计算 $I=\\oint_{\\Gamma} xz(1+yz-xy)\\,ds$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": "raw_text 中缺失括号，图片显示为 $xz(1+yz-xy)$，已按图片转写。"
+}

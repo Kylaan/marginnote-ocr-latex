@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "87b8796147ec",
+  "item_id": "87b8796147ec",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(25) 设平面力 $F(x,y)=(P(x,y),Q(x,y))$，其中 $P(x,y)=f(x)+y[\\mathrm{e}^{-x}-f'(x)]$，$Q(x,y)=f'(x)$，$f(x)$ 有二阶连续导数，且 $f'(0)=0$。\n\n(I) 若力 $F$ 对运动质点所做的功与质点运动路径无关，求 $f(x)$；\n\n(II) 在 (I) 的基础上，若 $L$ 是从点 $A(-1,1)$ 到点 $B(1,0)$ 的光滑有向曲线，且\n\\[\\int_L P(x,y)\\mathrm{d}x+Q(x,y)\\mathrm{d}y=\\frac{4}{\\mathrm{e}},\\]\n求 $f(x)$ 的极值。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/87b8796147ec-01.png",
+      "latex": "(25) 设平面力 $F(x,y)=(P(x,y),Q(x,y))$，其中 $P(x,y)=f(x)+y[\\mathrm{e}^{-x}-f'(x)]$，$Q(x,y)=f'(x)$，$f(x)$ 有二阶连续导数，且 $f'(0)=0$。\n\n(I) 若力 $F$ 对运动质点所做的功与质点运动路径无关，求 $f(x)$；\n\n(II) 在 (I) 的基础上，若 $L$ 是从点 $A(-1,1)$ 到点 $B(1,0)$ 的光滑有向曲线，且\n\\[\\int_L P(x,y)\\mathrm{d}x+Q(x,y)\\mathrm{d}y=\\frac{4}{\\mathrm{e}},\\]\n求 $f(x)$ 的极值。"
+    }
+  ],
+  "confidence": 0.96,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中把第二个积分结果写作 \"4e\"，图中为 $\\frac{4}{\\mathrm{e}}$，以图片为准；raw_text 中 $P$ 的表达式与 $Q$、$f(x)$ 的分段也因缺字而失真，已按图片转写。"
+}

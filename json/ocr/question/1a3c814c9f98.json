@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1a3c814c9f98",
+  "item_id": "1a3c814c9f98",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设位于点 $(0,1)$ 的质点 $A$ 对质点 $M$ 的引力大小为 $\\frac{k}{r^2}$（$k>0$ 为常数，$r$ 为质点 $A$ 与 $M$ 之间的距离），质点 $M$ 沿曲线 $y=\\sqrt{2x-x^2}$ 自 $B(2,0)$ 运动到 $O(0,0)$．求在此运动过程中质点 $A$ 对质点 $M$ 的引力所作的功．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1a3c814c9f98-01.png",
+      "latex": "设位于点 $(0,1)$ 的质点 $A$ 对质点 $M$ 的引力大小为 $\\frac{k}{r^2}$（$k>0$ 为常数，$r$ 为质点 $A$ 与 $M$ 之间的距离），质点 $M$ 沿曲线 $y=\\sqrt{2x-x^2}$ 自 $B(2,0)$ 运动到 $O(0,0)$．求在此运动过程中质点 $A$ 对质点 $M$ 的引力所作的功．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片存在多处字符差异，已按图片为准。"
+}

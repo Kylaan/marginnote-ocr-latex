@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "1b89cecfe9b7",
+  "item_id": "1b89cecfe9b7",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "已知有界区域 $\\Omega$ 由曲面 $z=\\sqrt{4-x^2-y^2}$ 与 $z=\\sqrt{x^2+y^2}$ 围成，函数 $f(u)$ 连续，则\n\\[\\iiint_{\\Omega} f(x^2+y^2+z^2)\\,\\mathrm{d}x\\,\\mathrm{d}y\\,\\mathrm{d}z = \\quad (\\quad)\\]",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^2 \\mathrm{d}r \\int_r^{\\sqrt{4-r^2}} f(r^2+z^2) r \\,\\mathrm{d}z\\]"
+    },
+    {
+      "label": "B",
+      "latex": "\\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^{\\sqrt{2}} \\mathrm{d}r \\int_0^{\\sqrt{4-r^2}} f(r^2+z^2) r \\,\\mathrm{d}z\\]"
+    },
+    {
+      "label": "C",
+      "latex": "\\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^{\\frac{\\pi}{4}} \\mathrm{d}\\varphi \\int_0^2 f(r^2) r^2 \\sin\\varphi \\,\\mathrm{d}r\\]"
+    },
+    {
+      "label": "D",
+      "latex": "\\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^{\\frac{\\pi}{2}} \\mathrm{d}\\varphi \\int_0^2 f(r^2) r^2 \\sin\\varphi \\,\\mathrm{d}r\\]"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1b89cecfe9b7-01.png",
+      "latex": "已知有界区域 $\\Omega$ 由曲面 $z=\\sqrt{4-x^2-y^2}$ 与 $z=\\sqrt{x^2+y^2}$ 围成，函数 $f(u)$ 连续，则\n\\[\\iiint_{\\Omega} f(x^2+y^2+z^2)\\,\\mathrm{d}x\\,\\mathrm{d}y\\,\\mathrm{d}z = \\quad (\\quad)\\]\nA. \\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^2 \\mathrm{d}r \\int_r^{\\sqrt{4-r^2}} f(r^2+z^2) r \\,\\mathrm{d}z\\]\nB. \\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^{\\sqrt{2}} \\mathrm{d}r \\int_0^{\\sqrt{4-r^2}} f(r^2+z^2) r \\,\\mathrm{d}z\\]\nC. \\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^{\\frac{\\pi}{4}} \\mathrm{d}\\varphi \\int_0^2 f(r^2) r^2 \\sin\\varphi \\,\\mathrm{d}r\\]\nD. \\[\\int_0^{2\\pi} \\mathrm{d}\\theta \\int_0^{\\frac{\\pi}{2}} \\mathrm{d}\\varphi \\int_0^2 f(r^2) r^2 \\sin\\varphi \\,\\mathrm{d}r\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "79cd886a6f82",
+  "item_id": "79cd886a6f82",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $V$ 是由平面 $z=0,z=1$ 及圆柱面 $x^2+y^2=2$ 所围成的图形，计算 \\[ I=\\iiint_V \\left|z-\\sqrt{x^2+y^2}\\right|\\,dxdydz. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/79cd886a6f82-01.png",
+      "latex": "设 $V$ 是由平面 $z=0,z=1$ 及圆柱面 $x^2+y^2=2$ 所围成的图形，计算 \\[ I=\\iiint_V \\left|z-\\sqrt{x^2+y^2}\\right|\\,dxdydz. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

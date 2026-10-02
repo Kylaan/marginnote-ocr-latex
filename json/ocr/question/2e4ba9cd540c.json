@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2e4ba9cd540c",
+  "item_id": "2e4ba9cd540c",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "向量场 \\(\\mathbf{A}(x,y,z)=(x+y+z)\\mathbf{i}+xy\\mathbf{j}+z\\mathbf{k}\\) 的旋度 \\(\\operatorname{rot}\\mathbf{A}=\\underline{\\hspace{4em}}\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2e4ba9cd540c-01.png",
+      "latex": "向量场 \\(\\mathbf{A}(x,y,z)=(x+y+z)\\mathbf{i}+xy\\mathbf{j}+z\\mathbf{k}\\) 的旋度 \\(\\operatorname{rot}\\mathbf{A}=\\underline{\\hspace{4em}}\\)"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 A(x,)y,z) 与图片中 A(x,y,z) 不一致，以图片为准。"
+}

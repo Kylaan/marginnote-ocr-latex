@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "f87ffa28a514",
+  "item_id": "f87ffa28a514",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "3 设曲面 $S$ 是由 $x^2+y^2=1$ 以及 $y^2+z^2=1$ 所围成的立体的表面，$S_1$ 为 $S$ 在第一卦限的部分，则下列等式正确的个数是（  ）\n① $\\displaystyle \\iint_S x\\,dS=\\iint_S y\\,dS$； ② $\\displaystyle \\iint_{S_1} x\\,dS=\\iint_{S_1} z\\,dS$； ③ $\\displaystyle \\iint_S z\\,dS=4\\iint_{S_1} z\\,dS$.",
+  "options": [
+    {
+      "label": "A",
+      "latex": "0."
+    },
+    {
+      "label": "B",
+      "latex": "1."
+    },
+    {
+      "label": "C",
+      "latex": "2."
+    },
+    {
+      "label": "D",
+      "latex": "3."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f87ffa28a514-01.png",
+      "latex": "3 设曲面 $S$ 是由 $x^2+y^2=1$ 以及 $y^2+z^2=1$ 所围成的立体的表面，$S_1$ 为 $S$ 在第一卦限的部分，则下列等式正确的个数是（  ）\n① $\\displaystyle \\iint_S x\\,dS=\\iint_S y\\,dS$； ② $\\displaystyle \\iint_{S_1} x\\,dS=\\iint_{S_1} z\\,dS$； ③ $\\displaystyle \\iint_S z\\,dS=4\\iint_{S_1} z\\,dS$.\n(A)0.        (B)1.        (C)2.        (D)3."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式乱码且与图片不一致，已以图片为准转写；未发现其他无法辨认内容。"
+}

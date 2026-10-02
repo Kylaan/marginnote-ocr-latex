@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7cd2ac1835b6",
+  "item_id": "7cd2ac1835b6",
+  "status": "ok",
+  "question_type": "proof",
+  "latex": "设在上半平面 \\(D=\\{(x,y)\\mid y>0\\}\\) 内，函数 \\(f(x,y)\\) 具有连续偏导数，且对任意的 \\(t>0\\) 都有\n\\[ f(tx,ty)=t^{-2}f(x,y). \\]\n证明：对 \\(D\\) 内的任意分段光滑的有向简单闭曲线 \\(L\\)，都有\n\\[ \\oint_L y f(x,y)\\,\\mathrm{d}x - x f(x,y)\\,\\mathrm{d}y=0. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7cd2ac1835b6-01.png",
+      "latex": "设在上半平面 \\(D=\\{(x,y)\\mid y>0\\}\\) 内，函数 \\(f(x,y)\\) 具有连续偏导数，且对任意的 \\(t>0\\) 都有\n\\[ f(tx,ty)=t^{-2}f(x,y). \\]\n证明：对 \\(D\\) 内的任意分段光滑的有向简单闭曲线 \\(L\\)，都有\n\\[ \\oint_L y f(x,y)\\,\\mathrm{d}x - x f(x,y)\\,\\mathrm{d}y=0. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 D 的写法以及 f(tx,ty)=t f(x,y) 与图片不符；图片为 f(tx,ty)=t^{-2}f(x,y)，闭曲线字母为 L。"
+}

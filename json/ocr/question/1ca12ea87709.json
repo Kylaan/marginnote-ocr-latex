@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "1ca12ea87709",
+  "item_id": "1ca12ea87709",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "若 $L$ 为 $x^2+y^2=R^2$，则 $\\oint_L (x^2+y^3)\\,ds = \\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1ca12ea87709-01.png",
+      "latex": "若 $L$ 为 $x^2+y^2=R^2$，则 $\\oint_L (x^2+y^3)\\,ds = \\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分被积函数写作“Lx2+y3”，缺少圆括号；图片中为 $\\oint_L (x^2+y^3)\\,ds$，以图片为准。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "f5c117311f25",
+  "item_id": "f5c117311f25",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设半径为 $R$ 的球面 $\\Sigma$ 的球心在定球面 $x^2+y^2+z^2=a^2(a>0)$ 上，问当 $R$ 取何值时，球面 $\\Sigma$ 在定球面内部的那部分的面积最大？",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f5c117311f25-01.png",
+      "latex": "设半径为 $R$ 的球面 $\\Sigma$ 的球心在定球面 $x^2+y^2+z^2=a^2(a>0)$ 上，问当 $R$ 取何值时，球面 $\\Sigma$ 在定球面内部的那部分的面积最大？"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

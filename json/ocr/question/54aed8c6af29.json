@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "54aed8c6af29",
+  "item_id": "54aed8c6af29",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "（1）设有直线 $L$：\\[\\begin{cases} x+3y+2z+1=0,\\\\ 2x-y-10z+3=0 \\end{cases}\\] 及平面 $\\pi:4x-2y+z-2=0$，则直线 $L$（\\quad）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "平行于 $\\pi$．"
+    },
+    {
+      "label": "B",
+      "latex": "在 $\\pi$ 上．"
+    },
+    {
+      "label": "C",
+      "latex": "垂直于 $\\pi$．"
+    },
+    {
+      "label": "D",
+      "latex": "与 $\\pi$ 斜交．"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/54aed8c6af29-01.png",
+      "latex": "（1）设有直线 $L$：\\[\\begin{cases} x+3y+2z+1=0,\\\\ 2x-y-10z+3=0 \\end{cases}\\] 及平面 $\\pi:4x-2y+z-2=0$，则直线 $L$（\\quad）\\\\ (A) 平行于 $\\pi$．\\qquad (B) 在 $\\pi$ 上．\\\\ (C) 垂直于 $\\pi$．\\qquad (D) 与 $\\pi$ 斜交．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "图片中直线 $L$ 的方程组第一行为 $x+3y+2z+1=0$，第二行为 $2x-y-10z+3=0$；平面记为 $\\pi$，而 raw_text 中记为 r，且选项中的 $\\pi$ 被 raw_text 误写为 z。"
+}

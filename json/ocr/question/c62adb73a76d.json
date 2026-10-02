@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "c62adb73a76d",
+  "item_id": "c62adb73a76d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知点 $A$ 与点 $B$ 的直角坐标分别为 $(1,0,0)$ 与 $(0,1,1)$，线段 $AB$ 绕 $z$ 轴旋转一周所成的旋转曲面为 $S$，求由 $S$ 及两平面 $z=0$，$z=1$ 所围成的立体体积。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c62adb73a76d-01.png",
+      "latex": "已知点 $A$ 与点 $B$ 的直角坐标分别为 $(1,0,0)$ 与 $(0,1,1)$，线段 $AB$ 绕 $z$ 轴旋转一周所成的旋转曲面为 $S$，求由 $S$ 及两平面 $z=0$，$z=1$ 所围成的立体体积。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中坐标识别为“（L．0.00与（011）”，与图片所示的 $(1,0,0)$、$(0,1,1)$ 不一致，以图片为准。"
+}

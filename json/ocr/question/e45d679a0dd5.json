@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "e45d679a0dd5",
+  "item_id": "e45d679a0dd5",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设曲面 $\\Sigma$ 为 $z^2=x^2+y^2-1$ 介于 $z=0$ 与 $z=1$ 之间的部分，取外侧，$f(x)$ 为连续函数，计算\n\\[\nI=\\iint_{\\Sigma}[yf(xy)-2x]\\,\\mathrm{d}y\\mathrm{d}z+[y^2-xf(xy)]\\,\\mathrm{d}z\\mathrm{d}x+(z-1)^2\\,\\mathrm{d}x\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e45d679a0dd5-01.png",
+      "latex": "设曲面 $\\Sigma$ 为 $z^2=x^2+y^2-1$ 介于 $z=0$ 与 $z=1$ 之间的部分，取外侧，$f(x)$ 为连续函数，计算\n\\[\nI=\\iint_{\\Sigma}[yf(xy)-2x]\\,\\mathrm{d}y\\mathrm{d}z+[y^2-xf(xy)]\\,\\mathrm{d}z\\mathrm{d}x+(z-1)^2\\,\\mathrm{d}x\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": "第二项中 $y$ 的上标 2 依据图片字形与 raw_text 中的 “y2” 判定为 $y^2$。"
+}

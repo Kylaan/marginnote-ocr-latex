@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "b5d73ce2dab4",
+  "item_id": "b5d73ce2dab4",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(11) 设球面为 $x^2+y^2+z^2=R^2$，柱面为 $x^2+y^2=Rx$（$R>0$），球面在柱体内的面积为 $S_1$，柱面在球体内的面积为 $S_2$，求 $\\frac{S_1}{S_2}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b5d73ce2dab4-01.png",
+      "latex": "(11) 设球面为 $x^2+y^2+z^2=R^2$，柱面为 $x^2+y^2=Rx$（$R>0$），球面在柱体内的面积为 $S_1$，柱面在球体内的面积为 $S_2$，求 $\\frac{S_1}{S_2}$。"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

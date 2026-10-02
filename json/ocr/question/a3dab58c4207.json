@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "a3dab58c4207",
+  "item_id": "a3dab58c4207",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $S$ 为曲面 $4-y=x^2+z^2$ 上 $y\\ge 0$ 的部分，取外侧，计算\n\\[\nI=\\iint_S yz\\,\\mathrm{d}y\\,\\mathrm{d}z+(x^2+z^2)y\\,\\mathrm{d}z\\,\\mathrm{d}x+xy\\,\\mathrm{d}x\\,\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a3dab58c4207-01.png",
+      "latex": "设 $S$ 为曲面 $4-y=x^2+z^2$ 上 $y\\ge 0$ 的部分，取外侧，计算\n\\[\nI=\\iint_S yz\\,\\mathrm{d}y\\,\\mathrm{d}z+(x^2+z^2)y\\,\\mathrm{d}z\\,\\mathrm{d}x+xy\\,\\mathrm{d}x\\,\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中第二项缺少括号，已按图片转写为 $(x^2+z^2)y$。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "bb2c5880a33d",
+  "item_id": "bb2c5880a33d",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(6) 向量场 $A(x,y,z)=(x+y+z)\\boldsymbol{i}+xy\\boldsymbol{j}+z\\boldsymbol{k}$ 在点 $P(1,1,1)$ 处的旋度 $\\mathrm{rot}A=\\underline{\\hspace{4em}}$，$\\mathrm{div}A=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/bb2c5880a33d-01.png",
+      "latex": "(6) 向量场 $A(x,y,z)=(x+y+z)\\boldsymbol{i}+xy\\boldsymbol{j}+z\\boldsymbol{k}$ 在点 $P(1,1,1)$ 处的旋度 $\\mathrm{rot}A=\\underline{\\hspace{4em}}$，$\\mathrm{div}A=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

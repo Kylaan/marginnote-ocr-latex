@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "455db9214cae",
+  "item_id": "455db9214cae",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "3. 设 $L$ 为曲线 $\\left(x-\\frac{1}{2}\\right)^2+\\left(y-\\frac{1}{2}\\right)^2=\\frac{1}{2}$，取逆时针方向，$I=\\oint_L 4y\\,dx+(x+y)^2\\,dy$，$J=\\oint_L 4x\\,dx+(x+y)^2\\,dy$，$K=\\oint_L 4xy\\,dx+(x+y)^2\\,dy$，则 $I,J,K$ 的大小顺序为（ ）．",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$I<K<J$"
+    },
+    {
+      "label": "B",
+      "latex": "$J<K<I$"
+    },
+    {
+      "label": "C",
+      "latex": "$I<J<K$"
+    },
+    {
+      "label": "D",
+      "latex": "$K<I<J$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/455db9214cae-01.png",
+      "latex": "3. 设 $L$ 为曲线 $\\left(x-\\frac{1}{2}\\right)^2+\\left(y-\\frac{1}{2}\\right)^2=\\frac{1}{2}$，取逆时针方向，$I=\\oint_L 4y\\,dx+(x+y)^2\\,dy$，$J=\\oint_L 4x\\,dx+(x+y)^2\\,dy$，$K=\\oint_L 4xy\\,dx+(x+y)^2\\,dy$，则 $I,J,K$ 的大小顺序为（ ）．\nA. $I<K<J$\nB. $J<K<I$\nC. $I<J<K$\nD. $K<I<J$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

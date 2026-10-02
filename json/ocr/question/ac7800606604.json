@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "ac7800606604",
+  "item_id": "ac7800606604",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(12) 设 $L$ 是柱面 $x^2+y^2=1$ 与平面 $z=x+y$ 的交线，从 $z$ 轴正向往 $z$ 轴负向看去为逆时针方向，\n则曲线积分 \\[\\oint_L xz\\,dx+x\\,dy+\\frac{y^2}{2}\\,dz=\\underline{\\hspace{4em}}\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/ac7800606604-01.png",
+      "latex": "(12) 设 $L$ 是柱面 $x^2+y^2=1$ 与平面 $z=x+y$ 的交线，从 $z$ 轴正向往 $z$ 轴负向看去为逆时针方向，\n则曲线积分 \\[\\oint_L xz\\,dx+x\\,dy+\\frac{y^2}{2}\\,dz=\\underline{\\hspace{4em}}\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“x+y2=l”“小zdr+ady+一士= 2”等与图片不符，以图片为准。"
+}

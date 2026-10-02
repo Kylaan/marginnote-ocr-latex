@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "1e6ce5613949",
+  "item_id": "1e6ce5613949",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "349 下列结论\n\\[\n①\\oint_{x^2+y^2=a^2} (x^2+y^2)\\,ds = a^2\\oint_{x^2+y^2=a^2} ds = 2\\pi a^3.\n\\]\n\\[\n②\\iint_{x^2+y^2\\le a^2} (x^2+y^2)\\,d\\sigma = a^2\\iint_{x^2+y^2\\le a^2} d\\sigma = \\pi a^4.\n\\]\n\\[\n③\\oiint_{x^2+y^2+z^2=a^2} (x^2+y^2+z^2)\\,dS = a^2\\oiint_{x^2+y^2+z^2=a^2} dS = 4\\pi a^4.\n\\]\n\\[\n④\\iiint_{x^2+y^2+z^2\\le a^2} (x^2+y^2+z^2)\\,dv = a^2\\iiint_{x^2+y^2+z^2\\le a^2} dv = \\frac{4}{3}\\pi a^5.\n\\]\n中正确的个数为",
+  "options": [
+    {
+      "label": "A",
+      "latex": "1."
+    },
+    {
+      "label": "B",
+      "latex": "2."
+    },
+    {
+      "label": "C",
+      "latex": "3."
+    },
+    {
+      "label": "D",
+      "latex": "4."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1e6ce5613949-01.png",
+      "latex": "349 下列结论\n\\[\n①\\oint_{x^2+y^2=a^2} (x^2+y^2)\\,ds = a^2\\oint_{x^2+y^2=a^2} ds = 2\\pi a^3.\n\\]\n\\[\n②\\iint_{x^2+y^2\\le a^2} (x^2+y^2)\\,d\\sigma = a^2\\iint_{x^2+y^2\\le a^2} d\\sigma = \\pi a^4.\n\\]\n\\[\n③\\oiint_{x^2+y^2+z^2=a^2} (x^2+y^2+z^2)\\,dS = a^2\\oiint_{x^2+y^2+z^2=a^2} dS = 4\\pi a^4.\n\\]\n\\[\n④\\iiint_{x^2+y^2+z^2\\le a^2} (x^2+y^2+z^2)\\,dv = a^2\\iiint_{x^2+y^2+z^2\\le a^2} dv = \\frac{4}{3}\\pi a^5.\n\\]\n中正确的个数为\nA. 1.\nB. 2.\nC. 3.\nD. 4."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [],
+  "notes": ""
+}

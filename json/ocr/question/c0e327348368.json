@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c0e327348368",
+  "item_id": "c0e327348368",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $f(x)$ 在 $(-\\infty,+\\infty)$ 内有连续导数，$L$ 为从点 $A\\left(3,\\frac{2}{3}\\right)$ 到点 $B(1,2)$ 的直线段，计算\n\\[\nI=\\int_L \\frac{1+y^2 f(xy)}{y}\\,\\mathrm{d}x+\\frac{x}{y^2}[y^2f(xy)-1]\\,\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c0e327348368-01.png",
+      "latex": "设 $f(x)$ 在 $(-\\infty,+\\infty)$ 内有连续导数，$L$ 为从点 $A\\left(3,\\frac{2}{3}\\right)$ 到点 $B(1,2)$ 的直线段，计算\n\\[\nI=\\int_L \\frac{1+y^2 f(xy)}{y}\\,\\mathrm{d}x+\\frac{x}{y^2}[y^2f(xy)-1]\\,\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

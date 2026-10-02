@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c25f75bfe172",
+  "item_id": "c25f75bfe172",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "（2）计算曲线积分 $\\oint_C (z-y)\\mathrm{d}x+(x-z)\\mathrm{d}y+(x-y)\\mathrm{d}z$，其中 $C$ 是曲线 $\\begin{cases} x^2+y^2=1, \\\\ x-y+z=2, \\end{cases}$ 从 $z$ 轴正向往 $z$ 轴负向看 $C$ 的方向是顺时针的.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c25f75bfe172-01.png",
+      "latex": "（2）计算曲线积分 $\\oint_C (z-y)\\mathrm{d}x+(x-z)\\mathrm{d}y+(x-y)\\mathrm{d}z$，其中 $C$ 是曲线 $\\begin{cases} x^2+y^2=1, \\\\ x-y+z=2, \\end{cases}$ 从 $z$ 轴正向往 $z$ 轴负向看 $C$ 的方向是顺时针的."
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

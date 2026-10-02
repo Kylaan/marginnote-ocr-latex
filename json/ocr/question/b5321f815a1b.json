@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "b5321f815a1b",
+  "item_id": "b5321f815a1b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma$ 为球心在原点的单位球面，$\\Omega$ 为 $\\Sigma$ 所围成的空间区域。函数 $f(x,y,z)$ 在 $\\Omega$ 上具有 $2$ 阶连续偏导数，且\n\\[\\frac{\\partial^2 f}{\\partial x^2}+\\frac{\\partial^2 f}{\\partial y^2}+\\frac{\\partial^2 f}{\\partial z^2}=\\varphi(\\sqrt{x^2+y^2+z^2}),\\]\n其中 $\\varphi(r)$ 满足微分方程 $y''-2y'+y=0$。已知 $\\varphi(1)=\\mathrm{e},\\varphi'(1)=2\\mathrm{e}$。\n（Ⅰ）求 $\\varphi(r)$；\n（Ⅱ）求\n\\[\\oiint_{\\Sigma}\\left(x\\frac{\\partial f}{\\partial x}+y\\frac{\\partial f}{\\partial y}+z\\frac{\\partial f}{\\partial z}\\right)\\mathrm{d}S.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/b5321f815a1b-01.png",
+      "latex": "设 $\\Sigma$ 为球心在原点的单位球面，$\\Omega$ 为 $\\Sigma$ 所围成的空间区域。函数 $f(x,y,z)$ 在 $\\Omega$ 上具有 $2$ 阶连续偏导数，且\n\\[\\frac{\\partial^2 f}{\\partial x^2}+\\frac{\\partial^2 f}{\\partial y^2}+\\frac{\\partial^2 f}{\\partial z^2}=\\varphi(\\sqrt{x^2+y^2+z^2}),\\]\n其中 $\\varphi(r)$ 满足微分方程 $y''-2y'+y=0$。已知 $\\varphi(1)=\\mathrm{e},\\varphi'(1)=2\\mathrm{e}$。\n（Ⅰ）求 $\\varphi(r)$；\n（Ⅱ）求\n\\[\\oiint_{\\Sigma}\\left(x\\frac{\\partial f}{\\partial x}+y\\frac{\\partial f}{\\partial y}+z\\frac{\\partial f}{\\partial z}\\right)\\mathrm{d}S.\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已按图片转写。"
+}

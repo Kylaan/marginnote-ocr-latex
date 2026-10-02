@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/yanxuan-question-ocr.schema.json",
+  "title": "大观严选题 OCR 结果",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "qid",
+    "item_id",
+    "status",
+    "question_type",
+    "latex",
+    "options",
+    "image_transcriptions",
+    "confidence",
+    "flags",
+    "notes"
+  ],
+  "properties": {
+    "schema_version": {"const": 1},
+    "qid": {"type": "string", "minLength": 1},
+    "item_id": {"type": "string", "minLength": 1},
+    "status": {"enum": ["ok", "needs_review", "failed"]},
+    "question_type": {
+      "enum": ["choice", "fill_blank", "solution", "proof", "judgment", "mixed", "unknown"]
+    },
+    "latex": {"type": "string"},
+    "options": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "latex"],
+        "properties": {
+          "label": {"type": "string", "pattern": "^[A-Z]$"},
+          "latex": {"type": "string"}
+        }
+      }
+    },
+    "image_transcriptions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["image", "latex"],
+        "properties": {
+          "image": {"type": "string", "minLength": 1},
+          "latex": {"type": "string"}
+        }
+      }
+    },
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "flags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "unclear_character",
+          "unclear_formula",
+          "possible_crop",
+          "image_order_uncertain",
+          "contains_diagram",
+          "possible_answer_content",
+          "raw_text_conflict",
+          "missing_context",
+          "option_parse_uncertain"
+        ]
+      }
+    },
+    "notes": {"type": "string"}
+  }
+}
+

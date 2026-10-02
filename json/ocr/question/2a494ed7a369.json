@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2a494ed7a369",
+  "item_id": "2a494ed7a369",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例 8.11】(1) 设 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 与平面 $z=1,z=2$ 所围立体表面的外侧，计算积分\n\\[ I=\\iint\\limits_{\\Sigma}\\frac{e^z}{\\sqrt{x^2+y^2}}\\,\\mathrm{d}x\\,\\mathrm{d}y. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2a494ed7a369-01.png",
+      "latex": "【例 8.11】(1) 设 $\\Sigma$ 为锥面 $z=\\sqrt{x^2+y^2}$ 与平面 $z=1,z=2$ 所围立体表面的外侧，计算积分\n\\[ I=\\iint\\limits_{\\Sigma}\\frac{e^z}{\\sqrt{x^2+y^2}}\\,\\mathrm{d}x\\,\\mathrm{d}y. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将锥面误作 z=/x2+y2，将 z=1 误作 z=l，且末尾多了“的”；已按图片内容转写。"
+}

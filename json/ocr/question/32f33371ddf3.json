@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "32f33371ddf3",
+  "item_id": "32f33371ddf3",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "23 设曲面 $\\Sigma$ 为单位球面 $x^2+y^2+z^2=1$ 的外侧，函数 $f(x)$ 是定义在 $[-1,1]$ 上的连续奇函数，计算曲面积分\n\\[I=\\iint_{\\Sigma}x[f(z)+1]\\,dydz+y[f(z)-1]\\,dzdx+z[f(z)+1]\\,dxdy.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/32f33371ddf3-01.png",
+      "latex": "23 设曲面 $\\Sigma$ 为单位球面 $x^2+y^2+z^2=1$ 的外侧，函数 $f(x)$ 是定义在 $[-1,1]$ 上的连续奇函数，计算曲面积分\n\\[I=\\iint_{\\Sigma}x[f(z)+1]\\,dydz+y[f(z)-1]\\,dzdx+z[f(z)+1]\\,dxdy.\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“x+y7+2=1”“函数(x)”等与图片不符，已按图片转写为 $x^2+y^2+z^2=1$、$f(x)$。"
+}

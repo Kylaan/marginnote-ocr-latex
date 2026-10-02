@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "574ea1b5a540",
+  "item_id": "574ea1b5a540",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲面 $\\Sigma:|x|+|y|+|z|=1$，则 $\\oiint_{\\Sigma}(x+|y|)\\mathrm{d}S=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/574ea1b5a540-01.png",
+      "latex": "设曲面 $\\Sigma:|x|+|y|+|z|=1$，则 $\\oiint_{\\Sigma}(x+|y|)\\mathrm{d}S=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

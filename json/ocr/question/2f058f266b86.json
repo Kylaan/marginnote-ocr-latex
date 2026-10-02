@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2f058f266b86",
+  "item_id": "2f058f266b86",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 \\(S\\) 为椭球面 \\(\\frac{x^2}{2}+\\frac{y^2}{2}+z^2=1\\) 的上半部分，点 \\(P(x,y,z)\\in S\\)，\\(\\Pi\\) 为 \\(S\\) 在点 \\(P\\) 处的切平面，\\(\\rho(x,y,z)\\) 为点 \\(O(0,0,0)\\) 到平面 \\(\\Pi\\) 的距离，求\n\\[\n\\iint_S \\frac{z}{\\rho(x,y,z)}\\,\\mathrm{d}S.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2f058f266b86-01.png",
+      "latex": "设 \\(S\\) 为椭球面 \\(\\frac{x^2}{2}+\\frac{y^2}{2}+z^2=1\\) 的上半部分，点 \\(P(x,y,z)\\in S\\)，\\(\\Pi\\) 为 \\(S\\) 在点 \\(P\\) 处的切平面，\\(\\rho(x,y,z)\\) 为点 \\(O(0,0,0)\\) 到平面 \\(\\Pi\\) 的距离，求\n\\[\n\\iint_S \\frac{z}{\\rho(x,y,z)}\\,\\mathrm{d}S.\n\\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容明显不一致，已以图片为准。"
+}

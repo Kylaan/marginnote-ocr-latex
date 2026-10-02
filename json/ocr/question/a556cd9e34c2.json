@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "a556cd9e34c2",
+  "item_id": "a556cd9e34c2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $S$ 为平面 $x+y+z=4$ 被圆柱面 $x^2+y^2=1$ 截出的有限部分，则 $I=\\iint_S z\\,dS=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a556cd9e34c2-01.png",
+      "latex": "设 $S$ 为平面 $x+y+z=4$ 被圆柱面 $x^2+y^2=1$ 截出的有限部分，则 $I=\\iint_S z\\,dS=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

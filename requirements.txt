@@ -1,0 +1,4 @@
+# Instance validated with Python 3.13; these are the validation environment versions.
+Pillow==12.0.0
+jsonschema==4.25.1
+PyMuPDF==1.27.2.3

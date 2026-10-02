@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7e361cd3081f",
+  "item_id": "7e361cd3081f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(10) 设曲线 \\(L\\) 为锥面 \\(z=\\sqrt{x^2+y^2}\\) 与圆柱面 \\(x^2+y^2=2x\\) 的交线，从 \\(z\\) 轴正向往负向看去，\\(L\\) 为逆时针方向，计算\n\\[\nI=\\int_L (y^2+z^2)\\,\\mathrm{d}x+(z^2-x^2)\\,\\mathrm{d}y+(x^2+y^2)\\,\\mathrm{d}z.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7e361cd3081f-01.png",
+      "latex": "(10) 设曲线 \\(L\\) 为锥面 \\(z=\\sqrt{x^2+y^2}\\) 与圆柱面 \\(x^2+y^2=2x\\) 的交线，从 \\(z\\) 轴正向往负向看去，\\(L\\) 为逆时针方向，计算\n\\[\nI=\\int_L (y^2+z^2)\\,\\mathrm{d}x+(z^2-x^2)\\,\\mathrm{d}y+(x^2+y^2)\\,\\mathrm{d}z.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中锥面表达式缺少根号，且积分式不完整，已以图片为准。"
+}

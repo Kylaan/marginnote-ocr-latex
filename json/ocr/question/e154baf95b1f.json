@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "e154baf95b1f",
+  "item_id": "e154baf95b1f",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 曲面 $x^2+\\cos(xy)+yz+x=0$ 在点 $(0,1,-1)$ 处的切平面方程为（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$x-y+z=-2$"
+    },
+    {
+      "label": "B",
+      "latex": "$x+y+z=0$"
+    },
+    {
+      "label": "C",
+      "latex": "$x-2y+z=-3$"
+    },
+    {
+      "label": "D",
+      "latex": "$x-y-z=0$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e154baf95b1f-01.png",
+      "latex": "(2) 曲面 $x^2+\\cos(xy)+yz+x=0$ 在点 $(0,1,-1)$ 处的切平面方程为（ ）\n\n(A) $x-y+z=-2$ \\qquad (B) $x+y+z=0$\n\n(C) $x-2y+z=-3$ \\qquad (D) $x-y-z=0$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 将题干误作 x+cos(y)+yz+x=0；图片显示为 x^2+\\cos(xy)+yz+x=0。"
+}

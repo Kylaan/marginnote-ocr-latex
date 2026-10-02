@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "2680ebed9630",
+  "item_id": "2680ebed9630",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(4) 设 $L_1:x^2+y^2=1,L_2:x^2+y^2=2,L_3:x^2+2y^2=2,L_4:2x^2+y^2=2$，为四条逆时针的平面曲线，记 $I_i=\\oint_{L_i}(y+\\frac{y^3}{6})\\mathrm{d}x+(2x-\\frac{x^3}{3})\\mathrm{d}y(i=1,2,3,4)$，则 $\\max(I_1,I_2,I_3,I_4)=$（  ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$I_1$"
+    },
+    {
+      "label": "B",
+      "latex": "$I_2$"
+    },
+    {
+      "label": "C",
+      "latex": "$I_3$"
+    },
+    {
+      "label": "D",
+      "latex": "$I_4$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2680ebed9630-01.png",
+      "latex": "(4) 设 $L_1:x^2+y^2=1,L_2:x^2+y^2=2,L_3:x^2+2y^2=2,L_4:2x^2+y^2=2$，为四条逆时针的平面曲线，记 $I_i=\\oint_{L_i}(y+\\frac{y^3}{6})\\mathrm{d}x+(2x-\\frac{x^3}{3})\\mathrm{d}y(i=1,2,3,4)$，则 $\\max(I_1,I_2,I_3,I_4)=$（  ） (A) $I_1$ (B) $I_2$ (C) $I_3$ (D) $I_4$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,20 @@
+{
+  "python_packages": {
+    "Pillow": "12.0.0",
+    "jsonschema": "4.25.1",
+    "PyMuPDF": "1.27.2.3"
+  },
+  "lfs_paths_checked": 1274,
+  "ignored_config_and_temporary_paths_checked": [
+    "config/ocr.json",
+    "config/fonts.json",
+    ".env",
+    ".venv/test",
+    "runs/writer.lock",
+    "tex/book-blank.pdf"
+  ],
+  "total_files": 1762,
+  "total_bytes": 1114955917,
+  "raw_ocr_byte_preservation_verified": 391,
+  "png_byte_preservation_verified": 915
+}

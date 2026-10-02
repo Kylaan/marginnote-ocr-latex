@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "5a95b72eddc9",
+  "item_id": "5a95b72eddc9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设立体 $\\Omega$ 为 $x^2+y^2+z^2\\le 2z$，其密度 $\\rho(x,y,z)=x^2$，则 $\\Omega$ 的质量为 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5a95b72eddc9-01.png",
+      "latex": "设立体 $\\Omega$ 为 $x^2+y^2+z^2\\le 2z$，其密度 $\\rho(x,y,z)=x^2$，则 $\\Omega$ 的质量为 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

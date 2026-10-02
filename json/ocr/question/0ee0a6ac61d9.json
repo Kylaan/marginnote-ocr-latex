@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "0ee0a6ac61d9",
+  "item_id": "0ee0a6ac61d9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "28. 设 $\\Sigma$ 为曲面 $z=\\sqrt{1-x^2-y^2}$，$\\alpha$，$\\beta$ 分别为曲面 $\\Sigma$ 的外法线向量与 $x$ 轴，$z$ 轴的夹角，则\n\\[\\iint_{\\Sigma}\\left(|xy|\\cos\\alpha+z^2\\cos\\beta\\right)dS=\\underline{\\hspace{4em}}.\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0ee0a6ac61d9-01.png",
+      "latex": "28. 设 $\\Sigma$ 为曲面 $z=\\sqrt{1-x^2-y^2}$，$\\alpha$，$\\beta$ 分别为曲面 $\\Sigma$ 的外法线向量与 $x$ 轴，$z$ 轴的夹角，则\n\\[\\iint_{\\Sigma}\\left(|xy|\\cos\\alpha+z^2\\cos\\beta\\right)dS=\\underline{\\hspace{4em}}.\\]"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分被积函数写作 “xy cosα+z2cosβ”，缺失绝对值记号且未体现根号；图片显示为 $|xy|\\cos\\alpha+z^2\\cos\\beta$，且曲面为 $z=\\sqrt{1-x^2-y^2}$，以图片为准。"
+}

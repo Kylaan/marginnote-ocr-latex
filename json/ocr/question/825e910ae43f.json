@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "825e910ae43f",
+  "item_id": "825e910ae43f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设函数 $f(x,y)$ 满足 $\\frac{\\partial f(x,y)}{\\partial x}=(2x+1)\\mathrm{e}^{2x-y}$，且 $f(0,y)=y+1$，$L_t$ 是从点 $(0,0)$ 到点 $(1,t)$ 的光滑曲线，计算曲线积分\n\\[ I(t)=\\int_{L_t}\\frac{\\partial f(x,y)}{\\partial x}\\mathrm{d}x+\\frac{\\partial f(x,y)}{\\partial y}\\mathrm{d}y, \\]\n并求 $I(t)$ 的最小值。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/825e910ae43f-01.png",
+      "latex": "设函数 $f(x,y)$ 满足 $\\frac{\\partial f(x,y)}{\\partial x}=(2x+1)\\mathrm{e}^{2x-y}$，且 $f(0,y)=y+1$，$L_t$ 是从点 $(0,0)$ 到点 $(1,t)$ 的光滑曲线，计算曲线积分\n\\[ I(t)=\\int_{L_t}\\frac{\\partial f(x,y)}{\\partial x}\\mathrm{d}x+\\frac{\\partial f(x,y)}{\\partial y}\\mathrm{d}y, \\]\n并求 $I(t)$ 的最小值。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容存在多处不一致，已以图片为准。"
+}

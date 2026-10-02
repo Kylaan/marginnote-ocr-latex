@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "2653b43e9650",
+  "item_id": "2653b43e9650",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 \\(\\Gamma\\) 是从点 \\((1,1,1)\\) 到点 \\((3,4,5)\\) 的一段直线，则 \\(\\int_{\\Gamma} y\\mathrm{d}x+z\\mathrm{d}y+x\\mathrm{d}z = \\underline{\\hspace{4em}}\\).",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2653b43e9650-01.png",
+      "latex": "设 \\(\\Gamma\\) 是从点 \\((1,1,1)\\) 到点 \\((3,4,5)\\) 的一段直线，则 \\(\\int_{\\Gamma} y\\mathrm{d}x+z\\mathrm{d}y+x\\mathrm{d}z = \\underline{\\hspace{4em}}\\)."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-30T13:14:49+08:00",
+  "source": {
+    "file": "source/多元积分完整题库（含答案）(2026-09-30-12-28-06).marginnotes",
+    "size_bytes": 175030272,
+    "modified_at": "2026-09-30T13:14:40+08:00",
+    "sha256": "0d2923274ac518ec5950ec6ff672efaa7b9f221ea198dbfeeb08ed13464a6f4a"
+  },
+  "selected_root": {
+    "title": "三重线面积分",
+    "note_id": "ACE170F5-D860-49A2-A0C3-0812AD55F9A2",
+    "nodes": 490,
+    "questions": 391
+  },
+  "excluded_roots": [],
+  "database_rows": {
+    "ZBOOKNOTE": 1018,
+    "ZMEDIA": 1861,
+    "ZBOOKCONFIG": 7,
+    "ZTOPIC": 1
+  },
+  "unpacked_media": {
+    "json": 908,
+    "png": 915,
+    "other": 38
+  },
+  "counts": {
+    "questions": 391,
+    "question_images": 401,
+    "related_images": 514,
+    "answer_images_classified": 0,
+    "questions_without_question_image": 0,
+    "questions_with_related_images": 368,
+    "duplicate_qid_occurrences": 0
+  },
+  "verification": {
+    "all_question_files_are_png": true,
+    "all_related_files_are_png": true,
+    "manifest_question_file_count": 401,
+    "manifest_related_file_count": 514,
+    "status": "passed",
+    "database_integrity": "ok",
+    "database_sha256_verified": true,
+    "tree_order_verified": true,
+    "questions": 391,
+    "images": {
+      "question": 401,
+      "related": 514
+    },
+    "all_pngs_decode": true,
+    "all_image_bytes_match_database": true,
+    "unique_exported_png_media": 915,
+    "database_png_media": 915,
+    "unexported_png_media": [],
+    "detail_file": "work/logs/validation.json"
+  },
+  "source_package": {
+    "file": "多元积分完整题库（含答案）(2026-09-30-12-28-06).marginpkg",
+    "size_bytes": 153224759,
+    "sha256": "7354eb6f8618145ae5b2f64a4eb3932a6207799346f920cdc7599be97ed49405",
+    "archive_member": "多元积分完整题库（含答案）(2026-09-30-12-28-06).marginnotes",
+    "zip_crc_check": "passed"
+  }
+}

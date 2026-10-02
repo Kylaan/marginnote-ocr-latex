@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "f00c77c8a10f",
+  "item_id": "f00c77c8a10f",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "直线 \\(L_1:\\begin{cases} x-1=0, \\\\ y=z \\end{cases}\\) 与 \\(L_2:\\begin{cases} x+2y=0, \\\\ z+2=0 \\end{cases}\\) 之间的距离 \\(d=\\underline{\\hspace{4em}}\\) .",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f00c77c8a10f-01.png",
+      "latex": "直线 \\(L_1:\\begin{cases} x-1=0, \\\\ y=z \\end{cases}\\) 与 \\(L_2:\\begin{cases} x+2y=0, \\\\ z+2=0 \\end{cases}\\) 之间的距离 \\(d=\\underline{\\hspace{4em}}\\) ."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 y=z 后含乱码符号，图片显示为 y=z；以图片为准。"
+}

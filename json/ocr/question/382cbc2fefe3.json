@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "382cbc2fefe3",
+  "item_id": "382cbc2fefe3",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $L$ 为点 $(1,-1,2)$ 到点 $(2,1,3)$ 的直线段，则 $I=\\int_L (x^2+y^2+z^2)ds=\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/382cbc2fefe3-01.png",
+      "latex": "设 $L$ 为点 $(1,-1,2)$ 到点 $(2,1,3)$ 的直线段，则 $I=\\int_L (x^2+y^2+z^2)ds=\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的积分符号与括号与图片不一致，已以图片为准。"
+}

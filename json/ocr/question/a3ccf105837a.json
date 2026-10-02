@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "a3ccf105837a",
+  "item_id": "a3ccf105837a",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(16) 一个体积为 $V$，表面积为 $S$（不含底面）的雪堆，融化速度为 $\\frac{dV}{dt}=-aS$，其中 $a>0$ 为常数，设在融化期间雪堆的形状保持为 $z=h-\\frac{x^2+y^2}{h}$（$z>0$），其中 $h=h(t)$，问一个高度为 $h_0(h_0>0)$ 的雪堆全部融化需要多长时间？",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a3ccf105837a-01.png",
+      "latex": "(16) 一个体积为 $V$，表面积为 $S$（不含底面）的雪堆，融化速度为 $\\frac{dV}{dt}=-aS$，其中 $a>0$ 为常数，设在融化期间雪堆的形状保持为 $z=h-\\frac{x^2+y^2}{h}$（$z>0$），其中 $h=h(t)$，问一个高度为 $h_0(h_0>0)$ 的雪堆全部融化需要多长时间？"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

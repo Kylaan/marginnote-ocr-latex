@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "e43f1cef91ac",
+  "item_id": "e43f1cef91ac",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Gamma$ 为质量均匀分布的半圆 $y=\\sqrt{1-x^2}$，线密度为 $\\rho$，则 $\\Gamma$ 对 $x$ 轴的转动惯量 $I_x=\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/e43f1cef91ac-01.png",
+      "latex": "设 $\\Gamma$ 为质量均匀分布的半圆 $y=\\sqrt{1-x^2}$，线密度为 $\\rho$，则 $\\Gamma$ 对 $x$ 轴的转动惯量 $I_x=\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

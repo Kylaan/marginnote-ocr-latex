@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "917cd7a357c9",
+  "item_id": "917cd7a357c9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "（3）已知两条直线 \\(L_1:\\frac{x-1}{1}=\\frac{y-2}{0}=\\frac{z-3}{-1},L_2:\\frac{x+2}{2}=\\frac{y-1}{1}=\\frac{z}{1}\\)，则过 \\(L_1\\) 且平行于 \\(L_2\\) 的平面方程是\\underline{\\hspace{4em}}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/917cd7a357c9-01.png",
+      "latex": "（3）已知两条直线 \\(L_1:\\frac{x-1}{1}=\\frac{y-2}{0}=\\frac{z-3}{-1},L_2:\\frac{x+2}{2}=\\frac{y-1}{1}=\\frac{z}{1}\\)，则过 \\(L_1\\) 且平行于 \\(L_2\\) 的平面方程是\\underline{\\hspace{4em}}"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容存在明显字符冲突，已以图片为准转写。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "15b3433d9f80",
+  "item_id": "15b3433d9f80",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "19. 设 $f(x)$ 有连续导数，且 $f(0)=0$，若对于平面内的任意简单封闭曲线 $L$，均有曲线积分 $\\oint_L [f(x)-e^x]y^2\\,\\mathrm{d}x - 2yf(x)\\,\\mathrm{d}y = 0$，则 $f(x)=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/15b3433d9f80-01.png",
+      "latex": "19. 设 $f(x)$ 有连续导数，且 $f(0)=0$，若对于平面内的任意简单封闭曲线 $L$，均有曲线积分 $\\oint_L [f(x)-e^x]y^2\\,\\mathrm{d}x - 2yf(x)\\,\\mathrm{d}y = 0$，则 $f(x)=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

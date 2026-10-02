@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "d36f64dcd26f",
+  "item_id": "d36f64dcd26f",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(6) 设平面力场为 $F=(2xy^3-y^2\\cos x)\\boldsymbol{i}+(1-2y\\sin x+3x^2y^2)\\boldsymbol{j}$，求质点在 $F$ 作用下，沿 $L:2x=\\pi y^2$ 从点 $O(0,0)$ 到点 $A\\left(\\frac{\\pi}{2},1\\right)$ 所做的功 $W$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d36f64dcd26f-01.png",
+      "latex": "(6) 设平面力场为 $F=(2xy^3-y^2\\cos x)\\boldsymbol{i}+(1-2y\\sin x+3x^2y^2)\\boldsymbol{j}$，求质点在 $F$ 作用下，沿 $L:2x=\\pi y^2$ 从点 $O(0,0)$ 到点 $A\\left(\\frac{\\pi}{2},1\\right)$ 所做的功 $W$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "图片中为“质点”，raw_text 中为“质心”，已按图片转写。"
+}

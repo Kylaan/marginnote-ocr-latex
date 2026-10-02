@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "41d0a15ec674",
+  "item_id": "41d0a15ec674",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 \\(V\\) 由曲面 \\(z=\\sqrt{R^2-x^2-y^2}\\) 与 \\(z=\\sqrt{x^2+y^2}\\) 所围，求 \\(I=\\iiint_V z\\,dV\\)。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/41d0a15ec674-01.png",
+      "latex": "设 \\(V\\) 由曲面 \\(z=\\sqrt{R^2-x^2-y^2}\\) 与 \\(z=\\sqrt{x^2+y^2}\\) 所围，求 \\(I=\\iiint_V z\\,dV\\)."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式缺少根号及三重积分符号，已按图片转写。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "4e26fe80d89b",
+  "item_id": "4e26fe80d89b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "已知有界闭区域 $\\Omega$ 由锥面 $z=\\sqrt{x^2+y^2}$ 与平面 $z=1$ 围成，计算三重积分\n\\[\nI=\\iiint_{\\Omega}(x+y+z)^2\\,\\mathrm{d}x\\mathrm{d}y\\mathrm{d}z.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4e26fe80d89b-01.png",
+      "latex": "已知有界闭区域 $\\Omega$ 由锥面 $z=\\sqrt{x^2+y^2}$ 与平面 $z=1$ 围成，计算三重积分\n\\[\nI=\\iiint_{\\Omega}(x+y+z)^2\\,\\mathrm{d}x\\mathrm{d}y\\mathrm{d}z.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

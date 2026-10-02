@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "3ee383be27ed",
+  "item_id": "3ee383be27ed",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma = \\{(x,y,z) \\mid x+y+z=1, x\\ge 0, y\\ge 0, z\\ge 0\\}$，则\n\\[\n\\iint_{\\Sigma} y^2 \\,\\mathrm{d}S = \\underline{\\hspace{4em}}\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3ee383be27ed-01.png",
+      "latex": "设 $\\Sigma = \\{(x,y,z) \\mid x+y+z=1, x\\ge 0, y\\ge 0, z\\ge 0\\}$，则\n\\[\n\\iint_{\\Sigma} y^2 \\,\\mathrm{d}S = \\underline{\\hspace{4em}}\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容存在 OCR 冲突，已按图片转写；未发现答案或解析内容。"
+}

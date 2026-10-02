@@ -1,0 +1,69 @@
+{
+  "26f9c73f068d": {
+    "status": "ok",
+    "_review": "逐题核对原题图，OCR 公式正确；数据库文字层冲突不影响题干。"
+  },
+  "71a215a71e97": {
+    "status": "ok",
+    "_review": "逐题核对原题图，OCR 公式正确；数据库文字层冲突不影响题干。"
+  },
+  "7f6ce1bb0b76": {
+    "status": "ok",
+    "_review": "逐题核对原题图，OCR 公式正确；数据库文字层冲突不影响题干。"
+  },
+  "267f55726955": {
+    "latex": "函数 $u=\\ln(x+\\sqrt{y^2+z^2})$ 在点 $A(1,0,1)$ 处沿点 $A$ 指向点 $B(3,-2,2)$ 方向的方向导数为 $\\underline{\\hspace{4em}}$.",
+    "status": "ok",
+    "_review": "原图题干清晰、止于“为”；仅补用于填写结果的版式空线，不增加题目条件。",
+    "flags": [
+      "possible_answer_content",
+      "raw_text_conflict"
+    ],
+    "_resolved_flags": [
+      "possible_crop"
+    ]
+  },
+  "0f23bb94c21f": {
+    "latex": "13. 设曲线 $\\Gamma$ 为曲面 $z=\\sqrt{4-x^2-8y^2}$ 与平面 $z=y$ 的交线上从点 $(2,0,0)$ 到点 $\\left(1,\\frac{\\sqrt{3}}{3},\\frac{\\sqrt{3}}{3}\\right)$ 的一段弧，$f(u)$ 是一元连续函数.\n（Ⅰ）计算 $\\Gamma$ 在点 $(x,y,z)$ 处的单位切向量（用 $x,y$ 表示）；\n（Ⅱ）计算曲线积分\n\\[\n\\begin{aligned}\nI={}&\\int_\\Gamma \\frac{1}{\\sqrt{\\frac{2}{9}x^2+9y^2}}\n\\Bigl\\{\\Bigl[\\frac{x}{2}f(xy)+3y\\Bigr](-3y)\\\\\n&\\qquad+\\Bigl[3yf(xy)+x^2+\\frac{3}{2}zf(xz)\\Bigr]\\frac{x}{3}\\Bigr\\}\\,\\mathrm{d}s.\n\\end{aligned}\n\\]\n",
+    "status": "ok",
+    "_review": "从本地 A4 版李艳芳900题 PDF 第311页的第二张题图恢复第二问完整积分式；没有从答案推测。",
+    "_source_file": "work/review/900-original-page311.png",
+    "_evidence": "work/review/0f23bb94c21f-recovered-original.png",
+    "_source_reference": "【A4版】26李艳芳《900题》（第一部分-高数-数一），PDF 第311页",
+    "flags": [
+      "raw_text_conflict"
+    ],
+    "_resolved_flags": [
+      "missing_context",
+      "possible_crop"
+    ]
+  },
+  "dd8e1f044cad": {
+    "_review": "原图就是完整的三重积分表达式，OCR 正确；保留源题的纯公式形式，不增加原图没有的文字。",
+    "status": "ok",
+    "_review_closed_at": "2026-10-02",
+    "_evidence": "work/review/dd8e1f044cad-source.png",
+    "flags": [
+      "raw_text_conflict"
+    ],
+    "_resolved_flags": [
+      "missing_context"
+    ]
+  },
+  "4084728d945f": {
+    "latex": "计算曲面积分\n\\[\nI=\\iint_{\\Sigma} x(8y+1)\\,\\mathrm{d}y\\mathrm{d}z+2(1-y^{2})\\,\\mathrm{d}z\\mathrm{d}x-4yz\\,\\mathrm{d}x\\mathrm{d}y,\n\\]\n其中 $\\Sigma$ 是曲线\n\\[\n\\begin{cases}\nz=\\sqrt{y-1},\\\\\nx=0\n\\end{cases}\\quad (1\\leqslant y\\leqslant 3)\n\\]\n绕 $y$ 轴旋转一周所成的曲面，它的法向量与 $y$ 轴正向的夹角恒大于 $\\dfrac{\\pi}{2}$．",
+    "image_transcriptions": [
+      {
+        "image": "img/question/4084728d945f-01.png",
+        "latex": "计算曲面积分\n\\[\nI=\\iint_{\\Sigma} x(8y+1)\\,\\mathrm{d}y\\mathrm{d}z+2(1-y^{2})\\,\\mathrm{d}z\\mathrm{d}x-4yz\\,\\mathrm{d}x\\mathrm{d}y,\n\\]\n其中 $\\Sigma$ 是曲线\n\\[\n\\begin{cases}\nz=\\sqrt{y-1},\\\\\nx=0\n\\end{cases}\\quad (1\\leqslant y\\leqslant 3)\n\\]\n绕 $y$ 轴旋转一周所成的曲面，它的法向量与 $y$ 轴正向的夹角恒大于 $\\dfrac{\\pi}{2}$．"
+      }
+    ],
+    "status": "ok",
+    "flags": [
+      "raw_text_conflict"
+    ],
+    "notes": "人工复核修正（2026-09-30，用户核定）：被积表达式末项微元原转写为 $\\mathrm{d}z\\mathrm{d}y$，放大原图核对后确认为 $\\mathrm{d}x\\mathrm{d}y$，已据图更正 latex 与 image_transcriptions。该处即原有 unclear_character 疑点，现已消除；保留 raw_text_conflict，因数据库文字层此处原本记作 dxdy，与模型初稿冲突、与修正后一致。",
+    "_review": "将2026-09-30已核定的微元更正固化为覆盖层，避免强制OCR覆盖人工结论。",
+    "_evidence": "work/review/4084728d945f-source.png"
+  }
+}

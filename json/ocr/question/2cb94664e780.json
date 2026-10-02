@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2cb94664e780",
+  "item_id": "2cb94664e780",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(2) 设 $L$ 为 $x^2+y^2=1$ 从 $A(-1,0)$ 到 $B(1,0)$ 的上半圆弧，连续函数 $f(x,y)$ 满足\n\\[\nf(x,y)=x^2-y^2+\\int_L \\frac{y f(x,y)\\,\\mathrm{d}x+x f(x,y)\\,\\mathrm{d}y}{x^2+y^2},\n\\]\n求 $f(x,y)$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2cb94664e780-01.png",
+      "latex": "(2) 设 $L$ 为 $x^2+y^2=1$ 从 $A(-1,0)$ 到 $B(1,0)$ 的上半圆弧，连续函数 $f(x,y)$ 满足 $f(x,y)=x^2-y^2+\\int_L \\frac{y f(x,y)\\,\\mathrm{d}x+x f(x,y)\\,\\mathrm{d}y}{x^2+y^2}$，求 $f(x,y)$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中多处字符与图片不符，已按图片转写。"
+}

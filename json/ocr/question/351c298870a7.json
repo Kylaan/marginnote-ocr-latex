@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "351c298870a7",
+  "item_id": "351c298870a7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\alpha$ 与 $\\beta$ 均为单位向量，其夹角为 $\\frac{\\pi}{6}$，则以 $\\alpha+2\\beta$ 与 $3\\alpha+\\beta$ 为邻边的平行四边形的面积为 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/351c298870a7-01.png",
+      "latex": "设 $\\alpha$ 与 $\\beta$ 均为单位向量，其夹角为 $\\frac{\\pi}{6}$，则以 $\\alpha+2\\beta$ 与 $3\\alpha+\\beta$ 为邻边的平行四边形的面积为 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 开头多出“)”，图片中无此符号。"
+}

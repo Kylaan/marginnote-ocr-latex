@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "bbe0a1d738da",
+  "item_id": "bbe0a1d738da",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "球体 $x^2+y^2+z^2=R^2(R>0)$ 被圆柱面 $x^2+y^2=Rx$ 所截得含在圆柱面内的立体的体积为 $\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/bbe0a1d738da-01.png",
+      "latex": "球体 $x^2+y^2+z^2=R^2(R>0)$ 被圆柱面 $x^2+y^2=Rx$ 所截得含在圆柱面内的立体的体积为 $\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

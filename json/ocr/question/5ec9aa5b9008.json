@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "5ec9aa5b9008",
+  "item_id": "5ec9aa5b9008",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设平面 $\\pi$ 与点 $P(1,2,1)$ 的距离为 $1$，且过直线 \\[L:\\begin{cases}3x-2y+2=0,\\\\ x-2y-z+6=0,\\end{cases}\\] 求平面 $\\pi$ 的方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5ec9aa5b9008-01.png",
+      "latex": "设平面 $\\pi$ 与点 $P(1,2,1)$ 的距离为 $1$，且过直线 $L:\\begin{cases}3x-2y+2=0,\\\\ x-2y-z+6=0,\\end{cases}$ 求平面 $\\pi$ 的方程."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

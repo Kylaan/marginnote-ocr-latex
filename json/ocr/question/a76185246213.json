@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "a76185246213",
+  "item_id": "a76185246213",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设向量场 \\(\\boldsymbol{F}(x,y,z)=\\frac{x}{(x^2+2y^2+3z^2)^2}\\boldsymbol{i}+\\frac{y}{(x^2+2y^2+3z^2)^2}\\boldsymbol{j}+\\frac{z}{(x^2+2y^2+3z^2)^2}\\boldsymbol{k}\\)，则 \\(|\\operatorname{div}\\boldsymbol{F}|\\) 在单位球面 \\(x^2+y^2+z^2=1\\) 上的最大值为 \\(\\underline{\\hspace{4em}}\\)。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/a76185246213-01.png",
+      "latex": "16 设向量场 \\(\\boldsymbol{F}(x,y,z)=\\frac{x}{(x^2+2y^2+3z^2)^2}\\boldsymbol{i}+\\frac{y}{(x^2+2y^2+3z^2)^2}\\boldsymbol{j}+\\frac{z}{(x^2+2y^2+3z^2)^2}\\boldsymbol{k}\\)，则 \\(|\\operatorname{div}\\boldsymbol{F}|\\) 在单位球面 \\(x^2+y^2+z^2=1\\) 上的最大值为 \\(\\underline{\\hspace{4em}}\\)。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

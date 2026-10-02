@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "05ab3be0e896",
+  "item_id": "05ab3be0e896",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "149 设 $\\Sigma$ 为上半球面 $x^2+y^2+z^2=a^2(a>0,z\\geq 0)$，则积分 \\[ \\iint\\limits_{\\Sigma}(\\sqrt{2}x+z+1)^2\\,dS=\\underline{\\hspace{4em}}. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/05ab3be0e896-01.png",
+      "latex": "149 设 $\\Sigma$ 为上半球面 $x^2+y^2+z^2=a^2(a>0,z\\geq 0)$，则积分 \\[ \\iint\\limits_{\\Sigma}(\\sqrt{2}x+z+1)^2\\,dS=\\underline{\\hspace{4em}}. \\]"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式的上标、根号、括号和积分符号不完整，已以图片为准按可见内容转写。"
+}

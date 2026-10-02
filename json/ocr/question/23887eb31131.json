@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "23887eb31131",
+  "item_id": "23887eb31131",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "设 $L$ 是由 $y^2=2(x+2)$ 及 $x=2$ 所围区域的边界曲线，取逆时针方向，则\n\\[\n\\oint_L \\frac{x\\,dy-y\\,dx}{x^2+y^2}=\n\\]",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$0$."
+    },
+    {
+      "label": "B",
+      "latex": "$\\pi$."
+    },
+    {
+      "label": "C",
+      "latex": "$2\\pi$."
+    },
+    {
+      "label": "D",
+      "latex": "$-2\\pi$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/23887eb31131-01.png",
+      "latex": "354 设 $L$ 是由 $y^2=2(x+2)$ 及 $x=2$ 所围区域的边界曲线，取逆时针方向，则\n\\[\n\\oint_L \\frac{x\\,dy-y\\,dx}{x^2+y^2}=\n\\]\nA. $0$.\nB. $\\pi$.\nC. $2\\pi$.\nD. $-2\\pi$."
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中为“y2= 2 x+2”，缺少括号；图片为“y^2=2(x+2)”，以图片为准。"
+}

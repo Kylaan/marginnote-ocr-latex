@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c53f2a2aa310",
+  "item_id": "c53f2a2aa310",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Omega$ 是由锥面 $x^2+(y-z)^2=(1-z)^2(0\\leq z\\leq 1)$ 与平面 $z=0$ 围成的锥体,求 $\\Omega$ 的形心坐标.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c53f2a2aa310-01.png",
+      "latex": "设 $\\Omega$ 是由锥面 $x^2+(y-z)^2=(1-z)^2(0\\leq z\\leq 1)$ 与平面 $z=0$ 围成的锥体,求 $\\Omega$ 的形心坐标."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

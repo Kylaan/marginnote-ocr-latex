@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "17d9586acd9d",
+  "item_id": "17d9586acd9d",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "158 设球体 $x^2+y^2+z^2 \\leqslant z$ 上任一点处的密度等于该点到原点的距离的平方，则此球的质心的 $z$ 坐标为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/17d9586acd9d-01.png",
+      "latex": "158 设球体 $x^2+y^2+z^2 \\leqslant z$ 上任一点处的密度等于该点到原点的距离的平方，则此球的质心的 $z$ 坐标为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

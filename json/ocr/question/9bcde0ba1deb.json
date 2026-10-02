@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "9bcde0ba1deb",
+  "item_id": "9bcde0ba1deb",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设平面 $\\pi$ 过直线 $L:\\begin{cases} x+5y+z=0, \\\\ x-z+4=0, \\end{cases}$ 且与平面 $\\pi_1:x-4y-8z+12=0$ 的夹角为 $45^\\circ$，求平面 $\\pi$ 的方程.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/9bcde0ba1deb-01.png",
+      "latex": "设平面 $\\pi$ 过直线 $L:\\begin{cases} x+5y+z=0, \\\\ x-z+4=0, \\end{cases}$ 且与平面 $\\pi_1:x-4y-8z+12=0$ 的夹角为 $45^\\circ$，求平面 $\\pi$ 的方程."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

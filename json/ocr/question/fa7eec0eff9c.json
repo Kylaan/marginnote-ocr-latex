@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "fa7eec0eff9c",
+  "item_id": "fa7eec0eff9c",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "147 设 \\(f(t)\\) 在 \\(t \\neq 0\\) 时有连续一阶导数，\\(f(1)=0\\)，线积分 \\(\\oint_L y[2-f(x^2-y^2)]\\,dx + x f(x^2-y^2)\\,dy\\) 与路径无关，其中 \\(L\\) 为任一不与 \\(y=\\pm x\\) 相交的分段光滑闭曲线，则 \\(f(x^2-y^2)=\\) \\underline{\\hspace{4em}}．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/fa7eec0eff9c-01.png",
+      "latex": "147 设 \\(f(t)\\) 在 \\(t \\neq 0\\) 时有连续一阶导数，\\(f(1)=0\\)，线积分 \\(\\oint_L y[2-f(x^2-y^2)]\\,dx + x f(x^2-y^2)\\,dy\\) 与路径无关，其中 \\(L\\) 为任一不与 \\(y=\\pm x\\) 相交的分段光滑闭曲线，则 \\(f(x^2-y^2)=\\) \\underline{\\hspace{4em}}．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

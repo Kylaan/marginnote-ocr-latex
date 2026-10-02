@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "3416e2eb7720",
+  "item_id": "3416e2eb7720",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "12. 设 \\(g(x,y)\\) 是函数 \\(f(x,y)=x+2y+xy\\) 在点 \\((x,y)\\) 处的最大方向导数.\n(1) 求 \\(g(x,y)\\) 的表达式；\n(2) 求 \\(g(x,y)\\) 在曲线 \\(C:x^2+y^2=5\\) 上的最大值.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/3416e2eb7720-01.png",
+      "latex": "12. 设 \\(g(x,y)\\) 是函数 \\(f(x,y)=x+2y+xy\\) 在点 \\((x,y)\\) 处的最大方向导数.\n(1) 求 \\(g(x,y)\\) 的表达式；\n(2) 求 \\(g(x,y)\\) 在曲线 \\(C:x^2+y^2=5\\) 上的最大值."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

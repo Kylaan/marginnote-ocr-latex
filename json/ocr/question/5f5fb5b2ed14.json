@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5f5fb5b2ed14",
+  "item_id": "5f5fb5b2ed14",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "函数 $u=\\ln(x^2+y^2+z^2)$ 在点 $M(1,2,-2)$ 处的梯度 $\\left.\\operatorname{grad}u\\right|_M=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5f5fb5b2ed14-01.png",
+      "latex": "函数 $u=\\ln(x^2+y^2+z^2)$ 在点 $M(1,2,-2)$ 处的梯度 $\\left.\\operatorname{grad}u\\right|_M=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“ln(x2+y7+2)”与图片不符，图片为 $\\ln(x^2+y^2+z^2)$；raw_text 中点 $M(1.2,-2)$ 与图片 $M(1,2,-2)$ 不符。"
+}

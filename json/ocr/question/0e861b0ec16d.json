@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "0e861b0ec16d",
+  "item_id": "0e861b0ec16d",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(3) 设积分 $I=\\int_L F(x,y)(y\\mathrm{d}x+x\\mathrm{d}y)$ 与路径无关，且 $F(x,y)=0$ 确定的隐函数的图形过点 $(1,2)$ 且与坐标轴无交点，其中 $F(x,y)$ 可微，则 $F(x,y)=0$ 确定的隐函数为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0e861b0ec16d-01.png",
+      "latex": "(3) 设积分 $I=\\int_L F(x,y)(y\\mathrm{d}x+x\\mathrm{d}y)$ 与路径无关，且 $F(x,y)=0$ 确定的隐函数的图形过点 $(1,2)$ 且与坐标轴无交点，其中 $F(x,y)$ 可微，则 $F(x,y)=0$ 确定的隐函数为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.97,
+  "flags": [],
+  "notes": ""
+}

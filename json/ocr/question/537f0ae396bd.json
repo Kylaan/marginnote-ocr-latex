@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "537f0ae396bd",
+  "item_id": "537f0ae396bd",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $L$ 为球面 $x^2+y^2+z^2=1$ 与平面 $x+y+z=0$ 的交线，则 $\\oint_L xy\\,\\mathrm{d}s=\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/537f0ae396bd-01.png",
+      "latex": "设 $L$ 为球面 $x^2+y^2+z^2=1$ 与平面 $x+y+z=0$ 的交线，则 $\\oint_L xy\\,\\mathrm{d}s=\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“x+y7+z2=1”和“dxydw”与图片不一致，已按图片转写为“x^2+y^2+z^2=1”和“xy\\,\\mathrm{d}s”。"
+}

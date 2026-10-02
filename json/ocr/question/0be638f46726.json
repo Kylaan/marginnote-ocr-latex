@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "0be638f46726",
+  "item_id": "0be638f46726",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "26. 设 $\\Sigma$ 是柱面 $x^2+y^2=1$ 介于平面 $z=0,z=2$ 之间的部分，方向向外。记\n\\[\nI_1=\\iint_{\\Sigma} x^2\\,\\mathrm{d}S,\\quad I_2=\\iint_{\\Sigma} z^2\\,\\mathrm{d}S,\n\\]\n\\[\nI_3=\\iint_{\\Sigma}(x^2+z^2)\\,\\mathrm{d}y\\mathrm{d}z,\n\\]\n则（ ）。",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$I_1>I_2>I_3$"
+    },
+    {
+      "label": "B",
+      "latex": "$I_2>I_1>I_3$"
+    },
+    {
+      "label": "C",
+      "latex": "$I_3>I_1>I_2$"
+    },
+    {
+      "label": "D",
+      "latex": "$I_3>I_2>I_1$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0be638f46726-01.png",
+      "latex": "26. 设 $\\Sigma$ 是柱面 $x^2+y^2=1$ 介于平面 $z=0,z=2$ 之间的部分，方向向外。记 $I_1=\\iint_{\\Sigma} x^2\\,\\mathrm{d}S$，$I_2=\\iint_{\\Sigma} z^2\\,\\mathrm{d}S$，$I_3=\\iint_{\\Sigma}(x^2+z^2)\\,\\mathrm{d}y\\mathrm{d}z$，则（ ）。\nA. $I_1>I_2>I_3$\nB. $I_2>I_1>I_3$\nC. $I_3>I_1>I_2$\nD. $I_3>I_2>I_1$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

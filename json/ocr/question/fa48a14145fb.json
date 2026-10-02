@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "fa48a14145fb",
+  "item_id": "fa48a14145fb",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设函数 $Q(x,y)$ 在 $xOy$ 平面上具有一阶连续偏导数，曲线积分\n\\[\n\\int_L 2xy\\,dx+Q(x,y)\\,dy\n\\]\n与路径无关，并且对任意 $t$ 恒有\n\\[\n\\int_{(0,0)}^{(t,1)} 2xy\\,dx+Q(x,y)\\,dy=\\int_{(0,0)}^{(1,t)} 2xy\\,dx+Q(x,y)\\,dy,\n\\]\n求 $Q(x,y)$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/fa48a14145fb-01.png",
+      "latex": "设函数 $Q(x,y)$ 在 $xOy$ 平面上具有一阶连续偏导数，曲线积分\n\\[\n\\int_L 2xy\\,dx+Q(x,y)\\,dy\n\\]\n与路径无关，并且对任意 $t$ 恒有\n\\[\n\\int_{(0,0)}^{(t,1)} 2xy\\,dx+Q(x,y)\\,dy=\\int_{(0,0)}^{(1,t)} 2xy\\,dx+Q(x,y)\\,dy,\n\\]\n求 $Q(x,y)$．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

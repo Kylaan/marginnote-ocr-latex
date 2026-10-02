@@ -1,0 +1,15 @@
+{
+  "renderer": "PyMuPDF 72 dpi RGB",
+  "books": {
+    "澄潇宇大观题库-多元积分·无空版.pdf": {
+      "pages": 58,
+      "changed_render_pages": [],
+      "all_pixels_match_historical": true
+    },
+    "澄潇宇大观题库-多元积分·留空版.pdf": {
+      "pages": 80,
+      "changed_render_pages": [],
+      "all_pixels_match_historical": true
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "23f0f64d4667",
+  "item_id": "23f0f64d4667",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "（4）设函数 $Q(x,y)=\\frac{x}{y^2}$. 如果对上半平面 $(y>0)$ 内的任意有向光滑封闭曲线 $C$ 都有\n\\[\n\\oint_C P(x,y)\\mathrm{d}x+Q(x,y)\\mathrm{d}y=0,\n\\]\n那么函数 $P(x,y)$ 可取为（ ）",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$y-\\frac{x^2}{y^3}$."
+    },
+    {
+      "label": "B",
+      "latex": "$\\frac{1}{y}-\\frac{x^2}{y^3}$."
+    },
+    {
+      "label": "C",
+      "latex": "$\\frac{1}{x}-\\frac{1}{y}$."
+    },
+    {
+      "label": "D",
+      "latex": "$x-\\frac{1}{y}$."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/23f0f64d4667-01.png",
+      "latex": "（4）设函数 $Q(x,y)=\\frac{x}{y^2}$. 如果对上半平面 $(y>0)$ 内的任意有向光滑封闭曲线 $C$ 都有\n\\[\n\\oint_C P(x,y)\\mathrm{d}x+Q(x,y)\\mathrm{d}y=0,\n\\]\n那么函数 $P(x,y)$ 可取为（ ）\n\n（A）$y-\\frac{x^2}{y^3}$.\n（B）$\\frac{1}{y}-\\frac{x^2}{y^3}$.\n（C）$\\frac{1}{x}-\\frac{1}{y}$.\n（D）$x-\\frac{1}{y}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已以图片为准。"
+}

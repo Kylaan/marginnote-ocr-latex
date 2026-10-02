@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "dcd09bee608a",
+  "item_id": "dcd09bee608a",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "(1) 设 $f(x,y)$ 在 $D=\\{(x,y)\\mid x^2+y^2\\le 1\\}$ 上有二阶连续偏导数，且 $\\frac{\\partial^2 f}{\\partial x^2}+\\frac{\\partial^2 f}{\\partial y^2}=\\mathrm{e}^{-(x^2+y^2)}$，计算\n\\[\nI=\\iint_D \\left(x\\frac{\\partial f}{\\partial x}+y\\frac{\\partial f}{\\partial y}\\right)\\mathrm{d}x\\mathrm{d}y.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/dcd09bee608a-01.png",
+      "latex": "(1) 设 $f(x,y)$ 在 $D=\\{(x,y)\\mid x^2+y^2\\le 1\\}$ 上有二阶连续偏导数，且 $\\frac{\\partial^2 f}{\\partial x^2}+\\frac{\\partial^2 f}{\\partial y^2}=\\mathrm{e}^{-(x^2+y^2)}$，计算\n\\[\nI=\\iint_D \\left(x\\frac{\\partial f}{\\partial x}+y\\frac{\\partial f}{\\partial y}\\right)\\mathrm{d}x\\mathrm{d}y.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

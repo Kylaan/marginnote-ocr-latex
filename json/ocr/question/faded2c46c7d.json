@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "qid": "faded2c46c7d",
+  "item_id": "faded2c46c7d",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求满足下列条件的动点的轨迹方程，并说明它们分别表示什么曲面．\n（I）动点到坐标原点的距离等于它到平面 $z=4$ 的距离；\n（II）动点到坐标原点的距离等于它到点 $(2,3,4)$ 的距离的一半；\n（III）动点到点 $(0,0,5)$ 的距离等于它到 $x$ 轴的距离；\n（IV）动点到 $x$ 轴的距离等于它到 $yOz$ 面的距离的两倍．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/faded2c46c7d-01.png",
+      "latex": "解 设动点为 $(x,y,z)$．\n（I）\\[\n\\sqrt{x^2+y^2+z^2}=|z-4|,\n\\]\n即 $x^2+y^2+8z=16$，它是以 $z$ 轴为旋转轴的旋转抛物面．\n（II）\\[\n\\sqrt{x^2+y^2+z^2}=\\frac{1}{2}\\sqrt{(x-2)^2+(y-3)^2+(z-4)^2},\n\\]"
+    },
+    {
+      "image": "img/question/faded2c46c7d-02.png",
+      "latex": "即\n\\[\n3(x^2+y^2+z^2)+4x+6y+8z=29,\n\\]\n\\[\n\\left(x+\\frac{2}{3}\\right)^2+(y+1)^2+\\left(z+\\frac{4}{3}\\right)^2=\\frac{116}{9},\n\\]\n它是以点 $\\left(-\\frac{2}{3},-1,-\\frac{4}{3}\\right)$ 为球心，$\\frac{2\\sqrt{29}}{3}$ 为半径的球面．\n（III）动点 $(x,y,z)$ 到 $x$ 轴的距离为 $\\sqrt{y^2+z^2}$，故\n\\[\n\\sqrt{x^2+y^2+(z-5)^2}=\\sqrt{y^2+z^2},\n\\]\n即 $25+x^2=10z$，它是母线平行于 $y$ 轴的抛物柱面．\n（IV）动点 $(x,y,z)$ 到 $yOz$ 面的距离为 $|x|$，故 $\\sqrt{y^2+z^2}=2|x|$，即\n\\[\n4x^2-y^2-z^2=0,\n\\]\n它是以坐标原点为顶点，$x$ 轴为对称轴的圆锥面．"
+    },
+    {
+      "image": "img/question/faded2c46c7d-03.png",
+      "latex": "求满足下列条件的动点的轨迹方程，并说明它们分别表示什么曲面．\n（I）动点到坐标原点的距离等于它到平面 $z=4$ 的距离；\n（II）动点到坐标原点的距离等于它到点 $(2,3,4)$ 的距离的一半；\n（III）动点到点 $(0,0,5)$ 的距离等于它到 $x$ 轴的距离；\n（IV）动点到 $x$ 轴的距离等于它到 $yOz$ 面的距离的两倍．"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "possible_answer_content"
+  ],
+  "notes": ""
+}

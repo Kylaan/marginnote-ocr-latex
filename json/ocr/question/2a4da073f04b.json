@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2a4da073f04b",
+  "item_id": "2a4da073f04b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设薄片型物体 $S$ 是圆锥面 $z=\\sqrt{x^2+y^2}$ 被柱面 $z^2=2x$ 割下的有限部分，其上任一点的密度为 $\\mu(x,y,z)=9\\sqrt{x^2+y^2+z^2}$．记圆锥面与柱面的交线为 $C$．\n\n（I）求 $C$ 在 $xOy$ 平面上的投影曲线的方程；\n\n（II）求 $S$ 的质量 $M$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2a4da073f04b-01.png",
+      "latex": "设薄片型物体 $S$ 是圆锥面 $z=\\sqrt{x^2+y^2}$ 被柱面 $z^2=2x$ 割下的有限部分，其上任一点的密度为 $\\mu(x,y,z)=9\\sqrt{x^2+y^2+z^2}$．记圆锥面与柱面的交线为 $C$．\n\n（I）求 $C$ 在 $xOy$ 平面上的投影曲线的方程；\n\n（II）求 $S$ 的质量 $M$．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "图片清晰；raw_text 中公式与图片多处不符，已按图片转写。"
+}

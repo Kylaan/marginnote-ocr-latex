@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c9bfdd53c2c7",
+  "item_id": "c9bfdd53c2c7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "计算 $I=\\iiint_{\\Omega}(x^2+y^2+z^2)\\,\\mathrm{d}v=\\underline{\\hspace{4em}}$，其中 $\\Omega$ 是由 $z=x^2+y^2$，$x^2+y^2=1$ 及三个坐标面围成在第一卦限内的闭区域.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c9bfdd53c2c7-01.png",
+      "latex": "142 计算 $I=\\iiint_{\\Omega}(x^2+y^2+z^2)\\,\\mathrm{d}v=\\underline{\\hspace{4em}}$，其中 $\\Omega$ 是由 $z=x^2+y^2$，$x^2+y^2=1$ 及三个坐标面围成在第一卦限内的闭区域."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

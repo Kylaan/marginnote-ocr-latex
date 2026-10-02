@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "69f873503085",
+  "item_id": "69f873503085",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "【例 8.10】(1) 设 $\\Sigma$ 为曲面 $y+1=\\sqrt{x^2+z^2}$（$-1\\le y\\le 0$）的右侧，$\\Sigma$ 上任意点 $(x,y,z)$ 处的单位法向量为 $\\{\\cos\\alpha,\\cos\\beta,\\cos\\gamma\\}$，计算积分\n\\[ I=\\iint_{\\Sigma}\\left[x^2\\cos\\alpha+(y^2+1)\\cos\\beta+(z^2+3)\\cos\\gamma\\right]\\mathrm{d}S. \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/69f873503085-01.png",
+      "latex": "【例 8.10】(1) 设 $\\Sigma$ 为曲面 $y+1=\\sqrt{x^2+z^2}$（$-1\\le y\\le 0$）的右侧，$\\Sigma$ 上任意点 $(x,y,z)$ 处的单位法向量为 $\\{\\cos\\alpha,\\cos\\beta,\\cos\\gamma\\}$，计算积分\n\\[ I=\\iint_{\\Sigma}\\left[x^2\\cos\\alpha+(y^2+1)\\cos\\beta+(z^2+3)\\cos\\gamma\\right]\\mathrm{d}S. \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的“y+l=x+z”“(-l≤y≤0)”与图片不符，已按图片转写为 $y+1=\\sqrt{x^2+z^2}$、$-1\\le y\\le 0$。"
+}

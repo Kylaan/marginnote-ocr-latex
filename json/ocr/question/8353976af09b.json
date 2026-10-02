@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "8353976af09b",
+  "item_id": "8353976af09b",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设有一半径为 $R$ 的球体，$P_0$ 是此球的表面上的一个定点，球体上任一点的密度与该点到 $P_0$ 距离的平方成正比（比例常数 $k>0$），求球体的重心位置．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8353976af09b-01.png",
+      "latex": "设有一半径为 $R$ 的球体，$P_0$ 是此球的表面上的一个定点，球体上任一点的密度与该点到 $P_0$ 距离的平方成正比（比例常数 $k>0$），求球体的重心位置．"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中作“A是此球的表面上的一个定点”和“比例常数r>0”，与图片中“$P_0$”和“$k>0$”不一致，已按图片转写。"
+}

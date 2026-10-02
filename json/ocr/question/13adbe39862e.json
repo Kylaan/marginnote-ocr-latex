@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "13adbe39862e",
+  "item_id": "13adbe39862e",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $P$ 为椭球面 $S:x^2+y^2+z^2-yz=1$ 上的动点，若 $S$ 在点 $P$ 处的切平面与 $xOy$ 面垂直，求点 $P$ 的轨迹 $C$，并计算曲面积分\n\\[ I=\\iint_{\\Sigma}\\frac{(x+\\sqrt{3})\\,|y-2z|}{\\sqrt{4+y^2+z^2-4yz}}\\,\\mathrm{d}S, \\]\n其中 $\\Sigma$ 是椭球面 $S$ 位于曲线 $C$ 上方的部分.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/13adbe39862e-01.png",
+      "latex": "设 $P$ 为椭球面 $S:x^2+y^2+z^2-yz=1$ 上的动点，若 $S$ 在点 $P$ 处的切平面与 $xOy$ 面垂直，求点 $P$ 的轨迹 $C$，并计算曲面积分 $I=\\iint_{\\Sigma}\\frac{(x+\\sqrt{3})\\,|y-2z|}{\\sqrt{4+y^2+z^2-4yz}}\\,\\mathrm{d}S$，其中 $\\Sigma$ 是椭球面 $S$ 位于曲线 $C$ 上方的部分."
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的方程写成 \"P+y+z-yz=l\" 且末尾混入乱码，与图片不符；图片中方程为 $x^2+y^2+z^2-yz=1$。"
+}

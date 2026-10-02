@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "d2426596fbcd",
+  "item_id": "d2426596fbcd",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Omega=\\{(x,y,z)\\mid x^2+y^2+z^2\\leqslant 1,x\\geqslant 0,y\\geqslant 0,z\\geqslant 0\\}$，则 $\\iiint_{\\Omega}(x^2+2y^2+3z^2)\\,\\mathrm{d}x\\mathrm{d}y\\mathrm{d}z=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d2426596fbcd-01.png",
+      "latex": "设 $\\Omega=\\{(x,y,z)\\mid x^2+y^2+z^2\\leqslant 1,x\\geqslant 0,y\\geqslant 0,z\\geqslant 0\\}$，则 $\\iiint_{\\Omega}(x^2+2y^2+3z^2)\\,\\mathrm{d}x\\mathrm{d}y\\mathrm{d}z=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

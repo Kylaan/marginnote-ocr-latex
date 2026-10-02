@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "dd45d1db5bc5",
+  "item_id": "dd45d1db5bc5",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "【例8.6】(1) 设 \\(f(x)\\) 有一阶连续导数，且 \\(f(1)=0\\)，对任意与直线 \\(y=\\pm x\\) 不相交的分段光滑闭曲线 \\(L\\)，有\n\\[\n\\oint_L [2y-yf(x^2-y^2)]\\,dx+xf(x^2-y^2)\\,dy=0,\n\\]\n则 \\(f(x)=\\underline{\\hspace{4em}}\\).",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/dd45d1db5bc5-01.png",
+      "latex": "【例8.6】(1) 设 \\(f(x)\\) 有一阶连续导数，且 \\(f(1)=0\\)，对任意与直线 \\(y=\\pm x\\) 不相交的分段光滑闭曲线 \\(L\\)，有\n\\[\n\\oint_L [2y-yf(x^2-y^2)]\\,dx+xf(x^2-y^2)\\,dy=0,\n\\]\n则 \\(f(x)=\\underline{\\hspace{4em}}\\)."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中“设八x)有一阶连续导数,且(1)=0”与图片“设 f(x) 有一阶连续导数,且 f(1)=0”不符；raw_text 中“直线 y=x”与图片“直线 y=±x”不符；已按图片转写。"
+}

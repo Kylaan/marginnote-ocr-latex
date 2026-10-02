@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "0c209ca7be43",
+  "item_id": "0c209ca7be43",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "16. 设 $\\Gamma$ 为曲线 $\\begin{cases}x^2+y^2+z^2=a^2,\\\\ y=x\\tan\\theta,\\end{cases}$，其中 $a>0$，$-\\frac{\\pi}{2}<\\theta<\\frac{\\pi}{2}$ 且 $\\theta\\neq 0$，从 $x$ 轴的正向看去，$\\Gamma$ 的方向为顺时针方向.当 $\\theta$ 为何值时，$I=\\oint_{\\Gamma}(y-z)\\mathrm{d}x+(z-x)\\mathrm{d}y+(x-y)\\mathrm{d}z$ 最大? 并求出最大值.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/0c209ca7be43-01.png",
+      "latex": "16. 设 $\\Gamma$ 为曲线 $\\begin{cases}x^2+y^2+z^2=a^2,\\\\ y=x\\tan\\theta,\\end{cases}$，其中 $a>0$，$-\\frac{\\pi}{2}<\\theta<\\frac{\\pi}{2}$ 且 $\\theta\\neq 0$，从 $x$ 轴的正向看去，$\\Gamma$ 的方向为顺时针方向.当 $\\theta$ 为何值时，$I=\\oint_{\\Gamma}(y-z)\\mathrm{d}x+(z-x)\\mathrm{d}y+(x-y)\\mathrm{d}z$ 最大? 并求出最大值."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中积分符号及部分字符与图片不一致，已按图片转写。"
+}

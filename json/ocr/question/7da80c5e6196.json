@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "7da80c5e6196",
+  "item_id": "7da80c5e6196",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(4) 设 \\(D=\\{(x,y)\\mid (x-1)^2+(y-1)^2\\le 2\\}\\)，\\(L\\) 为 \\(D\\) 的边界曲线，取顺时针方向，\\(I_1=\\int_L x\\,dx+\\frac{(x+y)^2}{8}\\,dy\\)，\\(I_2=\\int_L x\\,dx+\\frac{(x-y)^2}{8}\\,dy\\)，\\(I_3=\\int_L \\frac{(x+y)^2}{8}\\,dx+y\\,dy\\)，则 ( ).",
+  "options": [
+    {
+      "label": "A",
+      "latex": "\\(I_1>I_2>I_3\\)"
+    },
+    {
+      "label": "B",
+      "latex": "\\(I_3>I_2>I_1\\)"
+    },
+    {
+      "label": "C",
+      "latex": "\\(I_2>I_3>I_1\\)"
+    },
+    {
+      "label": "D",
+      "latex": "\\(I_2>I_1>I_3\\)"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7da80c5e6196-01.png",
+      "latex": "(4) 设 \\(D=\\{(x,y)\\mid (x-1)^2+(y-1)^2\\le 2\\}\\)，\\(L\\) 为 \\(D\\) 的边界曲线，取顺时针方向，\\(I_1=\\int_L x\\,dx+\\frac{(x+y)^2}{8}\\,dy\\)，\\(I_2=\\int_L x\\,dx+\\frac{(x-y)^2}{8}\\,dy\\)，\\(I_3=\\int_L \\frac{(x+y)^2}{8}\\,dx+y\\,dy\\)，则 ( ).\nA. \\(I_1>I_2>I_3\\)\nB. \\(I_3>I_2>I_1\\)\nC. \\(I_2>I_3>I_1\\)\nD. \\(I_2>I_1>I_3\\)"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中公式有明显缺漏或乱码，已以图片为准。"
+}

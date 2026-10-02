@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "d78bb8d38587",
+  "item_id": "d78bb8d38587",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(14) 设平面薄片（密度 $\\rho=1$）由 $y^2=x^3$ 与直线 $y=x$ 所围，则 $D$ 对 $x$ 轴和 $y$ 轴的转动惯量分别为 $I_x=\\underline{\\hspace{4em}}$，$I_y=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/d78bb8d38587-01.png",
+      "latex": "(14) 设平面薄片（密度 $\\rho=1$）由 $y^2=x^3$ 与直线 $y=x$ 所围，则 $D$ 对 $x$ 轴和 $y$ 轴的转动惯量分别为 $I_x=\\underline{\\hspace{4em}}$，$I_y=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

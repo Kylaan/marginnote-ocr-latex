@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "6ad6a31c0c25",
+  "item_id": "6ad6a31c0c25",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $V:0\\le z\\le \\sqrt{R^2-x^2-y^2}(R>0)$，求 $I=\\iiint_V (3x^2+5y^2+7z^2)dV$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/6ad6a31c0c25-01.png",
+      "latex": "设 $V:0\\le z\\le \\sqrt{R^2-x^2-y^2}(R>0)$，求 $I=\\iiint_V (3x^2+5y^2+7z^2)dV$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

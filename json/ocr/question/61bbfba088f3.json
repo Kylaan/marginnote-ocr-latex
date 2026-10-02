@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "61bbfba088f3",
+  "item_id": "61bbfba088f3",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "点 $M(3,2,6)$ 到直线 $\\frac{x}{1}=\\frac{y+7}{2}=\\frac{z-3}{-1}$ 的距离为 \\underline{\\hspace{4em}}.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/61bbfba088f3-01.png",
+      "latex": "点 $M(3,2,6)$ 到直线 $\\frac{x}{1}=\\frac{y+7}{2}=\\frac{z-3}{-1}$ 的距离为 \\underline{\\hspace{4em}}."
+    }
+  ],
+  "confidence": 1,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 缺少括号和分数线，已按图片转写。"
+}

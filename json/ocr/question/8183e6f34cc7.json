@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "8183e6f34cc7",
+  "item_id": "8183e6f34cc7",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "\\[ \\operatorname{grad}\\left(xy+\\frac{z}{y}\\right)\\bigg|_{(2,1,1)} = \\underline{\\hspace{4em}} \\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/8183e6f34cc7-01.png",
+      "latex": "\\[ \\operatorname{grad}\\left(xy+\\frac{z}{y}\\right)\\bigg|_{(2,1,1)} = \\underline{\\hspace{4em}} \\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容不一致，已以图片为准。"
+}

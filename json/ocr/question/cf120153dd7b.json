@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "cf120153dd7b",
+  "item_id": "cf120153dd7b",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 \\(C\\) 为曲线 \\(y=\\sqrt{\\pi}x^2\\) 上从 \\(O(0,0)\\) 到 \\(A(1,\\sqrt{\\pi})\\) 的曲线段，则 \\(\\int_C \\cos y^2\\,\\mathrm{d}x-2xy\\sin y^2\\,\\mathrm{d}y=\\underline{\\hspace{4em}}.\\)",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/cf120153dd7b-01.png",
+      "latex": "设 \\(C\\) 为曲线 \\(y=\\sqrt{\\pi}x^2\\) 上从 \\(O(0,0)\\) 到 \\(A(1,\\sqrt{\\pi})\\) 的曲线段，则 \\(\\int_C \\cos y^2\\,\\mathrm{d}x-2xy\\sin y^2\\,\\mathrm{d}y=\\underline{\\hspace{4em}}.\\)"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲线方程缺少根号，端点也写成了 \\(\\pi\\)；图片显示为 \\(y=\\sqrt{\\pi}x^2\\)，端点为 \\(A(1,\\sqrt{\\pi})\\)。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "dbd474f70685",
+  "item_id": "dbd474f70685",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "(2) 设 $L$ 为 $x^2+y^2=R^2(y\\geqslant 0)$ 上由点 $A\\left(-\\frac{R}{\\sqrt{2}},\\frac{R}{\\sqrt{2}}\\right)$ 到点 $B(R,0)$ 的一段弧，则 $\\int_L y\\,ds=\\underline{\\hspace{4em}}$，$\\int_L y\\,dx=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/dbd474f70685-01.png",
+      "latex": "(2) 设 $L$ 为 $x^2+y^2=R^2(y\\geqslant 0)$ 上由点 $A\\left(-\\frac{R}{\\sqrt{2}},\\frac{R}{\\sqrt{2}}\\right)$ 到点 $B(R,0)$ 的一段弧，则 $\\int_L y\\,ds=\\underline{\\hspace{4em}}$，$\\int_L y\\,dx=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的坐标和括号信息不完整，已按图片转写。"
+}

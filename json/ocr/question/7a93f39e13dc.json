@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "7a93f39e13dc",
+  "item_id": "7a93f39e13dc",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "求曲面 $z=\\sqrt{5-x^2-y^2}$ 与 $x^2+y^2=4z$ 所围立体体积.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7a93f39e13dc-01.png",
+      "latex": "求曲面 $z=\\sqrt{5-x^2-y^2}$ 与 $x^2+y^2=4z$ 所围立体体积."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲面表达式缺少根号，且与图片不一致；图片显示为 z=\\sqrt{5-x^2-y^2}。"
+}

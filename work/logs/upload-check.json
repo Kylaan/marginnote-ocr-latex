@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "text_entries_scanned": 888,
+  "credential_pattern_matches": 0,
+  "large_files_with_lfs_rules": [
+    {
+      "path": "archives/extraction-original.zip",
+      "bytes": 300735298
+    },
+    {
+      "path": "archives/ocr-delivery-sanitized.zip",
+      "bytes": 301081691
+    },
+    {
+      "path": "source/多元积分完整题库（含答案）(2026-09-30-12-28-06).marginnotes",
+      "bytes": 175030272
+    },
+    {
+      "path": "source/多元积分完整题库（含答案）(2026-09-30-12-28-06).marginpkg",
+      "bytes": 153224759
+    }
+  ],
+  "scope": "Common token/password patterns in text and ZIP text entries; not a complete privacy assessment of binary databases."
+}

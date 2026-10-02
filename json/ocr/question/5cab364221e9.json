@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "5cab364221e9",
+  "item_id": "5cab364221e9",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "函数 $f(x,y)=x^2+2y^2$ 在点 $(0,1)$ 处的最大方向导数为 $\\underline{\\hspace{4em}}$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/5cab364221e9-01.png",
+      "latex": "函数 $f(x,y)=x^2+2y^2$ 在点 $(0,1)$ 处的最大方向导数为 $\\underline{\\hspace{4em}}$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 为“函数(x,y)=x+2y2在点(0,1)处的最大方向导数为”，与图片不符；图片中函数为 $f(x,y)=x^2+2y^2$。"
+}

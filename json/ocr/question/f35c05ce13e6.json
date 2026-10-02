@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "f35c05ce13e6",
+  "item_id": "f35c05ce13e6",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "过点 \\(M(1,2,-1)\\) 且与直线 \\[\\begin{cases} x=-t+2 \\\\ y=3t-4 \\\\ z=t-1 \\end{cases}\\] 垂直的平面方程是 \\underline{\\hspace{4em}}",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f35c05ce13e6-01.png",
+      "latex": "过点 \\(M(1,2,-1)\\) 且与直线 \\[\\begin{cases} x=-t+2 \\\\ y=3t-4 \\\\ z=t-1 \\end{cases}\\] 垂直的平面方程是 \\underline{\\hspace{4em}}"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 x=-+2 与 z-t-1 与图片不一致，已按图片转写为 x=-t+2、z=t-1。"
+}

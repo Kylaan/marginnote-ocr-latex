@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "49dad7045109",
+  "item_id": "49dad7045109",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设曲面 $S:z=\\sqrt{R^2-x^2-y^2}\\,(R>0)$，取下侧，计算 $I=\\iint_S \\dfrac{Rx\\,dy dz+(R+z)^2\\,dx dy}{\\sqrt{x^2+y^2+z^2}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/49dad7045109-01.png",
+      "latex": "设曲面 $S:z=\\sqrt{R^2-x^2-y^2}\\,(R>0)$，取下侧，计算 $I=\\iint_S \\dfrac{Rx\\,dy dz+(R+z)^2\\,dx dy}{\\sqrt{x^2+y^2+z^2}}$。"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [],
+  "notes": ""
+}

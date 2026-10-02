@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "qid": "4ed3597e1bf4",
+  "item_id": "4ed3597e1bf4",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(1) 设向量 $a=(1,2,1),b=(-1,0,2),c=(0,k,-3)$ 共面，则 $k=(\\quad)$．",
+  "options": [
+    {
+      "label": "A",
+      "latex": "1"
+    },
+    {
+      "label": "B",
+      "latex": "2"
+    },
+    {
+      "label": "C",
+      "latex": "-1"
+    },
+    {
+      "label": "D",
+      "latex": "-2"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/4ed3597e1bf4-01.png",
+      "latex": "(1) 设向量 $a=(1,2,1),b=(-1,0,2),c=(0,k,-3)$ 共面，则 $k=(\\quad)$．\n\nA. 1 \\qquad B. 2 \\qquad C. -1 \\qquad D. -2"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

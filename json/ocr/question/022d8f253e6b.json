@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "022d8f253e6b",
+  "item_id": "022d8f253e6b",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "（14）设 $\\Sigma$ 为空间区域 $\\{(x,y,z)\\mid x^2+4y^2\\leqslant 4,0\\leqslant z\\leqslant 2\\}$ 表面的外侧，则曲面积分\n\\[\n\\iint\\limits_{\\Sigma} x^2\\,dy\\,dz+y^2\\,dz\\,dx+z\\,dx\\,dy=\\underline{\\hspace{4em}}\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/022d8f253e6b-01.png",
+      "latex": "（14）设 $\\Sigma$ 为空间区域 $\\{(x,y,z)\\mid x^2+4y^2\\leqslant 4,0\\leqslant z\\leqslant 2\\}$ 表面的外侧，则曲面积分\n\\[\n\\iint\\limits_{\\Sigma} x^2\\,dy\\,dz+y^2\\,dz\\,dx+z\\,dx\\,dy=\\underline{\\hspace{4em}}\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容冲突，已以图片为准。"
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "2df6a20c3fe0",
+  "item_id": "2df6a20c3fe0",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "（1）设直线 $l:\\begin{cases}x+y+b=0,\\\\ x+ay-z-3=0\\end{cases}$ 在平面 $\\Pi$ 上，而平面 $\\Pi$ 与曲面 $z=x^2+y^2$ 相切于点 $(1,-2,5)$，求 $a,b$ 的值",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/2df6a20c3fe0-01.png",
+      "latex": "（1）设直线 $l:\\begin{cases}x+y+b=0,\\\\ x+ay-z-3=0\\end{cases}$ 在平面 $\\Pi$ 上，而平面 $\\Pi$ 与曲面 $z=x^2+y^2$ 相切于点 $(1,-2,5)$，求 $a,b$ 的值"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 与图片内容明显不一致，已按图片转写。"
+}

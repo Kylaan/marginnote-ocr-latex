@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "44925a4f17cc",
+  "item_id": "44925a4f17cc",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "5. 已知曲面 $z=f(x,y)$ 由方程 $z-x\\ln(1+z^2)+e^y=0$ 所确定，则该曲面在点 $(0,0,-1)$ 处的切平面方程为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/44925a4f17cc-01.png",
+      "latex": "5. 已知曲面 $z=f(x,y)$ 由方程 $z-x\\ln(1+z^2)+e^y=0$ 所确定，则该曲面在点 $(0,0,-1)$ 处的切平面方程为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中的公式缺少括号和指数符号，已按图片转写。"
+}

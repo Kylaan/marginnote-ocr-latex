@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "23cbf8852eda",
+  "item_id": "23cbf8852eda",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "设 $\\Sigma: x^2+y^2+z^2=2y$，计算\n\\[\nI=\\oiint_{\\Sigma}(x^2+2y^2+3z^2)\\,dS.\n\\]",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/23cbf8852eda-01.png",
+      "latex": "设 $\\Sigma: x^2+y^2+z^2=2y$，计算\n\\[\nI=\\oiint_{\\Sigma}(x^2+2y^2+3z^2)\\,dS.\n\\]"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

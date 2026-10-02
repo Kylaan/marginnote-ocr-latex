@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "83094a7266c0",
+  "item_id": "83094a7266c0",
+  "status": "ok",
+  "question_type": "solution",
+  "latex": "（3）求 \\(\\iiint_{\\Omega}(x^2+y^2+z)\\mathrm{d}v\\)，其中 \\(\\Omega\\) 是由曲线 \\(\\begin{cases} y^2=2z,\\\\ x=0 \\end{cases}\\) 绕 \\(z\\) 轴旋转一周而成的曲面与平面 \\(z=4\\) 所围成的立体.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/83094a7266c0-01.png",
+      "latex": "（3）求 \\(\\iiint_{\\Omega}(x^2+y^2+z)\\mathrm{d}v\\)，其中 \\(\\Omega\\) 是由曲线 \\(\\begin{cases} y^2=2z,\\\\ x=0 \\end{cases}\\) 绕 \\(z\\) 轴旋转一周而成的曲面与平面 \\(z=4\\) 所围成的立体."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": ""
+}

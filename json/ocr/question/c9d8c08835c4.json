@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "c9d8c08835c4",
+  "item_id": "c9d8c08835c4",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "函数 $f(x,y)=2x^2+y^2$ 在点 $(0,1)$ 处的最大方向导数为 $\\underline{\\hspace{4em}}$.",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c9d8c08835c4-01.png",
+      "latex": "函数 $f(x,y)=2x^2+y^2$ 在点 $(0,1)$ 处的最大方向导数为 $\\underline{\\hspace{4em}}$."
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

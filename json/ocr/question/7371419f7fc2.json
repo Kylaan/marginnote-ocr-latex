@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "7371419f7fc2",
+  "item_id": "7371419f7fc2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设曲线 $L$ 的方程为 $2x=y^2(0\\leqslant y\\leqslant 1)$，则 $\\int_L y\\,ds=\\underline{\\hspace{4em}}.$",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/7371419f7fc2-01.png",
+      "latex": "设曲线 $L$ 的方程为 $2x=y^2(0\\leqslant y\\leqslant 1)$，则 $\\int_L y\\,ds=\\underline{\\hspace{4em}}.$"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [],
+  "notes": ""
+}

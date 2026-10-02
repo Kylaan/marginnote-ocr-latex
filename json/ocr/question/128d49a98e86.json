@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "qid": "128d49a98e86",
+  "item_id": "128d49a98e86",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $\\Sigma=\\{(x,y,z)\\mid x^2+y^2+z^2=1,x\\geqslant 0,y\\geqslant 0\\}$，指向右侧，则 $\\iint_{\\Sigma} xyz\\,dx\\,dy=\\underline{\\hspace{4em}}$。",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/128d49a98e86-01.png",
+      "latex": "设 $\\Sigma=\\{(x,y,z)\\mid x^2+y^2+z^2=1,x\\geqslant 0,y\\geqslant 0\\}$，指向右侧，则 $\\iint_{\\Sigma} xyz\\,dx\\,dy=\\underline{\\hspace{4em}}$。"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [],
+  "notes": ""
+}

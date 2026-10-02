@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "qid": "acb82b9826e2",
+  "item_id": "acb82b9826e2",
+  "status": "ok",
+  "question_type": "fill_blank",
+  "latex": "设 $V$ 是由 $z=\\sqrt{x^2+y^2}$，$z=1$，$z=2$ 所围成的立体，计算 $I=\\iiint_V \\frac{e^z}{\\sqrt{x^2+y^2}}\\,\\mathrm{d}x\\,\\mathrm{d}y\\,\\mathrm{d}z=\\underline{\\hspace{4em}}$．",
+  "options": [],
+  "image_transcriptions": [
+    {
+      "image": "img/question/acb82b9826e2-01.png",
+      "latex": "设 $V$ 是由 $z=\\sqrt{x^2+y^2}$，$z=1$，$z=2$ 所围成的立体，计算 $I=\\iiint_V \\frac{e^z}{\\sqrt{x^2+y^2}}\\,\\mathrm{d}x\\,\\mathrm{d}y\\,\\mathrm{d}z=\\underline{\\hspace{4em}}$．"
+    }
+  ],
+  "confidence": 1.0,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中缺少根号和分母，已以图片为准转写。"
+}

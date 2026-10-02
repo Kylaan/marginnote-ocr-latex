@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "719ec974cb02",
+  "item_id": "719ec974cb02",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(2) 设 $L$ 为闭曲线 $|x|+|y|=1$，取逆时针方向，则 $I=\\oint_{L}\\frac{ax\\mathrm{d}y-by\\mathrm{d}x}{|x|+|y|}=(\\quad)$.",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$8(a+b)$"
+    },
+    {
+      "label": "B",
+      "latex": "$2(a+b)$"
+    },
+    {
+      "label": "C",
+      "latex": "$8(a-b)$"
+    },
+    {
+      "label": "D",
+      "latex": "$2(a-b)$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/719ec974cb02-01.png",
+      "latex": "(2) 设 $L$ 为闭曲线 $|x|+|y|=1$，取逆时针方向，则 $I=\\oint_{L}\\frac{ax\\mathrm{d}y-by\\mathrm{d}x}{|x|+|y|}=(\\quad)$.\n\nA. $8(a+b)$\n\nB. $2(a+b)$\n\nC. $8(a-b)$\n\nD. $2(a-b)$"
+    }
+  ],
+  "confidence": 0.95,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中曲线写作 $x+y=1$ 且分母写作 $x+y$，图片为 $|x|+|y|=1$ 与分母 $|x|+|y|$，以图片为准。"
+}

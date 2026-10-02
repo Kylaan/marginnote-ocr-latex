@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "1631c4b596d2",
+  "item_id": "1631c4b596d2",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "353 下列曲线积分\n\\[\n①\\int_L \\frac{x\\,dy-y\\,dx}{x^2+y^2}. \\qquad ②\\int_L \\frac{x\\,dx+y\\,dy}{x^2+y^2}. \\qquad ③\\int_L \\frac{x\\,dx+y\\,dy}{\\sqrt{x^2+y^2}}. \\qquad ④\\int_L \\frac{x\\,dy+y\\,dx}{x^2+y^2}.\n\\]\n中，在平面 \\(D:x^2+y^2>0\\) 上与路径无关的有",
+  "options": [
+    {
+      "label": "A",
+      "latex": "1 个."
+    },
+    {
+      "label": "B",
+      "latex": "2 个."
+    },
+    {
+      "label": "C",
+      "latex": "3 个."
+    },
+    {
+      "label": "D",
+      "latex": "4 个."
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/1631c4b596d2-01.png",
+      "latex": "353 下列曲线积分\n\\[\n①\\int_L \\frac{x\\,dy-y\\,dx}{x^2+y^2}. \\qquad ②\\int_L \\frac{x\\,dx+y\\,dy}{x^2+y^2}. \\qquad ③\\int_L \\frac{x\\,dx+y\\,dy}{\\sqrt{x^2+y^2}}. \\qquad ④\\int_L \\frac{x\\,dy+y\\,dx}{x^2+y^2}.\n\\]\n中，在平面 \\(D:x^2+y^2>0\\) 上与路径无关的有\nA. 1 个. \\qquad B. 2 个. \\qquad C. 3 个. \\qquad D. 4 个."
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中第③项分母似为 x^2+y^2，而图片显示为 \\sqrt{x^2+y^2}；以图片为准。"
+}

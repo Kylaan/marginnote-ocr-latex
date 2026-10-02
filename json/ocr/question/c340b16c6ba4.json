@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "qid": "c340b16c6ba4",
+  "item_id": "c340b16c6ba4",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "(1) 设曲线 $L$ 为 $x^2+y^2=1$，取逆时针方向，$f(x,y)>0$，$f(x,-y)=f(x,y)$。$L_1$，$L_2$，$L_3$ 如图9所示 \\text{[见图]}，记 $I_1=\\int_{L_1}f(x,y)\\,dx$，$I_2=\\int_{L_2}f(x,y)\\,ds$，$I_3=\\int_{L_3}f(x,y)\\,dx$，则 ( ).",
+  "options": [
+    {
+      "label": "A",
+      "latex": "$I_1>I_2>I_3$"
+    },
+    {
+      "label": "B",
+      "latex": "$I_2>I_3>I_1$"
+    },
+    {
+      "label": "C",
+      "latex": "$I_3>I_2>I_1$"
+    },
+    {
+      "label": "D",
+      "latex": "$I_2>I_1>I_3$"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/c340b16c6ba4-01.png",
+      "latex": "(1) 设曲线 $L$ 为 $x^2+y^2=1$，取逆时针方向，$f(x,y)>0$，$f(x,-y)=f(x,y)$。$L_1$，$L_2$，$L_3$ 如图9所示 \\text{[见图]}，记 $I_1=\\int_{L_1}f(x,y)\\,dx$，$I_2=\\int_{L_2}f(x,y)\\,ds$，$I_3=\\int_{L_3}f(x,y)\\,dx$，则 ( ).\\nA. $I_1>I_2>I_3$\\quad B. $I_2>I_3>I_1$\\quad C. $I_3>I_2>I_1$\\quad D. $I_2>I_1>I_3$"
+    }
+  ],
+  "confidence": 0.98,
+  "flags": [
+    "contains_diagram",
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中 x2+ y2=1、积分号缺失等已按图片转写；图中 L1、L2、L3 的具体路径与箭头方向无法用文本完整表达，已用 [见图] 标记。"
+}

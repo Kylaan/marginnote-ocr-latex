@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "qid": "f78c16b34703",
+  "item_id": "f78c16b34703",
+  "status": "ok",
+  "question_type": "choice",
+  "latex": "8. 设可微函数 $f(u,v)$ 满足 $f(x-y,x+e^y)=x^2-y^2$，则 $f(u,v)$ 在点 $(1,2)$ 处的方向导数的最大值等于（  ）．",
+  "options": [
+    {
+      "label": "A",
+      "latex": "1"
+    },
+    {
+      "label": "B",
+      "latex": "\\sqrt{2}"
+    },
+    {
+      "label": "C",
+      "latex": "\\sqrt{3}"
+    },
+    {
+      "label": "D",
+      "latex": "2"
+    }
+  ],
+  "image_transcriptions": [
+    {
+      "image": "img/question/f78c16b34703-01.png",
+      "latex": "8. 设可微函数 $f(u,v)$ 满足 $f(x-y,x+e^y)=x^2-y^2$，则 $f(u,v)$ 在点 $(1,2)$ 处的方向导数的最大值等于（  ）． A. 1 B. $\\sqrt{2}$ C. $\\sqrt{3}$ D. 2"
+    }
+  ],
+  "confidence": 0.99,
+  "flags": [
+    "raw_text_conflict"
+  ],
+  "notes": "raw_text 中选项 B、C 缺少根号，按图片转写为 $\\sqrt{2}$、$\\sqrt{3}$。"
+}
